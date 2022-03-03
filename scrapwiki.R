@@ -37,7 +37,10 @@ sortLeJson<-function(date,idversionchoisie){
           gsub("mark = ","\'mark\' :",(
             gsub("long = ","\'long\' :",(
               gsub("lat = ","\'lat\' :",textesansbackslach)))))))))))))))
-  textesansbackslach<-gsub("(--[A-z\\s]+)","",textesansbackslach)
+ extesansbackslach<-gsub("(--[A-z\\s]+)","",textesansbackslach)
+  textesansbackslach<-gsub("lable_size","label_size",textesansbackslach)
+  textesansbackslach<-gsub("Oblast:","",textesansbackslach)
+  textesansbackslach<-gsub("Oblast","",textesansbackslach)
   jsoncars<-textesansbackslach%>%jsonlite::toJSON(pretty = TRUE)
   fileConn<-file(paste0("data/",date,"_",idversionchoisie,".json"))
   writeLines(jsoncars,fileConn)
