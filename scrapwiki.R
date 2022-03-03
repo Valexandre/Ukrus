@@ -38,11 +38,11 @@ sortLeJson<-function(date,idversionchoisie){
             gsub("long = ","\'long\' :",(
               gsub("lat = ","\'lat\' :",textesansbackslach)))))))))))))))
   jsoncars<-textesansbackslach%>%jsonlite::toJSON(pretty = TRUE)
-  fileConn<-file(paste0(date,"_",idversionchoisie,".json"))
+  fileConn<-file(paste0("data/",date,"_",idversionchoisie,".json"))
   writeLines(jsoncars,fileConn)
   close(fileConn)
   
-  aws.s3::put_object(file=paste0(date,"_",idversionchoisie,".json"), bucket = "dataviz-r-files/ukrus")
+  aws.s3::put_object(file=paste0("data/",date,"_",idversionchoisie,".json"), bucket = "dataviz-r-files/ukrus")
 }
 
 
