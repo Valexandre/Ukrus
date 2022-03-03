@@ -1,0 +1,47 @@
+
+# Hourly scraping
+name: script_base
+
+# Controls when the action will run.
+#on:
+#  schedule:
+#    - cron:  '55 6 * * *'
+on:
+  push:
+    branches:
+      - main
+
+jobs: 
+  autoscrape:
+    # The type of runner that the job will run on
+    runs-on: macos-latest
+    env:
+      AKI: ${{ secrets.AKI }}
+      SAK: ${{ secrets.SAK }}
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }} 
+    # Load repo and install R
+    steps:
+    - uses: actions/checkout@master
+    - uses: r-lib/actions/setup-r@master
+
+     # Set-up R
+    - name: Install packages
+      run: |
+        install.packages(c"tidyverse", "aws3","rvest","jsonlite"),type="binary")
+      shell: Rscript {0}
+
+    # Run R script
+    - name: script_base
+      run: Rscript scrapwiki.R
+      
+ # Add new files in data folder, commit along with other modified files, push
+    - name: Commit files
+      run: |
+        git config --local user.name actions-user
+        git config --local user.email "actions@github.com"
+        git add data/*
+        git commit -am "GH ACTION OK $(date)"
+        git push origin main
+      env:
+        REPO_KEY: ${{secrets.GITHUB_TOKEN}}
+        username: github-actions
