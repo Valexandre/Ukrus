@@ -37,6 +37,7 @@ sortLeJson<-function(date,idversionchoisie){
           gsub("mark = ","\'mark\' :",(
             gsub("long = ","\'long\' :",(
               gsub("lat = ","\'lat\' :",textesansbackslach)))))))))))))))
+  textesansbackslach<-gsub("--(.*) \\{","\\{",textesansbackslach)
   jsoncars<-textesansbackslach%>%jsonlite::toJSON(pretty = TRUE)
   fileConn<-file(paste0("data/",date,"_",idversionchoisie,".json"))
   writeLines(jsoncars,fileConn)
