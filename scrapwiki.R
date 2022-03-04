@@ -37,7 +37,7 @@ sortLeJson<-function(date,idversionchoisie){
           gsub("mark = ","\'mark\' :",(
             gsub("long = ","\'long\' :",(
               gsub("lat = ","\'lat\' :",textesansbackslach)))))))))))))))
- extesansbackslach<-gsub("(--[A-z\\s]+)","",textesansbackslach)
+ textesansbackslach<-gsub("(--[A-z\\s]+)","",textesansbackslach)
   textesansbackslach<-gsub("lable_size","label_size",textesansbackslach)
   textesansbackslach<-gsub("Oblast:","",textesansbackslach)
   textesansbackslach<-gsub("Oblast","",textesansbackslach)
