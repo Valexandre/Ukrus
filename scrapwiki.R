@@ -42,6 +42,7 @@ sortLeJson<-function(date,idversionchoisie){
   textesansbackslach<-gsub("lable_size","label_size",textesansbackslach)
   textesansbackslach<-gsub("Oblast:","",textesansbackslach)
   textesansbackslach<-gsub("Oblast","",textesansbackslach)
+  textesansbackslach<-gsub("\",\\s\\},","\"\\},",textesansbackslach)
   jsoncars<-textesansbackslach%>%jsonlite::toJSON(pretty = TRUE)
   fileConn<-file(paste0("data/",date,"_",idversionchoisie,".json"))
   writeLines(jsoncars,fileConn)
