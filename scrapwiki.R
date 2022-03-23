@@ -93,12 +93,12 @@ sortLeJson<-function(date,idversionchoisie){
   
   Tout<-rbind(DejaPresents%>%select(id,label,marksize,visible,z,lat,lon),PointsAEcrire%>%select(id,label,marksize,visible,z,lat,lon))
   
-  #write.csv(Tout,"csv_ukr/locations.csv",row.names=F)
+  write.csv(Tout,"csv_ukr/locations.csv",row.names=F)
   
   # googlesheets4::sheet_append(PointsAEcrire%>%select(id,label,marksize,visible,z,lat,lon),
   #                            ss = sheetid,sheet=touslieux)
-    Test<-tibble(id="0",label="0",marksize=0,visible="FALSE",z=0,lat=10,lon=1)
-  googlesheets4::sheet_append(Test%>%select(id,label,marksize,visible,z,lat,lon),
+  #  Test<-tibble(id="0",label="0",marksize=0,visible="FALSE",z=0,lat=10,lon=1)
+  #googlesheets4::sheet_append(Test%>%select(id,label,marksize,visible,z,lat,lon),
                               ss = sheetid,sheet=touslieux)
   ###########
   #Pour savoir quelles couleurs indiquer aux points
@@ -145,13 +145,13 @@ sortLeJson<-function(date,idversionchoisie){
   ToutesJournees<-rbind(ToutesJournees%>%select(id,color,date,label),
                         AjoutDuJour%>%select(id,color,date,label))%>%
     arrange(label,date)
-  #write.csv(Tout,"csv_ukr/points.csv",row.names=F) 
+  write.csv(Tout,"csv_ukr/points.csv",row.names=F) 
   
-  #jsoncars<-textesansbackslach%>%jsonlite::toJSON(pretty = TRUE)
-  #fileConn<-file(paste0("data/",date,"_",idversionchoisie,".json"))
-  #writeLines(jsoncars,fileConn)
-  #close(fileConn)
-  #aws.s3::put_object(file=paste0("data/",date,"_",idversionchoisie,".json"), bucket = "dataviz-r-files/ukrus")
+  jsoncars<-textesansbackslach%>%jsonlite::toJSON(pretty = TRUE)
+  fileConn<-file(paste0("data/",date,"_",idversionchoisie,".json"))
+  writeLines(jsoncars,fileConn)
+  close(fileConn)
+  aws.s3::put_object(file=paste0("data/",date,"_",idversionchoisie,".json"), bucket = "dataviz-r-files/ukrus")
 }
 
 
