@@ -18,6 +18,8 @@ jobs:
     env:
       AKI: ${{ secrets.AKI }}
       SAK: ${{ secrets.SAK }}
+      CLIENT_ID: ${{ secrets.CLIENT_ID }}
+      CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }} 
     # Load repo and install R
     steps:
