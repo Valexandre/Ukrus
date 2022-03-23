@@ -3,13 +3,13 @@
 name: script_base
 
 # Controls when the action will run.
-#on:
-#  schedule:
-#    - cron:  '00 07 * * *'
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron:  '00 07 * * *'
+#on:
+#  push:
+#    branches:
+#      - main
 
 jobs: 
   autoscrape:
@@ -27,12 +27,12 @@ jobs:
      # Set-up R
     - name: Install packages
       run: |
-        install.packages(c("tidyverse","rvest","jsonlite","googlesheets4"),type="binary")
+        install.packages(c("tidyverse","aws.3", "rvest","jsonlite","googlesheets4"),type="binary")
       shell: Rscript {0}
 
     # Run R script
     - name: script_base
-      run: Rscript scrap_v2.R
+      run: Rscript scrapwiki.R
       
  # Add new files in data folder, commit along with other modified files, push
     - name: Commit files
