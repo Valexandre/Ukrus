@@ -32,7 +32,7 @@ jobs:
 
     # Run R script
     - name: script_base
-      run: Rscript scrapv2.R
+      run: Rscript scrap_v2.R
       
  # Add new files in data folder, commit along with other modified files, push
     - name: Commit files
