@@ -2,7 +2,19 @@ library(tidyverse)
 library(rvest)
 library(jsonlite)
 library(aws.s3)
+library(googlesheets4)
 
+google_app <- httr::oauth_app(
+    "recuperation donnees ecriture G Spreadsheet",
+    key = Sys.getenv("CLIENT_ID"),
+    secret = Sys.getenv("CLIENT_SECRET")
+  )
+  google_key <- gs4_api_key()
+  gs4_auth_configure(app = google_app, api_key = google_key)
+
+  # confirm the changes
+  gs4_oauth_app()
+  gs4_api_key()
 AWSDF<-data.frame(
   stringsAsFactors = FALSE,
   Access.key.ID =  Sys.getenv("AKI"),
