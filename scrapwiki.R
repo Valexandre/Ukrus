@@ -4,6 +4,7 @@ library(jsonlite)
 library(aws.s3)
 library(googlesheets4)
 
+`%!in%`<-function(x, y) !(x %in% y)
 google_app <- httr::oauth_app(
     "recuperation donnees ecriture G Spreadsheet",
     key = Sys.getenv("CLIENT_ID"),
