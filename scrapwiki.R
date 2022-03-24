@@ -33,23 +33,7 @@ sheetid<-Sys.getenv("SPREADSHEETID")
 touslieux<-"locations"
 couleurs<-"points"
 
-gs4_oauth_app()
-gs4_api_key()
-DejaPresents<-read_sheet(ss = sheetid,sheet=touslieux)
-print(DejaPresents[1:3,])
 sortLeJson<-function(date,idversionchoisie){
-
-  google_app <- httr::oauth_app(
-    "Atelier",
-    key = Sys.getenv("CLIENT_ID"),
-    secret = Sys.getenv("CLIENT_SECRET")
-  )
-  google_key <-Sys.getenv("API_KEY")
-  gs4_auth_configure(app = google_app, api_key = google_key)
-  
-  # confirm the changes
-  gs4_oauth_app()
-  gs4_api_key()
   urllast<-paste0("https://en.wikipedia.org/w/index.php?title=Module:Russo-Ukrainian_War_detailed_map&oldid=",idversionchoisie)
   pagehtml<-read_html(urllast)
   pagehtmltxt<-pagehtml%>%html_text()
@@ -98,18 +82,17 @@ sortLeJson<-function(date,idversionchoisie){
     
   #Quels Points sont déjà présents dans la feuille ?
   DejaPresents<-read_sheet(ss = sheetid,sheet=touslieux)
-  print(paste0("premiere lecture:",DejaPresents[1,]))
   PointsAEcrire<-RAWDATA%>%group_by(id)%>%
     filter(marksize==min(marksize))%>%
     filter(id%!in%DejaPresents$id)
-  print(paste0("Points a ecrire:",PointsAEcrire[1,]))
+  
     
   Tout<-rbind(DejaPresents%>%select(id,label,marksize,visible,z,lat,lon),PointsAEcrire%>%select(id,label,marksize,visible,z,lat,lon))
   
   write.csv(Tout,"csv_ukr/locations.csv",row.names=F)
   
-  googlesheets4::sheet_append(PointsAEcrire%>%select(id,label,marksize,visible,z,lat,lon),
-                              ss = sheetid,sheet=touslieux)
+  #googlesheets4::sheet_append(PointsAEcrire%>%select(id,label,marksize,visible,z,lat,lon),
+  #                            ss = sheetid,sheet=touslieux)
   ##########
   #Pour savoir quelles couleurs indiquer aux points
   #Si deux points ont la même id, on met en jaune et on garde le marksize le plus petit.
@@ -145,21 +128,24 @@ sortLeJson<-function(date,idversionchoisie){
            date=date)%>%dplyr::select(id,color,date)
   AjoutDuJour<-rbind(ListeBleu,ListeConflits,ListeDesDoublePoints,ListeRouge,ListeTreve,Kiev)
   AjoutDuJour<-AjoutDuJour%>%left_join(Tout%>%select(id,label))
-print(paste0("Ajouts du jour:",AjoutDuJour[1,]))
-  googlesheets4::sheet_append(AjoutDuJour%>%select(id,color,date,label),
-                               ss = sheetid,sheet=couleurs)
+    
+  #googlesheets4::sheet_append(AjoutDuJour%>%select(id,color,date,label),
+  #                             ss = sheetid,sheet=couleurs)
   ToutesJournees<-read_sheet(ss = sheetid,sheet=couleurs)
-  googlesheets4::write_sheet(ToutesJournees%>%select(id,color,date,label)%>%
-                               arrange(label,date),
-                              ss = sheetid,sheet=couleurs)
+  #googlesheets4::write_sheet(ToutesJournees%>%select(id,color,date,label)%>%
+  #                             arrange(label,date),
+  #                            ss = sheetid,sheet=couleurs)
   
-  write.csv(ToutesJournees%>%select(id,color,date,label)%>%
+  write.csv(rbind(ToutesJournees%>%select(id,color,date,label),
+                  AjoutDuJour%>%select(id,color,date,label))  %>%
                                arrange(label,date),"csv_ukr/points.csv",row.names=F) 
   #jsoncars<-textesansbackslach%>%jsonlite::toJSON(pretty = TRUE)
   #fileConn<-file(paste0("data/",date,"_",idversionchoisie,".json"))
   #writeLines(jsoncars,fileConn)
   #close(fileConn)
   #aws.s3::put_object(file=paste0("data/",date,"_",idversionchoisie,".json"), bucket = "dataviz-r-files/ukrus")
+    aws.s3::put_object(file="csv_ukr/points.csv", bucket = "dataviz-r-files/ukrus")
+    aws.s3::put_object(file="csv_ukr/locations.csv", bucket = "dataviz-r-files/ukrus")
 }
 
 
