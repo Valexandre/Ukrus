@@ -86,7 +86,7 @@ sortLeJson<-function(date,idversionchoisie){
   #DejaPresents<-read_csv("csv_ukr/locations.csv", col_types = cols(lat = col_character(), 
   #                                                lon = col_character()))
   DejaPresents<-read_sheet(ss = sheetid,sheet=touslieux)
-  print(DejaPresents[1:3,]
+  print(DejaPresents[1:3,])
   PointsAEcrire<-RAWDATA%>%group_by(id)%>%
     filter(marksize==min(marksize))%>%
     filter(id%!in%DejaPresents$id)
