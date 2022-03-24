@@ -85,23 +85,18 @@ sortLeJson<-function(date,idversionchoisie){
            id=paste0(lon,"_",lat))
     
   #Quels Points sont déjà présents dans la feuille ?
-  #DejaPresents<-read_csv("csv_ukr/locations.csv", col_types = cols(lat = col_character(), 
-  #                                                lon = col_character()))
   DejaPresents<-read_sheet(ss = sheetid,sheet=touslieux)
-  print(DejaPresents[1:3,])
+  
   PointsAEcrire<-RAWDATA%>%group_by(id)%>%
     filter(marksize==min(marksize))%>%
     filter(id%!in%DejaPresents$id)
   
   Tout<-rbind(DejaPresents%>%select(id,label,marksize,visible,z,lat,lon),PointsAEcrire%>%select(id,label,marksize,visible,z,lat,lon))
   
-  #write.csv(Tout,"csv_ukr/locations.csv",row.names=F)
+  write.csv(Tout,"csv_ukr/locations.csv",row.names=F)
   
-  # googlesheets4::sheet_append(PointsAEcrire%>%select(id,label,marksize,visible,z,lat,lon),
-  #                            ss = sheetid,sheet=touslieux)
-  #  Test<-tibble(id="0",label="0",marksize=0,visible="FALSE",z=0,lat=10,lon=1)
-  #googlesheets4::sheet_append(Test%>%select(id,label,marksize,visible,z,lat,lon),
- #                             ss = sheetid,sheet=touslieux)
+  googlesheets4::sheet_append(PointsAEcrire%>%select(id,label,marksize,visible,z,lat,lon),
+                              ss = sheetid,sheet=touslieux)
   ##########
   #Pour savoir quelles couleurs indiquer aux points
   #Si deux points ont la même id, on met en jaune et on garde le marksize le plus petit.
@@ -137,18 +132,15 @@ sortLeJson<-function(date,idversionchoisie){
            date=date)%>%dplyr::select(id,color,date)
   AjoutDuJour<-rbind(ListeBleu,ListeConflits,ListeDesDoublePoints,ListeRouge,ListeTreve,Kiev)
   AjoutDuJour<-AjoutDuJour%>%left_join(Tout%>%select(id,label))
-  # googlesheets4::sheet_append(AjoutDuJour%>%select(id,color,date,label),
-  #                             ss = sheetid,sheet=couleurs)
-  #ToutesJournees<-read_sheet(ss = sheetid,sheet=couleurs)
-  #googlesheets4::write_sheet(ToutesJournees%>%select(id,color,date,label)%>%
-  #                             arrange(label,date),
-  #                            ss = sheetid,sheet=couleurs)
-  ToutesJournees<-read_csv("csv_ukr/points.csv", col_types = cols(date = col_character()))
-  ToutesJournees<-rbind(ToutesJournees%>%select(id,color,date,label),
-                        AjoutDuJour%>%select(id,color,date,label))%>%
-    arrange(label,date)
-  #write.csv(Tout,"csv_ukr/points.csv",row.names=F) 
+  googlesheets4::sheet_append(AjoutDuJour%>%select(id,color,date,label),
+                               ss = sheetid,sheet=couleurs)
+  ToutesJournees<-read_sheet(ss = sheetid,sheet=couleurs)
+  googlesheets4::write_sheet(ToutesJournees%>%select(id,color,date,label)%>%
+                               arrange(label,date),
+                              ss = sheetid,sheet=couleurs)
   
+  write.csv(ToutesJournees%>%select(id,color,date,label)%>%
+                               arrange(label,date),"csv_ukr/points.csv",row.names=F) 
   #jsoncars<-textesansbackslach%>%jsonlite::toJSON(pretty = TRUE)
   #fileConn<-file(paste0("data/",date,"_",idversionchoisie,".json"))
   #writeLines(jsoncars,fileConn)
@@ -157,4 +149,4 @@ sortLeJson<-function(date,idversionchoisie){
 }
 
 
-#sortLeJson(date,idversionchoisie)
+sortLeJson(date,idversionchoisie)
