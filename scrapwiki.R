@@ -98,7 +98,7 @@ sortLeJson<-function(date,idversionchoisie){
   #  Test<-tibble(id="0",label="0",marksize=0,visible="FALSE",z=0,lat=10,lon=1)
   #googlesheets4::sheet_append(Test%>%select(id,label,marksize,visible,z,lat,lon),
  #                             ss = sheetid,sheet=touslieux)
-  ###########
+  ##########
   #Pour savoir quelles couleurs indiquer aux points
   #Si deux points ont la même id, on met en jaune et on garde le marksize le plus petit.
   ListeDesDoublePoints<-RAWDATA%>%group_by(id)%>%mutate(Nombre=n(),row=row_number())%>%
