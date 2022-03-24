@@ -33,6 +33,10 @@ sheetid<-Sys.getenv("SPREADSHEETID")
 touslieux<-"locations"
 couleurs<-"points"
 
+gs4_oauth_app()
+gs4_api_key()
+DejaPresents<-read_sheet(ss = sheetid,sheet=touslieux)
+print(DejaPresents[1:3,])
 sortLeJson<-function(date,idversionchoisie){
   urllast<-paste0("https://en.wikipedia.org/w/index.php?title=Module:Russo-Ukrainian_War_detailed_map&oldid=",idversionchoisie)
   pagehtml<-read_html(urllast)
@@ -153,4 +157,4 @@ sortLeJson<-function(date,idversionchoisie){
 }
 
 
-sortLeJson(date,idversionchoisie)
+#sortLeJson(date,idversionchoisie)
