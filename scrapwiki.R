@@ -38,6 +38,18 @@ gs4_api_key()
 DejaPresents<-read_sheet(ss = sheetid,sheet=touslieux)
 print(DejaPresents[1:3,])
 sortLeJson<-function(date,idversionchoisie){
+
+  google_app <- httr::oauth_app(
+    "Atelier",
+    key = Sys.getenv("CLIENT_ID"),
+    secret = Sys.getenv("CLIENT_SECRET")
+  )
+  google_key <-Sys.getenv("API_KEY")
+  gs4_auth_configure(app = google_app, api_key = google_key)
+  
+  # confirm the changes
+  gs4_oauth_app()
+  gs4_api_key()
   urllast<-paste0("https://en.wikipedia.org/w/index.php?title=Module:Russo-Ukrainian_War_detailed_map&oldid=",idversionchoisie)
   pagehtml<-read_html(urllast)
   pagehtmltxt<-pagehtml%>%html_text()
