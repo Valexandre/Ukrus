@@ -86,11 +86,12 @@ sortLeJson<-function(date,idversionchoisie){
     
   #Quels Points sont déjà présents dans la feuille ?
   DejaPresents<-read_sheet(ss = sheetid,sheet=touslieux)
-  
+  print(paste0("premiere lecture:",DejaPresents[1,]))
   PointsAEcrire<-RAWDATA%>%group_by(id)%>%
     filter(marksize==min(marksize))%>%
     filter(id%!in%DejaPresents$id)
-  
+  print(paste0("Points a ecrire:",PointsAEcrire[1,]))
+    
   Tout<-rbind(DejaPresents%>%select(id,label,marksize,visible,z,lat,lon),PointsAEcrire%>%select(id,label,marksize,visible,z,lat,lon))
   
   write.csv(Tout,"csv_ukr/locations.csv",row.names=F)
@@ -132,6 +133,7 @@ sortLeJson<-function(date,idversionchoisie){
            date=date)%>%dplyr::select(id,color,date)
   AjoutDuJour<-rbind(ListeBleu,ListeConflits,ListeDesDoublePoints,ListeRouge,ListeTreve,Kiev)
   AjoutDuJour<-AjoutDuJour%>%left_join(Tout%>%select(id,label))
+print(paste0("Ajouts du jour:",AjoutDuJour[1,]))
   googlesheets4::sheet_append(AjoutDuJour%>%select(id,color,date,label),
                                ss = sheetid,sheet=couleurs)
   ToutesJournees<-read_sheet(ss = sheetid,sheet=couleurs)
