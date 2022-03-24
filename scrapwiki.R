@@ -7,7 +7,7 @@ library(googlesheets4)
 `%!in%`<-function(x, y) !(x %in% y)
 gs4_deauth()
 google_app <- httr::oauth_app(
-    "recuperation-donnees-ecriture-g-spreadsheet",
+    "Atelier",
     key = Sys.getenv("CLIENT_ID"),
     secret = Sys.getenv("CLIENT_SECRET")
   )
