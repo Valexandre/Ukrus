@@ -10,12 +10,9 @@ google_app <- httr::oauth_app(
     key = Sys.getenv("CLIENT_ID"),
     secret = Sys.getenv("CLIENT_SECRET")
   )
-  google_key <- gs4_api_key()
+  google_key <- Sys.getenv("API_KEY")
   gs4_auth_configure(app = google_app, api_key = google_key)
 
-  # confirm the changes
-  gs4_oauth_app()
-  gs4_api_key()
 AWSDF<-data.frame(
   stringsAsFactors = FALSE,
   Access.key.ID =  Sys.getenv("AKI"),
