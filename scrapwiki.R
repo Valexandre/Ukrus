@@ -14,14 +14,6 @@ google_app <- httr::oauth_app(
   google_key <- Sys.getenv("API_KEY")
   gs4_auth_configure(app = google_app, api_key = google_key)
 
-AWSDF<-data.frame(
-  stringsAsFactors = FALSE,
-  Access.key.ID =  Sys.getenv("AKI"),
-  Secret.access.key = Sys.getenv("SAK")
-)
-Sys.setenv("AWS_ACCESS_KEY_ID" = AWSDF$Access.key.ID[1],
-           "AWS_SECRET_ACCESS_KEY" = AWSDF$Secret.access.key[1],
-           "AWS_DEFAULT_REGION" = "eu-west-1")
 
 date<-gsub("-","",Sys.Date())
 page<-"https://en.wikipedia.org/w/index.php?title=Module:Russo-Ukrainian_War_detailed_map&action=history"
@@ -144,8 +136,6 @@ sortLeJson<-function(date,idversionchoisie){
   #writeLines(jsoncars,fileConn)
   #close(fileConn)
   #aws.s3::put_object(file=paste0("data/",date,"_",idversionchoisie,".json"), bucket = "dataviz-r-files/ukrus")
-    aws.s3::put_object(file="csv_ukr/points.csv", bucket = "dataviz-r-files/ukrus")
-    aws.s3::put_object(file="csv_ukr/locations.csv", bucket = "dataviz-r-files/ukrus")
 }
 
 
