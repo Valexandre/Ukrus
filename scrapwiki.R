@@ -135,7 +135,7 @@ sortLeJson<-function(date,idversionchoisie){
               arrange(label,date)%>%
               mutate(id=case_when(label=="[[Kyiv]]" ~"30.523_50.450",
                                   TRUE~id))%>%
-              filter(id!="30.530_50.345"),"csv_ukr/points.csv",row.names=F) 
+              filter(id!="30.530_50.345")%>%distinct(.keep_all=T),"csv_ukr/points.csv",row.names=F) 
 
 }
 
