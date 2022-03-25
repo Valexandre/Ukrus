@@ -74,6 +74,7 @@ sortLeJson<-function(date,idversionchoisie){
     
   #Quels Points sont déjà présents dans la feuille ?
   DejaPresents<-read_sheet(ss = sheetid,sheet=touslieux)
+   DejaPresents<-DejaPresents%>%distinct(.keep_all=T)
   PointsAEcrire<-RAWDATA%>%group_by(id)%>%
     filter(marksize==min(marksize))%>%
     filter(id%!in%DejaPresents$id)
