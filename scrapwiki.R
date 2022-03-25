@@ -13,7 +13,7 @@ google_app <- httr::oauth_app(
   )
   google_key <- Sys.getenv("API_KEY")
   gs4_auth_configure(app = google_app, api_key = google_key)
-
+# on refait tourner
 
 date<-gsub("-","",Sys.Date())
 page<-"https://en.wikipedia.org/w/index.php?title=Module:Russo-Ukrainian_War_detailed_map&action=history"
