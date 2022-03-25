@@ -102,7 +102,7 @@ sortLeJson<-function(date,idversionchoisie){
            date=date)%>%dplyr::select(id,color,date)
   Kiev<-RAWDATA%>%
     filter(mark=="Battle of Kyiv (2022) template.svg")%>%
-    mutate(color="#FACC34",
+    mutate(color="#1ea0e6",
            date=date)%>%dplyr::select(id,color,date)
   #S'il y a blue, on met en bleu,
   ListeBleu<-RAWDATA%>%filter(grepl("blue",mark))%>%
