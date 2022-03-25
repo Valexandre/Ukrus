@@ -30,8 +30,8 @@ listedeshref<-pagehtml%>%html_nodes("a")%>%html_attr("href")
 justebonhref<-listedeshref[grepl("detailed_map&oldid=",listedeshref)][1]
 idversionchoisie<-substr(justebonhref,66,nchar(justebonhref))
 sheetid<-Sys.getenv("SPREADSHEETID")
-touslieux<-"locations"
-couleurs<-"points"
+touslieux<-"locations_from_github"
+couleurs<-"points_from_github"
 
 sortLeJson<-function(date,idversionchoisie){
   urllast<-paste0("https://en.wikipedia.org/w/index.php?title=Module:Russo-Ukrainian_War_detailed_map&oldid=",idversionchoisie)
