@@ -90,6 +90,7 @@ sortLeJson<-function(date,idversionchoisie){
   #Si deux points ont la même id, on met en jaune et on garde le marksize le plus petit.
   ListeDesDoublePoints<-RAWDATA%>%group_by(id)%>%mutate(Nombre=n(),row=row_number())%>%
     filter(Nombre>1)%>%
+    filter(last(mark)!=first(mark))%>%
     filter(marksize==min(marksize) & row==min(row))%>%
     mutate(color="#FACC34",
            date=date)%>%dplyr::select(id,color,date)
