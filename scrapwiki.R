@@ -81,8 +81,8 @@ sortLeJson<-function(date,idversionchoisie){
   
     
   Tout<-rbind(DejaPresents%>%select(id,label,marksize,visible,z,lat,lon),PointsAEcrire%>%select(id,label,marksize,visible,z,lat,lon))
-  
-  write.csv(Tout%>%distinct(.keep_all=T),"csv_ukr/locations.csv",row.names=F)
+  #On dégage la mauvaise version de Kiev
+   write.csv(Tout%>%filter(id!="30.530_50.345")%>%distinct(.keep_all=T),"csv_ukr/locations.csv",row.names=F)
   
   #googlesheets4::sheet_append(PointsAEcrire%>%select(id,label,marksize,visible,z,lat,lon),
   #                            ss = sheetid,sheet=touslieux)
@@ -132,12 +132,11 @@ sortLeJson<-function(date,idversionchoisie){
   
   write.csv(rbind(ToutesJournees%>%select(id,color,date,label),
                   AjoutDuJour%>%select(id,color,date,label))  %>%
-                               arrange(label,date)%>%distinct(.keep_all=T),"csv_ukr/points.csv",row.names=F) 
-  #jsoncars<-textesansbackslach%>%jsonlite::toJSON(pretty = TRUE)
-  #fileConn<-file(paste0("data/",date,"_",idversionchoisie,".json"))
-  #writeLines(jsoncars,fileConn)
-  #close(fileConn)
-  #aws.s3::put_object(file=paste0("data/",date,"_",idversionchoisie,".json"), bucket = "dataviz-r-files/ukrus")
+              arrange(label,date)%>%
+              mutate(id=case_when(label=="[[Kyiv]]" ~"30.523_50.450",
+                                  TRUE~id))%>%
+              filter(id!="30.530_50.345"),"csv_ukr/points.csv",row.names=F) 
+
 }
 
 
