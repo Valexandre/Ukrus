@@ -81,7 +81,7 @@ sortLeJson<-function(date,idversionchoisie){
     
   Tout<-rbind(DejaPresents%>%select(id,label,marksize,visible,z,lat,lon),PointsAEcrire%>%select(id,label,marksize,visible,z,lat,lon))
   
-  write.csv(Tout,"csv_ukr/locations.csv",row.names=F)
+  write.csv(Tout%>%distinct(.keep_all=T),"csv_ukr/locations.csv",row.names=F)
   
   #googlesheets4::sheet_append(PointsAEcrire%>%select(id,label,marksize,visible,z,lat,lon),
   #                            ss = sheetid,sheet=touslieux)
@@ -131,7 +131,7 @@ sortLeJson<-function(date,idversionchoisie){
   
   write.csv(rbind(ToutesJournees%>%select(id,color,date,label),
                   AjoutDuJour%>%select(id,color,date,label))  %>%
-                               arrange(label,date),"csv_ukr/points.csv",row.names=F) 
+                               arrange(label,date)%>%distinct(.keep_all=T),"csv_ukr/points.csv",row.names=F) 
   #jsoncars<-textesansbackslach%>%jsonlite::toJSON(pretty = TRUE)
   #fileConn<-file(paste0("data/",date,"_",idversionchoisie,".json"))
   #writeLines(jsoncars,fileConn)
