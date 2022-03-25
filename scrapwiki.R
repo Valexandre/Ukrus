@@ -88,7 +88,7 @@ sortLeJson<-function(date,idversionchoisie){
   #                            ss = sheetid,sheet=touslieux)
   ##########
   #Pour savoir quelles couleurs indiquer aux points
-  #Si deux points ont la même id, on met en jaune et on garde le marksize le plus petit.
+  #Si deux points ont la même id, on met en jaune et on garde le marksize le plus petit. Correction apportée pour sumy
   ListeDesDoublePoints<-RAWDATA%>%group_by(id)%>%mutate(Nombre=n(),row=row_number())%>%
     filter(Nombre>1)%>%
     filter(last(mark)!=first(mark))%>%
