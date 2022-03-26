@@ -103,7 +103,8 @@ sortLeJson<-function(date,idversionchoisie){
   Kiev<-RAWDATA%>%
     filter(mark=="Battle of Kyiv (2022) template.svg")%>%
     mutate(color="#1ea0e6",
-           date=date)%>%dplyr::select(id,color,date)
+           date=date)%>%dplyr::select(id,color,date)%>%
+    mutate(id="30.523_50.450")
   #S'il y a blue, on met en bleu,
   ListeBleu<-RAWDATA%>%filter(grepl("blue",mark))%>%
     filter(mark%!in%c("80x80-red-blue-anim.gif"))%>%
@@ -133,7 +134,7 @@ sortLeJson<-function(date,idversionchoisie){
   write.csv(rbind(ToutesJournees%>%select(id,color,date,label),
                   AjoutDuJour%>%select(id,color,date,label))  %>%
               arrange(label,date)%>%
-              mutate(id=case_when(label=="[[Kyiv]]" ~"30.523_50.450",
+              mutate(id=case_when(id=="30.530_50.345" ~"30.523_50.450",
                                   TRUE~id))%>%
               filter(id!="30.530_50.345")%>%distinct(.keep_all=T),"csv_ukr/points.csv",row.names=F) 
 
