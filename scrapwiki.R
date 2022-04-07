@@ -46,6 +46,7 @@ sortLeJson<-function(date,idversionchoisie){
   textesansbackslach<-gsub("lable_size","label_size",textesansbackslach)
   textesansbackslach<-gsub("Oblast:","",textesansbackslach)
   textesansbackslach<-gsub("Oblast","",textesansbackslach)
+  textesansbackslach<-gsub("Mar'yans'ke","Mar yans ke",textesansbackslach)
   textesansbackslach<-gsub("\\[\\[Port of Mariupol\\]\\]","'[[Port of Mariupol]]'",textesansbackslach)
   textesansbackslach<-gsub("\\[\\[Port Krym\\]\\]","'[[Port Krym]]'",textesansbackslach)
   textesansbackslach<-gsub("city","",gsub("City","",gsub("-Frankivsk","",textesansbackslach)))
