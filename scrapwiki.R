@@ -63,7 +63,7 @@ sortLeJson<-function(date,idversionchoisie){
   textesansbackslach<-gsub("\\t",'',textesansbackslach)
   textesansbackslach<-gsub('\\"','"',textesansbackslach, fixed = TRUE)
   textesansbackslach<-gsub("'",'"',textesansbackslach)
-    textesansbackslach<-gsub("--{",'{',textesansbackslach)
+    textesansbackslach<-gsub("--\\{",'{',textesansbackslach)
      
   textesansbackslach<-gsub('\\["\\{','\\[\\{',textesansbackslach)
   jsoncars<-gsub('\\}"\\]','\\}\\]',gsub('\\["\\{','\\[\\{',textesansbackslach%>%jsonlite::toJSON(pretty = TRUE)))
