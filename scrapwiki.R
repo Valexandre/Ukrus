@@ -59,6 +59,8 @@ sortLeJson<-function(date,idversionchoisie){
   textesansbackslach<-gsub("label_size=",'"label_size" :',textesansbackslach)
   textesansbackslach<-gsub("label_size =",'"label_size" :',textesansbackslach)
   textesansbackslach<-gsub('label_size :','"label_size" :',textesansbackslach)
+    textesansbackslach<-gsub('-- Svativskyy Raion','',textesansbackslach)
+     
   textesansbackslach<-gsub(", :",'',textesansbackslach)
   textesansbackslach<-gsub("\\n",'',textesansbackslach)
   textesansbackslach<-gsub("\\t",'',textesansbackslach)
