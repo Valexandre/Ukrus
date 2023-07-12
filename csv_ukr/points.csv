@@ -1,4 +1,3 @@
-id,color,date,label
 38.797_48.477,#F03333,20220301,[[Alchevsk]]
 38.797_48.477,#F03333,20220311,[[Alchevsk]]
 38.797_48.477,#F03333,20220321,[[Alchevsk]]
@@ -6785,6 +6784,7 @@ id,color,date,label
 30.405_49.825,#1ea0e6,20220511,[[Uzyn]]
 30.405_49.825,#1ea0e6,20220621,[[Uzyn]]
 30.405_49.825,#1ea0e6,20220711,[[Uzyn]]
+35.638_46.739,#F03333,20220607,[[Pryazovske]]
 30.405_49.825,#1ea0e6,20220911,[[Uzyn]]
 30.405_49.825,#1ea0e6,20221111,[[Uzyn]]
 30.405_49.825,#1ea0e6,20221201,[[Uzyn]]
@@ -6801,6 +6801,7 @@ id,color,date,label
 38.839_48.161,#F03333,20220711,[[Vakhrusheve]]
 38.839_48.161,#F03333,20220911,[[Vakhrusheve]]
 38.839_48.161,#F03333,20221111,[[Vakhrusheve]]
+32.093_46.779,#1ea0e6,20220607,[[Prybuzke]]
 38.839_48.161,#F03333,20221201,[[Vakhrusheve]]
 35.621_49.839,#1ea0e6,20220301,[[Valky]]
 35.621_49.839,#1ea0e6,20220311,[[Valky]]
@@ -6818,6 +6819,7 @@ id,color,date,label
 35.621_49.839,#1ea0e6,20221201,[[Valky]]
 25.851_51.345,#1ea0e6,20220621,[[Varash]]
 25.851_51.345,#1ea0e6,20220711,[[Varash]]
+32.317_50.567,#1ea0e6,20220607,[[Pryluky Air Base]]
 25.851_51.345,#1ea0e6,20220911,[[Varash]]
 25.851_51.345,#1ea0e6,20221111,[[Varash]]
 25.851_51.345,#1ea0e6,20221201,[[Varash]]
@@ -6837,6 +6839,7 @@ id,color,date,label
 32.719_50.496,#1ea0e6,20221201,[[Varva, Chernihiv |Varva]]
 35.287_47.442,#1ea0e6,20220301,[[Vasylivka]]
 35.287_47.442,#F03333,20220311,[[Vasylivka]]
+32.386_50.589,#1ea0e6,20220607,[[Pryluky]]
 35.287_47.442,#F03333,20220321,[[Vasylivka]]
 35.287_47.442,#F03333,20220401,[[Vasylivka]]
 35.287_47.442,#F03333,20220411,[[Vasylivka]]
@@ -6856,6 +6859,7 @@ id,color,date,label
 30.300_50.233,#1ea0e6,20220421,[[Vasylkiv Air Base]]
 30.300_50.233,#1ea0e6,20220501,[[Vasylkiv Air Base]]
 30.300_50.233,#1ea0e6,20220511,[[Vasylkiv Air Base]]
+36.354_46.723,#F03333,20220607,[[Prymorsk]]
 30.300_50.233,#1ea0e6,20220621,[[Vasylkiv Air Base]]
 30.300_50.233,#1ea0e6,20220711,[[Vasylkiv Air Base]]
 30.300_50.233,#1ea0e6,20220911,[[Vasylkiv Air Base]]
@@ -6873,6 +6877,7 @@ id,color,date,label
 30.320_50.177,#1ea0e6,20220621,[[Vasylkiv]]
 30.320_50.177,#1ea0e6,20220711,[[Vasylkiv]]
 30.320_50.177,#1ea0e6,20220911,[[Vasylkiv]]
+35.481_45.117,#F03333,20220607,[[Prymorskyi]]
 30.320_50.177,#1ea0e6,20221111,[[Vasylkiv]]
 30.320_50.177,#1ea0e6,20221201,[[Vasylkiv]]
 36.023_48.206,#1ea0e6,20220321,[[Vasylkivka]]
@@ -6892,6 +6897,7 @@ id,color,date,label
 36.324_49.834,#1ea0e6,20220321,[[Vasyshcheve]]
 36.324_49.834,#1ea0e6,20220401,[[Vasyshcheve]]
 36.324_49.834,#1ea0e6,20220411,[[Vasyshcheve]]
+38.300_49.007,#1ea0e6,20220607,[[Pryvillia]]
 36.324_49.834,#1ea0e6,20220421,[[Vasyshcheve]]
 36.324_49.834,#1ea0e6,20220501,[[Vasyshcheve]]
 36.324_49.834,#1ea0e6,20220511,[[Vasyshcheve]]
@@ -6909,6 +6915,7 @@ id,color,date,label
 31.071_49.012,#1ea0e6,20220421,[[Vatutine]]
 31.071_49.012,#1ea0e6,20220501,[[Vatutine]]
 31.071_49.012,#1ea0e6,20220511,[[Vatutine]]
+28.261_50.471,#1ea0e6,20220607,[[Pulyny]]
 31.071_49.012,#1ea0e6,20220621,[[Vatutine]]
 31.071_49.012,#1ea0e6,20220711,[[Vatutine]]
 31.071_49.012,#1ea0e6,20220911,[[Vatutine]]
@@ -6928,6 +6935,7 @@ id,color,date,label
 30.911_50.586,#1ea0e6,20220911,[[Velyka Dymerka]]
 30.911_50.586,#1ea0e6,20221111,[[Velyka Dymerka]]
 30.911_50.586,#1ea0e6,20221201,[[Velyka Dymerka]]
+33.866_51.316,#1ea0e6,20220607,[[Putyvl]]
 36.989_49.108,#F03333,20220501,[[Velyka Komyshuvakha]]
 36.989_49.108,#FACC34,20220511,[[Velyka Komyshuvakha]]
 36.989_49.108,#FACC34,20220621,[[Velyka Komyshuvakha]]
@@ -6945,6 +6953,7 @@ id,color,date,label
 33.937_47.163,#F03333,20220501,[[Velyka Lepetykha]]
 33.937_47.163,#F03333,20220511,[[Velyka Lepetykha]]
 33.937_47.163,#F03333,20220621,[[Velyka Lepetykha]]
+32.530_50.152,#1ea0e6,20220607,[[Pyriatyn Airport]]
 33.937_47.163,#F03333,20220711,[[Velyka Lepetykha]]
 33.937_47.163,#F03333,20220911,[[Velyka Lepetykha]]
 33.937_47.163,#F03333,20221111,[[Velyka Lepetykha]]
@@ -6959,6 +6968,7 @@ id,color,date,label
 29.851_47.082,#1ea0e6,20220511,[[Velyka Mykhailivka]]
 29.851_47.082,#1ea0e6,20220621,[[Velyka Mykhailivka]]
 29.851_47.082,#1ea0e6,20220711,[[Velyka Mykhailivka]]
+32.533_50.250,#1ea0e6,20220607,[[Pyriatyn]]
 29.851_47.082,#1ea0e6,20220911,[[Velyka Mykhailivka]]
 29.851_47.082,#1ea0e6,20221111,[[Velyka Mykhailivka]]
 29.851_47.082,#1ea0e6,20221201,[[Velyka Mykhailivka]]
@@ -6976,6 +6986,7 @@ id,color,date,label
 36.845_47.836,#1ea0e6,20221111,[[Velyka Novosilka]]
 36.845_47.836,#1ea0e6,20221201,[[Velyka Novosilka]]
 33.303_47.321,#1ea0e6,20220301,[[Velyka Oleksandrivka]]
+29.234_50.497,#1ea0e6,20220607,[[Radomyshl]]
 33.303_47.321,#1ea0e6,20220311,[[Velyka Oleksandrivka]]
 33.303_47.321,#F03333,20220321,[[Velyka Oleksandrivka]]
 33.303_47.321,#1ea0e6,20220401,[[Velyka Oleksandrivka]]
@@ -7007,6 +7018,7 @@ id,color,date,label
 30.567_46.343,#1ea0e6,20220311,[[Velykodolynske]]
 30.567_46.343,#1ea0e6,20220321,[[Velykodolynske]]
 30.567_46.343,#1ea0e6,20220401,[[Velykodolynske]]
+24.200_48.050,#1ea0e6,20220607,[[Rakhiv]]
 30.567_46.343,#1ea0e6,20220411,[[Velykodolynske]]
 30.567_46.343,#1ea0e6,20220421,[[Velykodolynske]]
 30.567_46.343,#1ea0e6,20220501,[[Velykodolynske]]
@@ -7024,6 +7036,7 @@ id,color,date,label
 37.388_50.049,#F03333,20220511,[[Velykyi Burluk]]
 37.388_50.049,#F03333,20220621,[[Velykyi Burluk]]
 37.388_50.049,#F03333,20220711,[[Velykyi Burluk]]
+28.289_45.457,#1ea0e6,20220607,[[Reni, Ukraine|Reni]]
 37.388_50.049,#1ea0e6,20220911,[[Velykyi Burluk]]
 37.388_50.049,#1ea0e6,20221111,[[Velykyi Burluk]]
 37.388_50.049,#1ea0e6,20221201,[[Velykyi Burluk]]
@@ -7043,6 +7056,7 @@ id,color,date,label
 34.341_47.253,#F03333,20220311,[[Verkhnii Rohachyk]]
 34.341_47.253,#F03333,20220321,[[Verkhnii Rohachyk]]
 34.341_47.253,#F03333,20220401,[[Verkhnii Rohachyk]]
+31.083_51.799,#1ea0e6,20220607,[[Ripky]]
 34.341_47.253,#F03333,20220411,[[Verkhnii Rohachyk]]
 34.341_47.253,#F03333,20220421,[[Verkhnii Rohachyk]]
 34.341_47.253,#F03333,20220501,[[Verkhnii Rohachyk]]
@@ -7060,6 +7074,7 @@ id,color,date,label
 34.337_48.648,#1ea0e6,20220411,[[Verkhnodniprovsk]]
 34.337_48.648,#1ea0e6,20220421,[[Verkhnodniprovsk]]
 34.337_48.648,#1ea0e6,20220501,[[Verkhnodniprovsk]]
+26.142_50.607,#1ea0e6,20220607,[[Rivne International Airport]]
 34.337_48.648,#1ea0e6,20220511,[[Verkhnodniprovsk]]
 34.337_48.648,#1ea0e6,20220621,[[Verkhnodniprovsk]]
 34.337_48.648,#1ea0e6,20220711,[[Verkhnodniprovsk]]
@@ -7079,6 +7094,7 @@ id,color,date,label
 34.909_47.019,#F03333,20220711,[[Vesele, Zaporizhzhia |Vesele]]
 34.909_47.019,#F03333,20220911,[[Vesele, Zaporizhzhia |Vesele]]
 34.909_47.019,#F03333,20221111,[[Vesele, Zaporizhzhia |Vesele]]
+25.895_51.325,#1ea0e6,20220607,[[Rivne Nuclear Power Plant]]
 34.909_47.019,#F03333,20221201,[[Vesele, Zaporizhzhia |Vesele]]
 31.238_47.356,#1ea0e6,20220311,[[Veselynove]]
 31.238_47.356,#1ea0e6,20220321,[[Veselynove]]
@@ -7098,6 +7114,7 @@ id,color,date,label
 35.433_47.940,#1ea0e6,20220321,[[Vilniansk]]
 35.433_47.940,#1ea0e6,20220401,[[Vilniansk]]
 35.433_47.940,#1ea0e6,20220411,[[Vilniansk]]
+26.250_50.616,#1ea0e6,20220607,[[Rivne]]
 35.433_47.940,#1ea0e6,20220421,[[Vilniansk]]
 35.433_47.940,#1ea0e6,20220501,[[Vilniansk]]
 35.433_47.940,#1ea0e6,20220511,[[Vilniansk]]
@@ -7106,6 +7123,7 @@ id,color,date,label
 35.433_47.940,#1ea0e6,20220911,[[Vilniansk]]
 35.433_47.940,#1ea0e6,20221111,[[Vilniansk]]
 26.250_50.616,#1ea0e6,20230113,[[Rivne]]
+37.210_48.353,#1ea0e6,20220607,[[Rodynske]]
 35.433_47.940,#1ea0e6,20221201,[[Vilniansk]]
 34.028_48.478,#1ea0e6,20220301,[[Vilnohirsk]]
 34.028_48.478,#1ea0e6,20220311,[[Vilnohirsk]]
@@ -7125,6 +7143,7 @@ id,color,date,label
 35.879_50.056,#1ea0e6,20220311,[[Vilshany]]
 35.879_50.056,#1ea0e6,20220321,[[Vilshany]]
 35.879_50.056,#1ea0e6,20220401,[[Vilshany]]
+30.478_49.691,#1ea0e6,20220607,[[Rokytne, Kyiv |Rokytne]]
 35.879_50.056,#1ea0e6,20220411,[[Vilshany]]
 35.879_50.056,#1ea0e6,20220421,[[Vilshany]]
 35.879_50.056,#1ea0e6,20220501,[[Vilshany]]
@@ -7142,6 +7161,7 @@ id,color,date,label
 28.483_49.233,#1ea0e6,20220411,[[Vinnytsia]]
 28.483_49.233,#1ea0e6,20220421,[[Vinnytsia]]
 28.483_49.233,#1ea0e6,20220501,[[Vinnytsia]]
+27.935_50.154,#1ea0e6,20220607,[[Romaniv]]
 28.483_49.233,#1ea0e6,20220511,[[Vinnytsia]]
 28.483_49.233,#1ea0e6,20220621,[[Vinnytsia]]
 28.483_49.233,#1ea0e6,20220711,[[Vinnytsia]]
@@ -7161,6 +7181,7 @@ id,color,date,label
 37.483_47.595,#F03333,20220711,[[Volnovakha]]
 37.483_47.595,#F03333,20220911,[[Volnovakha]]
 37.483_47.595,#F03333,20221111,[[Volnovakha]]
+33.481_50.742,#1ea0e6,20220607,[[Romny]]
 37.483_47.595,#F03333,20221201,[[Volnovakha]]
 29.920_49.527,#1ea0e6,20220301,[[Volodarka]]
 29.920_49.527,#1ea0e6,20220311,[[Volodarka]]
@@ -7180,6 +7201,7 @@ id,color,date,label
 24.322_50.848,#1ea0e6,20220711,[[Volodymyr ()|Volodymyr]]
 24.322_50.848,#1ea0e6,20220911,[[Volodymyr ()|Volodymyr]]
 24.322_50.848,#1ea0e6,20221111,[[Volodymyr ()|Volodymyr]]
+39.343_48.071,#F03333,20220607,[[Rovenky]]
 24.322_50.848,#1ea0e6,20221201,[[Volodymyr ()|Volodymyr]]
 36.985_49.597,#1ea0e6,20220911,[[Volokhiv Yar]]
 36.985_49.597,#1ea0e6,20221111,[[Volokhiv Yar]]
@@ -7197,6 +7219,7 @@ id,color,date,label
 33.472_51.771,#1ea0e6,20220711,[[Voronizh]]
 33.472_51.771,#1ea0e6,20220911,[[Voronizh]]
 33.472_51.771,#1ea0e6,20221111,[[Voronizh]]
+30.075_46.855,#1ea0e6,20220607,[[Rozdilna]]
 33.472_51.771,#1ea0e6,20221201,[[Voronizh]]
 34.219_51.173,#F03333,20220301,[[Vorozhba]]
 34.219_51.173,#F03333,20220311,[[Vorozhba]]
@@ -7214,6 +7237,7 @@ id,color,date,label
 34.219_51.173,#1ea0e6,20221201,[[Vorozhba]]
 30.149_50.544,#1ea0e6,20220301,[[Vorzel]]
 30.149_50.544,#F03333,20220311,[[Vorzel]]
+33.488_45.770,#F03333,20220607,[[Rozdolne]]
 30.149_50.544,#F03333,20220321,[[Vorzel]]
 30.149_50.544,#F03333,20220401,[[Vorzel]]
 30.149_50.544,#1ea0e6,20220411,[[Vorzel]]
@@ -7223,6 +7247,7 @@ id,color,date,label
 30.149_50.544,#1ea0e6,20220621,[[Vorzel]]
 33.488_45.770,#F03333,20230113,[[Rozdolne]]
 30.149_50.544,#1ea0e6,20220711,[[Vorzel]]
+37.065_47.384,#F03333,20220607,[[Rozivka]]
 30.149_50.544,#1ea0e6,20220911,[[Vorzel]]
 30.149_50.544,#1ea0e6,20221111,[[Vorzel]]
 30.149_50.544,#1ea0e6,20221201,[[Vorzel]]
@@ -7242,6 +7267,7 @@ id,color,date,label
 36.933_50.284,#1ea0e6,20221201,[[Vovchansk]]
 31.336_47.561,#FACC34,20220311,[[Voznesensk]]
 31.336_47.561,#1ea0e6,20220321,[[Voznesensk]]
+38.367_49.017,#F03333,20220607,[[Rubizhne]]
 31.336_47.561,#1ea0e6,20220401,[[Voznesensk]]
 31.336_47.561,#1ea0e6,20220411,[[Voznesensk]]
 31.336_47.561,#1ea0e6,20220421,[[Voznesensk]]
@@ -7252,6 +7278,7 @@ id,color,date,label
 38.367_49.017,#F03333,20230113,[[Rubizhne]]
 31.336_47.561,#1ea0e6,20220911,[[Voznesensk]]
 31.336_47.561,#1ea0e6,20221111,[[Voznesensk]]
+36.279_50.141,#1ea0e6,20220607,[[Ruska Lozova]]
 31.336_47.561,#1ea0e6,20221201,[[Voznesensk]]
 30.591_47.866,#1ea0e6,20220311,[[Vradiivka]]
 30.591_47.866,#1ea0e6,20220321,[[Vradiivka]]
@@ -7273,6 +7300,7 @@ id,color,date,label
 37.249_47.780,#1ea0e6,20220411,[[Vuhledar]]
 37.249_47.780,#1ea0e6,20220421,[[Vuhledar]]
 37.249_47.780,#1ea0e6,20220501,[[Vuhledar]]
+34.752_46.336,#F03333,20220607,[[Rykove]]
 37.249_47.780,#1ea0e6,20220511,[[Vuhledar]]
 37.249_47.780,#1ea0e6,20220621,[[Vuhledar]]
 37.249_47.780,#1ea0e6,20220711,[[Vuhledar]]
@@ -7292,6 +7320,7 @@ id,color,date,label
 38.278_48.312,#F03333,20220911,[[Vuhlehirsk]]
 38.278_48.312,#F03333,20221111,[[Vuhlehirsk]]
 38.278_48.312,#F03333,20221201,[[Vuhlehirsk]]
+31.043_49.966,#1ea0e6,20220607,[[Rzhyshchiv]]
 29.596_45.400,#1ea0e6,20220311,[[Vylkove]]
 29.596_45.400,#1ea0e6,20220321,[[Vylkove]]
 29.596_45.400,#1ea0e6,20220401,[[Vylkove]]
@@ -7311,6 +7340,7 @@ id,color,date,label
 23.025_48.150,#1ea0e6,20220401,[[Vynohradiv]]
 23.025_48.150,#1ea0e6,20220411,[[Vynohradiv]]
 23.025_48.150,#1ea0e6,20220421,[[Vynohradiv]]
+35.871_49.147,#1ea0e6,20220607,[[Sakhnovshchyna]]
 23.025_48.150,#1ea0e6,20220501,[[Vynohradiv]]
 23.025_48.150,#1ea0e6,20220511,[[Vynohradiv]]
 23.025_48.150,#1ea0e6,20220621,[[Vynohradiv]]
@@ -7328,6 +7358,7 @@ id,color,date,label
 32.263_47.191,#1ea0e6,20220711,[[Vynohradivka, Bashtanka Raion|Vynohradivka]]
 32.263_47.191,#1ea0e6,20220911,[[Vynohradivka, Bashtanka Raion|Vynohradivka]]
 32.263_47.191,#1ea0e6,20221111,[[Vynohradivka, Bashtanka Raion|Vynohradivka]]
+33.577_45.134,#F03333,20220607,[[Saky]]
 32.263_47.191,#1ea0e6,20221201,[[Vynohradivka, Bashtanka Raion|Vynohradivka]]
 30.486_50.583,#FACC34,20220301,[[Vyshhorod]]
 30.486_50.583,#1ea0e6,20220311,[[Vyshhorod]]
@@ -7336,6 +7367,7 @@ id,color,date,label
 30.486_50.583,#1ea0e6,20220411,[[Vyshhorod]]
 30.486_50.583,#1ea0e6,20220421,[[Vyshhorod]]
 33.577_45.134,#F03333,20230113,[[Saky]]
+23.203_49.517,#1ea0e6,20220607,[[Sambir]]
 30.486_50.583,#1ea0e6,20220501,[[Vyshhorod]]
 30.486_50.583,#1ea0e6,20220511,[[Vyshhorod]]
 30.486_50.583,#1ea0e6,20220621,[[Vyshhorod]]
@@ -7344,6 +7376,7 @@ id,color,date,label
 30.486_50.583,#1ea0e6,20221111,[[Vyshhorod]]
 30.486_50.583,#1ea0e6,20221201,[[Vyshhorod]]
 23.203_49.517,#1ea0e6,20230113,[[Sambir]]
+26.606_51.337,#1ea0e6,20220607,[[Sarny]]
 30.368_50.392,#1ea0e6,20220301,[[Vyshneve ()|Vyshneve]]
 30.368_50.392,#1ea0e6,20220311,[[Vyshneve ()|Vyshneve]]
 30.368_50.392,#1ea0e6,20220321,[[Vyshneve ()|Vyshneve]]
@@ -7363,6 +7396,7 @@ id,color,date,label
 33.532_47.494,#F03333,20220411,[[Vysokopillia]]
 33.532_47.494,#F03333,20220421,[[Vysokopillia]]
 33.532_47.494,#F03333,20220501,[[Vysokopillia]]
+37.692_47.174,#F03333,20220607,[[Sartana, Ukraine|Sartana]]
 33.532_47.494,#F03333,20220511,[[Vysokopillia]]
 33.532_47.489,#F03333,20220621,[[Vysokopillia]]
 33.532_47.489,#F03333,20220711,[[Vysokopillia]]
@@ -7380,6 +7414,7 @@ id,color,date,label
 36.118_49.885,#1ea0e6,20220511,[[Vysokyi]]
 36.118_49.885,#1ea0e6,20220621,[[Vysokyi]]
 36.118_49.885,#1ea0e6,20220711,[[Vysokyi]]
+30.077_48.135,#1ea0e6,20220607,[[Savran, Odessa |Savran]]
 36.118_49.885,#1ea0e6,20220911,[[Vysokyi]]
 36.118_49.885,#1ea0e6,20221111,[[Vysokyi]]
 36.118_49.885,#1ea0e6,20221201,[[Vysokyi]]
@@ -7399,6 +7434,7 @@ id,color,date,label
 31.782_50.257,#1ea0e6,20221201,[[Yahotyn]]
 35.165_46.698,#F03333,20220301,[[Yakymivka]]
 35.165_46.698,#F03333,20220311,[[Yakymivka]]
+37.064_49.397,#F03333,20220607,[[Savyntsi]]
 35.165_46.698,#F03333,20220321,[[Yakymivka]]
 35.165_46.698,#F03333,20220401,[[Yakymivka]]
 35.165_46.698,#F03333,20220411,[[Yakymivka]]
@@ -7415,6 +7451,7 @@ id,color,date,label
 34.170_44.499,#F03333,20220311,[[Yalta]]
 34.170_44.499,#F03333,20220321,[[Yalta]]
 34.170_44.499,#F03333,20220401,[[Yalta]]
+31.568_51.643,#1ea0e6,20220607,[[Sedniv]]
 34.170_44.499,#F03333,20220411,[[Yalta]]
 34.170_44.499,#F03333,20220421,[[Yalta]]
 34.170_44.499,#F03333,20220501,[[Yalta]]
@@ -7434,6 +7471,7 @@ id,color,date,label
 37.971_48.946,#1ea0e6,20221201,[[Yampil]]
 37.649_49.054,#1ea0e6,20221111,[[Yarova]]
 37.649_49.054,#1ea0e6,20221201,[[Yarova]]
+37.297_48.148,#1ea0e6,20220607,[[Selydove]]
 37.877_48.122,#F03333,20220301,[[Yasynuvata]]
 37.877_48.122,#F03333,20220311,[[Yasynuvata]]
 37.877_48.122,#F03333,20220321,[[Yasynuvata]]
@@ -7453,6 +7491,7 @@ id,color,date,label
 23.500_50.006,#1ea0e6,20220411,[[Yavoriv military base]]
 23.500_50.006,#1ea0e6,20220421,[[Yavoriv military base]]
 23.500_50.006,#1ea0e6,20220501,[[Yavoriv military base]]
+32.577_52.175,#1ea0e6,20220607,[[Semenivka, Chernihiv |Semenivka]]
 23.500_50.006,#1ea0e6,20220511,[[Yavoriv military base]]
 23.500_50.006,#1ea0e6,20220621,[[Yavoriv military base]]
 23.500_50.006,#1ea0e6,20220711,[[Yavoriv military base]]
@@ -7481,6 +7520,7 @@ id,color,date,label
 38.208_48.237,#F03333,20220421,[[Yenakiieve]]
 38.208_48.237,#F03333,20220501,[[Yenakiieve]]
 38.208_48.237,#F03333,20220511,[[Yenakiieve]]
+30.365_46.029,#1ea0e6,20220607,[[Serhiivka, Serhiivka settlement hromada, Bilhorod-Dnistrovskyi Raion, Odessa |Serhiivka]]
 38.208_48.237,#F03333,20220621,[[Yenakiieve]]
 38.208_48.237,#F03333,20220711,[[Yenakiieve]]
 38.208_48.237,#F03333,20220911,[[Yenakiieve]]
@@ -7498,6 +7538,7 @@ id,color,date,label
 33.377_45.242,#F03333,20220711,[[Yevpatoria Airport]]
 33.377_45.242,#F03333,20220911,[[Yevpatoria Airport]]
 33.377_45.242,#F03333,20221111,[[Yevpatoria Airport]]
+33.583_44.683,#F03333,20220607,[[Sevastopol International Airport]]
 33.377_45.242,#F03333,20221201,[[Yevpatoria Airport]]
 33.368_45.193,#F03333,20220301,[[Yevpatoria]]
 33.368_45.193,#F03333,20220311,[[Yevpatoria]]
@@ -7517,6 +7558,7 @@ id,color,date,label
 38.273_48.223,#F03333,20220311,[[Yunokomunarivsk]]
 38.273_48.223,#F03333,20220321,[[Yunokomunarivsk]]
 38.273_48.223,#F03333,20220401,[[Yunokomunarivsk]]
+33.533_44.600,#F03333,20220607,[[Sevastopol]]
 38.273_48.223,#F03333,20220411,[[Yunokomunarivsk]]
 38.273_48.223,#F03333,20220421,[[Yunokomunarivsk]]
 38.273_48.223,#F03333,20220501,[[Yunokomunarivsk]]
@@ -7536,6 +7578,7 @@ id,color,date,label
 31.100_46.624,#1ea0e6,20220311,[[Yuzhne]]
 31.100_46.624,#1ea0e6,20220321,[[Yuzhne]]
 31.100_46.624,#1ea0e6,20220401,[[Yuzhne]]
+38.451_48.049,#F03333,20220607,[[Shakhtarsk]]
 31.100_46.624,#1ea0e6,20220411,[[Yuzhne]]
 31.100_46.624,#1ea0e6,20220421,[[Yuzhne]]
 31.100_46.624,#1ea0e6,20220501,[[Yuzhne]]
@@ -7555,6 +7598,7 @@ id,color,date,label
 31.184_47.823,#1ea0e6,20220511,[[Yuzhnoukrainsk]]
 31.182_47.823,#1ea0e6,20220621,[[Yuzhnoukrainsk]]
 31.182_47.823,#1ea0e6,20220711,[[Yuzhnoukrainsk]]
+39.229_48.733,#F03333,20220607,[[Shchastia]]
 31.182_47.823,#1ea0e6,20220911,[[Yuzhnoukrainsk]]
 31.182_47.823,#1ea0e6,20221111,[[Yuzhnoukrainsk]]
 31.182_47.823,#1ea0e6,20221201,[[Yuzhnoukrainsk]]
@@ -7563,6 +7607,7 @@ id,color,date,label
 29.755_47.333,#1ea0e6,20220401,[[Zakharivka]]
 29.755_47.333,#1ea0e6,20220411,[[Zakharivka]]
 39.229_48.733,#F03333,20230113,[[Shchastia]]
+27.067_50.183,#1ea0e6,20220607,[[Shepetivka]]
 29.755_47.333,#1ea0e6,20220421,[[Zakharivka]]
 29.755_47.333,#1ea0e6,20220501,[[Zakharivka]]
 29.755_47.333,#1ea0e6,20220511,[[Zakharivka]]
@@ -7574,6 +7619,7 @@ id,color,date,label
 29.755_47.333,#1ea0e6,20221201,[[Zakharivka]]
 37.898_48.369,#1ea0e6,20220311,[[Zalizne]]
 37.898_48.369,#1ea0e6,20220321,[[Zalizne]]
+36.621_50.071,#1ea0e6,20220607,[[Shestakove]]
 37.898_48.369,#1ea0e6,20220401,[[Zalizne]]
 37.898_48.369,#1ea0e6,20220411,[[Zalizne]]
 37.898_48.369,#1ea0e6,20220421,[[Zalizne]]
@@ -7590,6 +7636,7 @@ id,color,date,label
 33.285_45.161,#F03333,20220401,[[Zaozerne]]
 33.285_45.161,#F03333,20220411,[[Zaozerne]]
 33.285_45.161,#F03333,20220421,[[Zaozerne]]
+31.192_51.387,#1ea0e6,20220607,[[Shestovytsia]]
 33.285_45.161,#F03333,20220501,[[Zaozerne]]
 33.285_45.161,#F03333,20220511,[[Zaozerne]]
 33.285_45.161,#F03333,20220621,[[Zaozerne]]
@@ -7610,6 +7657,7 @@ id,color,date,label
 35.315_47.866,#1ea0e6,20220711,[[Zaporizhzhia International Airport]]
 35.315_47.866,#1ea0e6,20220911,[[Zaporizhzhia International Airport]]
 35.315_47.866,#1ea0e6,20221111,[[Zaporizhzhia International Airport]]
+31.045_50.645,#1ea0e6,20220607,[[Shevchenkove, Brovary Raion, Kyiv ]]
 35.315_47.866,#1ea0e6,20221201,[[Zaporizhzhia International Airport]]
 34.586_47.512,#1ea0e6,20220301,[[Zaporizhzhia Nuclear Power Plant]]
 34.586_47.512,#F03333,20220311,[[Zaporizhzhia Nuclear Power Plant]]
@@ -7624,6 +7672,7 @@ id,color,date,label
 34.586_47.512,#F03333,20220711,[[Zaporizhzhia Nuclear Power Plant]]
 34.586_47.512,#F03333,20220911,[[Zaporizhzhia Nuclear Power Plant]]
 34.586_47.512,#F03333,20221111,[[Zaporizhzhia Nuclear Power Plant]]
+32.196_46.860,#1ea0e6,20220607,[[Shevchenkove, Shevchenkove rural hromada, Mykolaiv Raion, Mykolaiv |Shevchenkove]]
 34.586_47.512,#F03333,20221201,[[Zaporizhzhia Nuclear Power Plant]]
 35.140_47.839,#1ea0e6,20220301,[[Zaporizhzhia]]
 35.140_47.839,#1ea0e6,20220311,[[Zaporizhzhia]]
@@ -7643,6 +7692,7 @@ id,color,date,label
 37.920_49.019,#F03333,20220511,[[Zarichne, Kramatorsk Raion]]
 37.920_49.019,#F03333,20220621,[[Zarichne, Kramatorsk Raion]]
 37.920_49.019,#F03333,20220711,[[Zarichne, Kramatorsk Raion]]
+37.178_49.689,#F03333,20220607,[[Shevchenkove, Shevchenkove settlement hromada, Kupiansk Raion, Kharkiv |Shevchenkove]]
 37.920_49.019,#F03333,20220911,[[Zarichne, Kramatorsk Raion]]
 37.920_49.019,#1ea0e6,20221111,[[Zarichne, Kramatorsk Raion]]
 37.920_49.019,#1ea0e6,20221201,[[Zarichne, Kramatorsk Raion]]
@@ -7662,6 +7712,7 @@ id,color,date,label
 33.383_50.383,#1ea0e6,20220401,[[Zavodske, Poltava |Zavodske]]
 33.383_50.383,#1ea0e6,20220411,[[Zavodske, Poltava |Zavodske]]
 33.383_50.383,#1ea0e6,20220421,[[Zavodske, Poltava |Zavodske]]
+22.708_48.378,#1ea0e6,20220607,[[Shipka (military base)]]
 33.383_50.383,#1ea0e6,20220501,[[Zavodske, Poltava |Zavodske]]
 33.383_50.383,#1ea0e6,20220511,[[Zavodske, Poltava |Zavodske]]
 33.383_50.383,#1ea0e6,20220621,[[Zavodske, Poltava |Zavodske]]
@@ -7681,6 +7732,7 @@ id,color,date,label
 34.040_44.900,#F03333,20220711,[[Zavodskoe Airport]]
 34.040_44.900,#F03333,20220911,[[Zavodskoe Airport]]
 34.040_44.900,#F03333,20221111,[[Zavodskoe Airport]]
+33.497_51.876,#1ea0e6,20220607,[[Shostka]]
 34.040_44.900,#F03333,20221201,[[Zavodskoe Airport]]
 26.260_50.509,#1ea0e6,20220621,[[Zdolbuniv]]
 26.260_50.509,#1ea0e6,20220711,[[Zdolbuniv]]
@@ -7700,6 +7752,7 @@ id,color,date,label
 32.638_46.715,#F03333,20220911,[[Zelenivka, Kherson |Zelenivka]]
 32.638_46.715,#1ea0e6,20221111,[[Zelenivka, Kherson |Zelenivka]]
 32.638_46.715,#1ea0e6,20221201,[[Zelenivka, Kherson |Zelenivka]]
+31.392_49.000,#1ea0e6,20220607,[[Shpola]]
 33.647_47.566,#1ea0e6,20220321,[[Zelenodolsk, Ukraine|Zelenodolsk]]
 33.647_47.566,#1ea0e6,20220401,[[Zelenodolsk, Ukraine|Zelenodolsk]]
 33.647_47.566,#1ea0e6,20220411,[[Zelenodolsk, Ukraine|Zelenodolsk]]
@@ -7717,6 +7770,7 @@ id,color,date,label
 32.418_46.829,#1ea0e6,20220711,[[Zelenyi Hai]]
 32.418_46.829,#1ea0e6,20220911,[[Zelenyi Hai]]
 32.418_46.829,#1ea0e6,20221111,[[Zelenyi Hai]]
+30.196_47.376,#1ea0e6,20220607,[[Shyriaieve]]
 30.111_49.236,#1ea0e6,20220301,[[Zhashkiv]]
 30.111_49.236,#1ea0e6,20220311,[[Zhashkiv]]
 30.111_49.236,#1ea0e6,20220321,[[Zhashkiv]]
@@ -7733,6 +7787,7 @@ id,color,date,label
 30.111_49.236,#1ea0e6,20221201,[[Zhashkiv]]
 38.254_48.146,#F03333,20220301,[[Zhdanivka]]
 38.254_48.146,#F03333,20220311,[[Zhdanivka]]
+33.268_47.693,#1ea0e6,20220607,[[Shyroke]]
 38.254_48.146,#F03333,20220321,[[Zhdanivka]]
 38.254_48.146,#F03333,20220401,[[Zhdanivka]]
 38.254_48.146,#F03333,20220411,[[Zhdanivka]]
@@ -7750,6 +7805,7 @@ id,color,date,label
 28.104_49.037,#1ea0e6,20220911,[[Zhmerynka]]
 28.104_49.037,#1ea0e6,20221111,[[Zhmerynka]]
 28.104_49.037,#1ea0e6,20221201,[[Zhmerynka]]
+37.810_47.098,#F03333,20220607,[[Shyrokyne]]
 33.500_48.350,#1ea0e6,20220301,[[Zhovti Vody]]
 33.500_48.350,#1ea0e6,20220311,[[Zhovti Vody]]
 33.525_48.344,#1ea0e6,20220321,[[Zhovti Vody]]
@@ -7769,6 +7825,7 @@ id,color,date,label
 24.450_50.917,#1ea0e6,20220401,[[Zhovtneve Air Base]]
 24.450_50.917,#1ea0e6,20220411,[[Zhovtneve Air Base]]
 24.450_50.917,#1ea0e6,20220421,[[Zhovtneve Air Base]]
+38.540_48.900,#1ea0e6,20220607,[[Sieverodonetsk Airport]]
 24.450_50.917,#1ea0e6,20220501,[[Zhovtneve Air Base]]
 24.450_50.917,#1ea0e6,20220511,[[Zhovtneve Air Base]]
 24.450_50.917,#1ea0e6,20220621,[[Zhovtneve Air Base]]
@@ -7788,6 +7845,7 @@ id,color,date,label
 28.659_50.255,#1ea0e6,20220621,[[Zhytomyr]]
 28.659_50.255,#1ea0e6,20220711,[[Zhytomyr]]
 28.659_50.255,#1ea0e6,20220911,[[Zhytomyr]]
+38.483_48.950,#FACC34,20220607,[[Sieverodonetsk]]
 28.659_50.255,#1ea0e6,20221111,[[Zhytomyr]]
 28.659_50.255,#1ea0e6,20221201,[[Zhytomyr]]
 34.350_50.200,#1ea0e6,20220401,[[Zinkiv]]
@@ -7805,6 +7863,7 @@ id,color,date,label
 36.360_49.694,#1ea0e6,20220311,[[Zmiiv]]
 36.360_49.694,#1ea0e6,20220321,[[Zmiiv]]
 36.360_49.694,#1ea0e6,20220401,[[Zmiiv]]
+33.974_45.052,#F03333,20220607,[[Simferopol International Airport]]
 36.360_49.694,#1ea0e6,20220411,[[Zmiiv]]
 36.360_49.694,#1ea0e6,20220421,[[Zmiiv]]
 36.360_49.694,#1ea0e6,20220501,[[Zmiiv]]
@@ -7824,6 +7883,7 @@ id,color,date,label
 35.976_50.269,#F03333,20220311,[[Zolochiv, Kharkiv |Zolochiv]]
 35.976_50.269,#F03333,20220321,[[Zolochiv, Kharkiv |Zolochiv]]
 35.976_50.269,#F03333,20220401,[[Zolochiv, Kharkiv |Zolochiv]]
+34.088_44.938,#F03333,20220607,[[Simferopol]]
 35.976_50.269,#F03333,20220411,[[Zolochiv, Kharkiv |Zolochiv]]
 35.976_50.269,#1ea0e6,20220421,[[Zolochiv, Kharkiv |Zolochiv]]
 35.976_50.269,#1ea0e6,20220501,[[Zolochiv, Kharkiv |Zolochiv]]
@@ -7843,6 +7903,7 @@ id,color,date,label
 38.515_48.693,#F03333,20220311,[[Zolote]]
 38.515_48.693,#F03333,20220321,[[Zolote]]
 38.515_48.693,#F03333,20220401,[[Zolote]]
+38.105_48.874,#1ea0e6,20220607,[[Siversk]]
 38.515_48.693,#F03333,20220411,[[Zolote]]
 38.515_48.693,#F03333,20220421,[[Zolote]]
 38.515_48.693,#F03333,20220501,[[Zolote]]
@@ -7862,6 +7923,7 @@ id,color,date,label
 32.033_49.667,#1ea0e6,20220501,[[Zolotonosha]]
 32.033_49.667,#1ea0e6,20220511,[[Zolotonosha]]
 32.033_49.667,#1ea0e6,20220621,[[Zolotonosha]]
+32.910_46.115,#F03333,20220607,[[Skadovsk]]
 32.033_49.667,#1ea0e6,20220711,[[Zolotonosha]]
 32.033_49.667,#1ea0e6,20220911,[[Zolotonosha]]
 32.033_49.667,#1ea0e6,20221111,[[Zolotonosha]]
@@ -7881,6 +7943,7 @@ id,color,date,label
 38.617_48.417,#F03333,20221111,[[Zorynsk]]
 38.617_48.417,#F03333,20221201,[[Zorynsk]]
 38.261_48.022,#F03333,20220301,[[Zuhres]]
+29.664_49.733,#1ea0e6,20220607,[[Skvyra]]
 38.261_48.022,#F03333,20220311,[[Zuhres]]
 38.261_48.022,#F03333,20220321,[[Zuhres]]
 38.261_48.022,#F03333,20220401,[[Zuhres]]
@@ -7900,6 +7963,7 @@ id,color,date,label
 30.968_49.070,#1ea0e6,20220401,[[Zvenyhorodka]]
 30.968_49.070,#1ea0e6,20220411,[[Zvenyhorodka]]
 30.968_49.070,#1ea0e6,20220421,[[Zvenyhorodka]]
+36.159_50.212,#1ea0e6,20220607,[[Slatyne]]
 30.968_49.070,#1ea0e6,20220501,[[Zvenyhorodka]]
 30.968_49.070,#1ea0e6,20220511,[[Zvenyhorodka]]
 30.968_49.070,#1ea0e6,20220621,[[Zvenyhorodka]]
@@ -7908,6 +7972,7 @@ id,color,date,label
 30.968_49.070,#1ea0e6,20221111,[[Zvenyhorodka]]
 30.968_49.070,#1ea0e6,20221201,[[Zvenyhorodka]]
 36.159_50.212,#1ea0e6,20230113,[[Slatyne]]
+26.868_50.303,#1ea0e6,20220607,[[Slavuta]]
 38.933_48.583,#F03333,20220301,[[Zymohiria]]
 38.933_48.583,#F03333,20220311,[[Zymohiria]]
 38.933_48.583,#F03333,20220321,[[Zymohiria]]
@@ -7927,6 +7992,7 @@ id,color,date,label
 30.757_50.926,#1ea0e6,20220911,169th Training Centre (Ukraine)
 30.757_50.926,#1ea0e6,20221111,169th Training Centre (Ukraine)
 30.757_50.926,#1ea0e6,20221201,169th Training Centre (Ukraine)
+30.746_51.522,#1ea0e6,20220607,[[Slavutych]]
 33.048_47.178,#1ea0e6,20220911,Andriivka
 33.048_47.178,#1ea0e6,20221111,Andriivka
 37.610_47.098,#1ea0e6,20220501,Azovstal Metallurgical Combine
@@ -7946,6 +8012,7 @@ id,color,date,label
 36.961_49.830,#1ea0e6,20220421,Bazaliivka
 36.961_49.830,#1ea0e6,20220501,Bazaliivka
 36.961_49.830,#1ea0e6,20220511,Bazaliivka
+36.529_49.594,#1ea0e6,20220607,[[Slobozhanske, Chuhuiv Raion, Kharkiv |Slobozhanske]]
 36.961_49.830,#1ea0e6,20220621,Bazaliivka
 36.961_49.830,#1ea0e6,20220711,Bazaliivka
 36.961_49.830,#1ea0e6,20220911,Bazaliivka
@@ -7962,6 +8029,7 @@ id,color,date,label
 39.049_48.501,#F03333,20220411,Bile
 39.049_48.501,#F03333,20220421,Bile
 39.049_48.501,#F03333,20220501,Bile
+35.074_48.534,#1ea0e6,20220607,[[Slobozhanske, Dnipropetrovsk |Slobozhanske]]
 39.049_48.501,#F03333,20220511,Bile
 39.049_48.501,#F03333,20220621,Bile
 39.049_48.501,#F03333,20220711,Bile
@@ -7981,6 +8049,7 @@ id,color,date,label
 32.346_46.790,#F03333,20220511,Blahodatne
 32.346_46.790,#F03333,20220621,Blahodatne
 32.346_46.790,#F03333,20220711,Blahodatne
+38.977_48.698,#F03333,20220607,[[Slovianoserbsk]]
 32.346_46.790,#F03333,20220911,Blahodatne
 32.346_46.790,#1ea0e6,20221111,Blahodatne
 32.346_46.790,#1ea0e6,20221201,Blahodatne
@@ -8000,6 +8069,7 @@ id,color,date,label
 38.564_48.871,#F03333,20220621,Borivske
 38.564_48.871,#F03333,20220711,Borivske
 37.330_49.639,#1ea0e6,20220911,Borivske
+37.625_48.853,#1ea0e6,20220607,[[Sloviansk]]
 38.564_48.871,#F03333,20220911,Borivske
 37.330_49.639,#1ea0e6,20221111,Borivske
 38.564_48.871,#F03333,20221111,Borivske
@@ -8019,6 +8089,7 @@ id,color,date,label
 37.215_49.041,#F03333,20220711,Brazhkivka
 37.215_49.041,#1ea0e6,20220911,Brazhkivka
 37.215_49.041,#1ea0e6,20221111,Brazhkivka
+31.873_49.212,#1ea0e6,20220607,[[Smila]]
 37.215_49.041,#1ea0e6,20221201,Brazhkivka
 33.209_47.156,#FACC34,20220911,Bruskynske
 33.209_47.156,#1ea0e6,20221111,Bruskynske
@@ -8038,6 +8109,7 @@ id,color,date,label
 37.500_48.840,#1ea0e6,20221201,Bylbasivka
 29.884_50.266,#1ea0e6,20220401,Byshiv
 29.884_50.266,#1ea0e6,20220411,Byshiv
+30.204_45.255,#F03333,20220607,[[Snake Island (Black Sea)|Snake Island]]
 29.884_50.266,#1ea0e6,20220421,Byshiv
 29.884_50.266,#1ea0e6,20220501,Byshiv
 29.884_50.266,#1ea0e6,20220511,Byshiv
@@ -8053,6 +8125,7 @@ id,color,date,label
 36.375_50.117,#1ea0e6,20220911,Cherkaski Tyshky
 36.375_50.117,#1ea0e6,20221111,Cherkaski Tyshky
 36.375_50.117,#1ea0e6,20221201,Cherkaski Tyshky
+32.806_47.075,#F03333,20220607,[[Snihurivka]]
 33.207_47.065,#1ea0e6,20221111,Chkalove
 33.207_47.065,#1ea0e6,20221201,Chkalove
 36.237_50.233,#1ea0e6,20220911,Dementiivka
@@ -8072,6 +8145,7 @@ id,color,date,label
 37.319_49.018,#1ea0e6,20221111,Dovhenke
 37.319_49.018,#1ea0e6,20221201,Dovhenke
 33.572_51.632,#F03333,20220301,Dubovychi
+38.766_48.028,#F03333,20220607,[[Snizhne]]
 33.572_51.632,#F03333,20220311,Dubovychi
 33.572_51.632,#F03333,20220321,Dubovychi
 33.572_51.632,#F03333,20220401,Dubovychi
@@ -8091,6 +8165,7 @@ id,color,date,label
 39.255_48.426,#F03333,20220411,Heorhiivka
 39.255_48.426,#F03333,20220421,Heorhiivka
 39.255_48.426,#F03333,20220501,Heorhiivka
+31.950_51.820,#1ea0e6,20220607,[[Snovsk]]
 39.255_48.426,#F03333,20220511,Heorhiivka
 39.255_48.426,#F03333,20220621,Heorhiivka
 39.255_48.426,#F03333,20220711,Heorhiivka
@@ -8107,6 +8182,7 @@ id,color,date,label
 37.710_49.841,#1ea0e6,20221201,Hryanikivka
 36.815_49.358,#1ea0e6,20220911,Husarivka
 36.815_49.358,#1ea0e6,20221111,Husarivka
+33.878_48.048,#1ea0e6,20220607,[[Sofiivka, Dnipropetrovsk |Sofiivka]]
 36.815_49.358,#1ea0e6,20221201,Husarivka
 36.127_47.495,#F03333,20220621,Inzhenerne
 36.127_47.495,#F03333,20220711,Inzhenerne
@@ -8115,6 +8191,7 @@ id,color,date,label
 36.127_47.495,#F03333,20221201,Inzhenerne
 38.942_48.235,#F03333,20220301,Ivanivka
 33.878_48.048,#1ea0e6,20230113,[[Sofiivka, Dnipropetrovsk |Sofiivka]]
+24.283_50.483,#1ea0e6,20220607,[[Sokal]]
 38.942_48.235,#F03333,20220311,Ivanivka
 38.942_48.235,#F03333,20220321,Ivanivka
 38.942_48.235,#F03333,20220401,Ivanivka
@@ -8138,6 +8215,7 @@ id,color,date,label
 36.876_50.023,#F03333,20220711,Khotimlya
 36.876_50.023,#F03333,20220911,Khotimlya
 36.876_50.023,#1ea0e6,20221111,Khotimlya
+38.099_48.677,#1ea0e6,20220607,[[Soledar]]
 36.876_50.023,#1ea0e6,20221201,Khotimlya
 33.824_47.384,#F03333,20220421,Khreshchenivka
 33.824_47.384,#F03333,20220501,Khreshchenivka
@@ -8154,6 +8232,7 @@ id,color,date,label
 36.738_49.878,#1ea0e6,20220511,Kochetok
 36.738_49.878,#1ea0e6,20220621,Kochetok
 36.738_49.878,#1ea0e6,20220711,Kochetok
+34.873_48.204,#1ea0e6,20220607,[[Solone]]
 36.738_49.878,#1ea0e6,20220911,Kochetok
 36.738_49.878,#1ea0e6,20221111,Kochetok
 36.738_49.878,#1ea0e6,20221201,Kochetok
@@ -8173,6 +8252,7 @@ id,color,date,label
 39.059_48.074,#F03333,20220401,Kripenskyi
 39.059_48.074,#F03333,20220411,Kripenskyi
 39.059_48.074,#F03333,20220421,Kripenskyi
+36.049_49.995,#1ea0e6,20220607,[[Solonytsivka]]
 39.059_48.074,#F03333,20220501,Kripenskyi
 39.059_48.074,#F03333,20220511,Kripenskyi
 39.059_48.074,#F03333,20220621,Kripenskyi
@@ -8192,6 +8272,7 @@ id,color,date,label
 36.469_50.043,#1ea0e6,20220501,Kutuzivka
 36.469_50.043,#1ea0e6,20220511,Kutuzivka
 36.469_50.043,#1ea0e6,20220621,Kutuzivka
+32.499_51.531,#1ea0e6,20220607,[[Sosnytsia]]
 36.469_50.043,#1ea0e6,20220711,Kutuzivka
 36.469_50.043,#1ea0e6,20220911,Kutuzivka
 36.469_50.043,#1ea0e6,20221111,Kutuzivka
@@ -8211,6 +8292,7 @@ id,color,date,label
 36.906_49.804,#1ea0e6,20220911,Lebyazhe
 36.906_49.804,#1ea0e6,20221111,Lebyazhe
 36.906_49.804,#1ea0e6,20221201,Lebyazhe
+31.220_47.810,#1ea0e6,20220607,[[South Ukraine Nuclear Power Plant|Yuzhnoukrainsk Nuclear Power Station]]
 33.717_47.393,#F03333,20220911,Liubymivka
 33.717_47.393,#1ea0e6,20221111,Liubymivka
 33.717_47.393,#1ea0e6,20221201,Liubymivka
@@ -8228,6 +8310,7 @@ id,color,date,label
 33.071_47.194,#1ea0e6,20220911,Lozove
 37.597_49.209,#F03333,20220911,Lozove
 33.071_47.194,#1ea0e6,20221111,Lozove
+34.933_45.347,#F03333,20220607,[[Sovietskyi]]
 37.597_49.209,#F03333,20221111,Lozove
 37.597_49.209,#F03333,20221201,Lozove
 31.391_51.386,#1ea0e6,20220411,Lukashivka
@@ -8247,6 +8330,7 @@ id,color,date,label
 36.421_50.209,#F03333,20220911,Lyptsi
 36.421_50.209,#1ea0e6,20221111,Lyptsi
 36.421_50.209,#1ea0e6,20221201,Lyptsi
+38.649_48.560,#F03333,20220607,[[Stakhanov, Ukraine|Stakhanov]]
 32.376_46.889,#1ea0e6,20220911,Lyubomyrivka
 32.376_46.889,#1ea0e6,20221111,Lyubomyrivka
 37.984_49.220,#1ea0e6,20221111,Makiivka
@@ -8266,6 +8350,7 @@ id,color,date,label
 33.922_47.546,#1ea0e6,20220711,Mar yans ke
 33.922_47.546,#1ea0e6,20220911,Mar yans ke
 33.922_47.546,#1ea0e6,20221111,Mar yans ke
+39.467_48.667,#F03333,20220607,[[Stanytsia Luhanska]]
 33.922_47.546,#1ea0e6,20221201,Mar yans ke
 38.205_48.552,#F03333,20220621,Midna Ruda
 38.205_48.552,#F03333,20220711,Midna Ruda
@@ -8283,6 +8368,7 @@ id,color,date,label
 33.954_47.309,#1ea0e6,20221201,Myhailivka
 35.598_47.471,#F03333,20220511,Myrne
 35.598_47.471,#F03333,20220621,Myrne
+38.025_47.753,#F03333,20220607,[[Starobesheve]]
 35.598_47.471,#F03333,20220711,Myrne
 35.598_47.471,#F03333,20220911,Myrne
 35.598_47.471,#F03333,20221111,Myrne
@@ -8302,6 +8388,7 @@ id,color,date,label
 38.273_48.459,#F03333,20220911,Myronivskyi
 38.273_48.459,#F03333,20221111,Myronivskyi
 38.273_48.459,#F03333,20221201,Myronivskyi
+38.924_49.277,#F03333,20220607,[[Starobilsk]]
 36.877_49.391,#1ea0e6,20220911,Nova Husarivka
 36.877_49.391,#1ea0e6,20221111,Nova Husarivka
 36.877_49.391,#1ea0e6,20221201,Nova Husarivka
@@ -8319,6 +8406,7 @@ id,color,date,label
 36.960_47.755,#1ea0e6,20220401,Novodonetske
 36.960_47.755,#1ea0e6,20220411,Novodonetske
 36.960_47.755,#1ea0e6,20220421,Novodonetske
+27.272_49.748,#1ea0e6,20220607,[[Starokostiantyniv Air Base]]
 36.960_47.755,#1ea0e6,20220501,Novodonetske
 36.982_48.635,#1ea0e6,20220511,Novodonetske
 36.982_48.635,#1ea0e6,20220601,Novodonetske
@@ -8327,6 +8415,7 @@ id,color,date,label
 36.982_48.635,#1ea0e6,20220911,Novodonetske
 36.982_48.635,#1ea0e6,20221111,Novodonetske
 27.272_49.748,#1ea0e6,20230113,[[Starokostiantyniv Air Base]]
+27.221_49.756,#1ea0e6,20220607,[[Starokostiantyniv]]
 36.982_48.635,#1ea0e6,20221201,Novodonetske
 33.001_47.153,#1ea0e6,20221111,Novohredneve
 33.874_47.266,#F03333,20220501,Novooleksandrivka
@@ -8344,6 +8433,7 @@ id,color,date,label
 32.670_47.056,#F03333,20220911,Novopetrivka
 33.468_47.429,#1ea0e6,20221111,Novopetrivka
 32.670_47.056,#1ea0e6,20221111,Novopetrivka
+37.585_48.003,#F03333,20220607,[[Staromykhailivka]]
 32.670_47.056,#1ea0e6,20221201,Novopetrivka
 33.486_47.009,#F03333,20220501,Novoraisk
 33.486_47.009,#F03333,20220511,Novoraisk
@@ -8361,6 +8451,7 @@ id,color,date,label
 36.685_47.839,#1ea0e6,20221201,Novosilka
 38.022_47.809,#F03333,20220311,Novyi Svit
 38.022_47.809,#F03333,20220321,Novyi Svit
+35.089_45.029,#F03333,20220607,[[Staryi Krym]]
 38.022_47.809,#F03333,20220401,Novyi Svit
 38.022_47.809,#F03333,20220411,Novyi Svit
 38.022_47.809,#F03333,20220421,Novyi Svit
@@ -8378,6 +8469,7 @@ id,color,date,label
 38.165_48.117,#F03333,20220401,Nyzhnia Krynka
 38.165_48.117,#F03333,20220411,Nyzhnia Krynka
 38.165_48.117,#F03333,20220421,Nyzhnia Krynka
+36.795_50.078,#1ea0e6,20220607,[[Staryi Saltiv]]
 38.165_48.117,#F03333,20220501,Nyzhnia Krynka
 38.165_48.117,#F03333,20220511,Nyzhnia Krynka
 38.165_48.117,#F03333,20220621,Nyzhnia Krynka
@@ -8397,6 +8489,7 @@ id,color,date,label
 37.590_49.115,#F03333,20220711,Oleksandrivka, Kramatorsk Raion (Limanska)
 37.590_49.115,#F03333,20220911,Oleksandrivka, Kramatorsk Raion (Limanska)
 37.590_49.115,#F03333,20221111,Oleksandrivka, Kramatorsk Raion (Limanska)
+30.199_49.391,#1ea0e6,20220607,[[Stavyshche]]
 37.590_49.115,#F03333,20221201,Oleksandrivka, Kramatorsk Raion (Limanska)
 37.616_48.580,#1ea0e6,20220311,Oleksijevo-Druzhkivka
 37.616_48.580,#1ea0e6,20220321,Oleksijevo-Druzhkivka
@@ -8405,6 +8498,7 @@ id,color,date,label
 37.616_48.580,#1ea0e6,20220421,Oleksijevo-Druzhkivka
 37.616_48.580,#1ea0e6,20220501,Oleksijevo-Druzhkivka
 30.199_49.391,#1ea0e6,20230113,[[Stavyshche]]
+23.567_49.300,#1ea0e6,20220607,[[Stebnyk]]
 37.616_48.580,#1ea0e6,20220511,Oleksijevo-Druzhkivka
 37.616_48.580,#1ea0e6,20220621,Oleksijevo-Druzhkivka
 37.616_48.580,#1ea0e6,20220711,Oleksijevo-Druzhkivka
@@ -8424,6 +8518,7 @@ id,color,date,label
 37.218_47.754,#F03333,20220411,Pavlivka
 37.218_47.754,#F03333,20220421,Pavlivka
 37.218_47.754,#F03333,20220501,Pavlivka
+34.632_50.940,#1ea0e6,20220607,[[Stepanivka, Sumy |Stepanivka]]
 37.218_47.754,#F03333,20220511,Pavlivka
 37.218_47.754,#F03333,20220621,Pavlivka
 37.218_47.754,#F03333,20220711,Pavlivka
@@ -8443,6 +8538,7 @@ id,color,date,label
 38.606_48.094,#F03333,20220711,Pelahiivka
 38.606_48.094,#F03333,20220911,Pelahiivka
 38.606_48.094,#F03333,20221111,Pelahiivka
+25.717_48.167,#1ea0e6,20220607,[[Storozhynets]]
 38.606_48.094,#F03333,20221201,Pelahiivka
 33.940_51.548,#FACC34,20220301,Peremoha
 33.940_51.548,#FACC34,20220311,Peremoha
@@ -8460,6 +8556,7 @@ id,color,date,label
 33.791_47.414,#1ea0e6,20221201,Petrivka
 33.569_47.293,#F03333,20220501,Petropavlivka
 33.569_47.293,#F03333,20220511,Petropavlivka
+23.787_49.243,#1ea0e6,20220607,[[Stryi Air Base]]
 33.569_47.293,#F03333,20220621,Petropavlivka
 33.569_47.293,#F03333,20220711,Petropavlivka
 33.569_47.293,#F03333,20220911,Petropavlivka
@@ -8468,6 +8565,7 @@ id,color,date,label
 37.717_49.721,#1ea0e6,20221201,Petropavlivka
 33.569_47.293,#1ea0e6,20221201,Petropavlivka
 23.787_49.243,#1ea0e6,20230113,[[Stryi Air Base]]
+23.850_49.250,#1ea0e6,20220607,[[Stryi]]
 38.167_49.122,#F03333,20220501,Pischane
 38.167_49.122,#F03333,20220511,Pischane
 37.609_49.267,#1ea0e6,20221111,Pisky-Radivski
@@ -8485,6 +8583,7 @@ id,color,date,label
 37.905_48.401,#1ea0e6,20220911,Pivnichne
 37.905_48.401,#1ea0e6,20221111,Pivnichne
 37.905_48.401,#1ea0e6,20221201,Pivnichne
+34.972_44.851,#F03333,20220607,[[Sudak]]
 29.450_49.961,#1ea0e6,20220311,Popilnia
 29.450_49.961,#1ea0e6,20220321,Popilnia
 29.450_49.961,#1ea0e6,20220401,Popilnia
@@ -8504,6 +8603,7 @@ id,color,date,label
 31.998_46.940,#1ea0e6,20220321,Port of Mykolaiv
 31.998_46.940,#1ea0e6,20220401,Port of Mykolaiv
 31.998_46.940,#1ea0e6,20220411,Port of Mykolaiv
+39.722_48.354,#F03333,20220607,[[Sukhodilsk]]
 31.998_46.940,#1ea0e6,20220421,Port of Mykolaiv
 31.998_46.940,#1ea0e6,20220501,Port of Mykolaiv
 31.998_46.940,#1ea0e6,20220511,Port of Mykolaiv
@@ -8519,6 +8619,7 @@ id,color,date,label
 33.526_44.616,#F03333,20221111,Port of Sevastopol
 33.526_44.616,#F03333,20221201,Port of Sevastopol
 33.375_45.189,#F03333,20220621,Port of Yevpatoriya
+34.762_50.858,#1ea0e6,20220607,[[Sumy Airport]]
 33.375_45.189,#F03333,20220711,Port of Yevpatoriya
 33.375_45.189,#F03333,20220911,Port of Yevpatoriya
 33.375_45.189,#F03333,20221111,Port of Yevpatoriya
@@ -8538,6 +8639,7 @@ id,color,date,label
 36.273_50.193,#1ea0e6,20220911,Pytomnyk
 36.273_50.193,#1ea0e6,20221111,Pytomnyk
 36.273_50.193,#1ea0e6,20221201,Pytomnyk
+34.796_50.908,#1ea0e6,20220607,[[Sumy]]
 39.028_48.559,#F03333,20220301,Rodakove
 39.028_48.559,#F03333,20220311,Rodakove
 39.028_48.559,#F03333,20220321,Rodakove
@@ -8557,6 +8659,7 @@ id,color,date,label
 38.563_48.129,#F03333,20220401,Rozsypne
 38.563_48.129,#F03333,20220411,Rozsypne
 38.563_48.129,#F03333,20220421,Rozsypne
+22.986_48.547,#1ea0e6,20220607,[[Svaliava]]
 38.563_48.129,#F03333,20220501,Rozsypne
 38.563_48.129,#F03333,20220511,Rozsypne
 38.563_48.129,#F03333,20220621,Rozsypne
@@ -8576,6 +8679,7 @@ id,color,date,label
 36.403_50.136,#1ea0e6,20220911,Ruski Tyshky
 36.403_50.136,#1ea0e6,20221111,Ruski Tyshky
 36.403_50.136,#1ea0e6,20221201,Ruski Tyshky
+38.162_49.409,#F03333,20220607,[[Svatove]]
 37.720_49.091,#FACC34,20220511,Shandryholove
 37.720_49.091,#F03333,20220621,Shandryholove
 37.720_49.091,#F03333,20220711,Shandryholove
@@ -8595,6 +8699,7 @@ id,color,date,label
 32.676_47.099,#1ea0e6,20221111,Shyroke
 38.689_48.085,#F03333,20220311,Sieverne
 38.689_48.085,#F03333,20220321,Sieverne
+39.655_48.075,#F03333,20220607,[[Sverdlovsk, Luhansk |Sverdlovsk]]
 38.689_48.085,#F03333,20220401,Sieverne
 38.689_48.085,#F03333,20220411,Sieverne
 38.689_48.085,#F03333,20220421,Sieverne
@@ -8614,6 +8719,7 @@ id,color,date,label
 31.366_51.335,#1ea0e6,20220711,Sloboda
 31.366_51.335,#1ea0e6,20220911,Sloboda
 31.366_51.335,#1ea0e6,20221111,Sloboda
+33.935_51.946,#1ea0e6,20220607,[[Svesa]]
 31.366_51.335,#1ea0e6,20221201,Sloboda
 38.160_48.265,#F03333,20220311,Sofiivka
 38.160_48.265,#F03333,20220321,Sofiivka
@@ -8626,6 +8732,7 @@ id,color,date,label
 38.160_48.265,#F03333,20220621,Sofiivka
 38.160_48.265,#F03333,20220711,Sofiivka
 38.160_48.265,#F03333,20220911,Sofiivka
+37.567_49.033,#FACC34,20220607,[[Sviatohirsk]]
 38.160_48.265,#F03333,20221111,Sofiivka
 38.160_48.265,#F03333,20221201,Sofiivka
 32.249_46.760,#FACC34,20220911,Soldatske
@@ -8644,6 +8751,7 @@ id,color,date,label
 33.128_45.398,#F03333,20220711,Southern Naval Base
 33.128_45.398,#F03333,20220911,Southern Naval Base
 33.128_45.398,#F03333,20221111,Southern Naval Base
+30.385_50.478,#1ea0e6,20220607,[[Sviatoshyn Airfield]]
 33.128_45.398,#F03333,20221201,Southern Naval Base
 38.246_48.808,#FACC34,20220911,Spirne
 38.246_48.808,#FACC34,20221111,Spirne
@@ -8663,6 +8771,7 @@ id,color,date,label
 36.833_47.696,#F03333,20221201,Staromlynivka
 33.375_47.376,#1ea0e6,20221111,Starosillya
 37.782_48.920,#1ea0e6,20220911,Staryi Karavan
+38.220_48.435,#F03333,20220607,[[Svitlodarsk]]
 37.782_48.920,#1ea0e6,20221111,Staryi Karavan
 37.782_48.920,#1ea0e6,20221201,Staryi Karavan
 37.486_47.159,#1ea0e6,20220311,Staryi Krym
@@ -8672,6 +8781,7 @@ id,color,date,label
 37.486_47.159,#F03333,20220421,Staryi Krym
 38.220_48.435,#F03333,20230113,[[Svitlodarsk]]
 37.486_47.159,#F03333,20220501,Staryi Krym
+33.207_49.045,#1ea0e6,20220607,[[Svitlovodsk]]
 37.486_47.159,#F03333,20220511,Staryi Krym
 37.486_47.159,#F03333,20220621,Staryi Krym
 37.486_47.159,#F03333,20220711,Staryi Krym
@@ -8691,6 +8801,7 @@ id,color,date,label
 32.103_46.726,#1ea0e6,20220621,Tavriyske
 32.103_46.726,#1ea0e6,20220711,Tavriyske
 32.103_46.726,#1ea0e6,20220911,Tavriyske
+35.521_48.323,#1ea0e6,20220607,[[Synelnykove]]
 32.103_46.726,#1ea0e6,20221111,Tavriyske
 32.103_46.726,#1ea0e6,20221201,Tavriyske
 39.421_48.838,#FACC34,20220301,Teple
@@ -8710,6 +8821,7 @@ id,color,date,label
 32.385_46.859,#1ea0e6,20220911,Ternovy Podi
 32.385_46.859,#1ea0e6,20221111,Ternovy Podi
 37.964_49.015,#FACC34,20220501,Torske
+34.549_46.384,#F03333,20220607,[[Syvaske]]
 37.964_49.015,#F03333,20220511,Torske
 37.964_49.015,#F03333,20220621,Torske
 37.964_49.015,#F03333,20220711,Torske
@@ -8728,6 +8840,7 @@ id,color,date,label
 33.054_46.782,#F03333,20220511,Tyahynka
 33.054_46.782,#F03333,20220621,Tyahynka
 33.054_46.782,#F03333,20220711,Tyahynka
+33.140_50.840,#1ea0e6,20220607,[[Talalaivka]]
 33.054_46.782,#F03333,20220911,Tyahynka
 33.054_46.782,#1ea0e6,20221111,Tyahynka
 33.054_46.782,#1ea0e6,20221201,Tyahynka
@@ -8747,6 +8860,7 @@ id,color,date,label
 36.711_49.982,#1ea0e6,20220511,Velyka Babka
 36.711_49.982,#1ea0e6,20220621,Velyka Babka
 36.711_49.982,#1ea0e6,20220711,Velyka Babka
+30.704_48.889,#1ea0e6,20220607,[[Talne]]
 36.711_49.982,#1ea0e6,20220911,Velyka Babka
 36.711_49.982,#1ea0e6,20221111,Velyka Babka
 36.711_49.982,#1ea0e6,20221201,Velyka Babka
@@ -8766,6 +8880,7 @@ id,color,date,label
 37.378_47.736,#1ea0e6,20220501,Volodymyrivka
 37.378_47.736,#1ea0e6,20220511,Volodymyrivka
 37.378_47.736,#1ea0e6,20220621,Volodymyrivka
+30.497_49.562,#1ea0e6,20220607,[[Tarashcha]]
 37.378_47.736,#1ea0e6,20220711,Volodymyrivka
 37.378_47.736,#F03333,20220911,Volodymyrivka
 37.378_47.736,#F03333,20221111,Volodymyrivka
@@ -8783,6 +8898,7 @@ id,color,date,label
 38.446_48.980,#F03333,20220911,Voyevodivka
 38.446_48.980,#F03333,20221111,Voyevodivka
 38.446_48.980,#F03333,20221201,Voyevodivka
+29.147_46.189,#1ea0e6,20220607,[[Tarutyne]]
 38.203_48.464,#F03333,20220911,Vuhledar Thermal Power Plant
 38.203_48.464,#F03333,20221111,Vuhledar Thermal Power Plant
 38.203_48.464,#F03333,20221201,Vuhledar Thermal Power Plant
@@ -8800,6 +8916,7 @@ id,color,date,label
 37.455_49.086,#1ea0e6,20221201,Yaremivka
 39.216_48.160,#F03333,20220301,Yasenivskyi
 39.216_48.160,#F03333,20220311,Yasenivskyi
+29.615_45.839,#1ea0e6,20220607,[[Tatarbunary]]
 39.216_48.160,#F03333,20220321,Yasenivskyi
 39.216_48.160,#F03333,20220401,Yasenivskyi
 39.216_48.160,#F03333,20220411,Yasenivskyi
@@ -8817,6 +8934,7 @@ id,color,date,label
 37.564_48.766,#1ea0e6,20220401,Yasnohirka
 37.564_48.766,#1ea0e6,20220411,Yasnohirka
 37.564_48.766,#1ea0e6,20220421,Yasnohirka
+33.422_46.753,#F03333,20220607,[[Tavriisk]]
 37.564_48.766,#1ea0e6,20220501,Yasnohirka
 37.564_48.766,#1ea0e6,20220511,Yasnohirka
 37.564_48.766,#1ea0e6,20220621,Yasnohirka
@@ -8834,6 +8952,7 @@ id,color,date,label
 37.050_49.154,#FACC34,20220711,Zavody
 37.050_49.154,#FACC34,20220911,Zavody
 37.050_49.154,#FACC34,20221111,Zavody
+38.018_47.412,#F03333,20220607,[[Telmanove]]
 37.050_49.154,#FACC34,20221201,Zavody
 36.621_47.830,#1ea0e6,20220511,Zelene Pole
 36.621_47.830,#1ea0e6,20220621,Zelene Pole
@@ -8851,6 +8970,7 @@ id,color,date,label
 38.170_49.097,#F03333,20221201,Zhytlivka
 33.959_47.380,#1ea0e6,20221111,Zolota Balka
 33.959_47.380,#1ea0e6,20221201,Zolota Balka
+30.328_46.503,#1ea0e6,20220607,[[Teplodar]]
 33.622_47.463,#1ea0e6,20220411,NA
 33.601_47.428,#1ea0e6,20220411,NA
 33.697_47.448,#1ea0e6,20220411,NA
@@ -8870,6 +8990,7 @@ id,color,date,label
 26.821_50.119,#1ea0e6,20220621,NA
 26.971_49.652,#1ea0e6,20220621,NA
 26.201_49.538,#1ea0e6,20220621,NA
+36.069_48.521,#1ea0e6,20220607,[[Ternivka]]
 32.765_48.111,#1ea0e6,20220621,NA
 29.867_48.333,#1ea0e6,20220621,NA
 31.527_48.316,#1ea0e6,20220621,NA
@@ -8887,6 +9008,7 @@ id,color,date,label
 28.523_49.447,#1ea0e6,20220621,NA
 28.850_48.674,#1ea0e6,20220621,NA
 24.965_51.620,#1ea0e6,20220621,NA
+25.700_49.525,#1ea0e6,20220607,[[Ternopil Airport]]
 25.461_50.833,#1ea0e6,20220621,NA
 25.270_50.913,#1ea0e6,20220621,NA
 33.622_47.463,#1ea0e6,20220711,NA
@@ -8906,6 +9028,7 @@ id,color,date,label
 23.977_50.055,#1ea0e6,20220711,NA
 26.739_50.997,#1ea0e6,20220711,NA
 26.517_50.333,#1ea0e6,20220711,NA
+25.600_49.566,#1ea0e6,20220607,[[Ternopil]]
 24.936_49.446,#1ea0e6,20220711,NA
 25.690_49.300,#1ea0e6,20220711,NA
 25.778_49.667,#1ea0e6,20220711,NA
@@ -8914,6 +9037,7 @@ id,color,date,label
 24.965_51.620,#1ea0e6,20220711,NA
 25.461_50.833,#1ea0e6,20220711,NA
 25.600_49.566,#1ea0e6,20230113,[[Ternopil]]
+36.678_50.191,#FACC34,20220607,[[Ternova]]
 25.270_50.913,#1ea0e6,20220711,NA
 33.622_47.463,#1ea0e6,20220911,NA
 33.601_47.428,#1ea0e6,20220911,NA
@@ -8925,6 +9049,7 @@ id,color,date,label
 32.765_48.111,#1ea0e6,20220911,NA
 29.867_48.333,#1ea0e6,20220911,NA
 31.527_48.316,#1ea0e6,20220911,NA
+37.964_49.095,#F03333,20220607,[[Terny]]
 23.644_49.783,#1ea0e6,20220911,NA
 23.979_49.525,#1ea0e6,20220911,NA
 24.130_49.816,#1ea0e6,20220911,NA
@@ -8944,6 +9069,7 @@ id,color,date,label
 35.680_47.496,#FACC34,20220911,NA
 33.622_47.463,#1ea0e6,20221111,NA
 33.601_47.428,#1ea0e6,20221111,NA
+29.658_49.366,#1ea0e6,20220607,[[Tetiiv]]
 33.697_47.448,#1ea0e6,20221111,NA
 26.821_50.119,#1ea0e6,20221111,NA
 26.971_49.652,#1ea0e6,20221111,NA
@@ -8972,6 +9098,8 @@ id,color,date,label
 33.601_47.428,#1ea0e6,20221201,NA
 33.697_47.448,#1ea0e6,20221201,NA
 26.821_50.119,#1ea0e6,20221201,NA
+35.218_47.259,#F03333,20220607,[[Tokmak, Ukraine|Tokmak]]
+35.715_47.250,#F03333,20220607,[[Tokmak, Ukraine|Tokmak]]
 26.971_49.652,#1ea0e6,20221201,NA
 26.201_49.538,#1ea0e6,20221201,NA
 32.765_48.111,#1ea0e6,20221201,NA
@@ -8996,6 +9124,7 @@ id,color,date,label
 25.270_50.913,#1ea0e6,20221201,NA
 35.680_47.496,#FACC34,20221201,NA
 38.797_48.477,#F03333,20220228,[[Alchevsk]]
+34.755_47.817,#1ea0e6,20220607,[[Tomakivka]]
 38.797_48.477,#F03333,20220328,[[Alchevsk]]
 38.797_48.477,#F03333,20220428,[[Alchevsk]]
 34.398_44.667,#F03333,20220328,[[Alushta]]
@@ -9015,6 +9144,7 @@ id,color,date,label
 32.735_46.680,#F03333,20220328,[[Antonivka, Kherson Raion, Kherson |Antonivka]]
 32.735_46.680,#F03333,20220428,[[Antonivka, Kherson Raion, Kherson |Antonivka]]
 39.083_48.117,#F03333,20220228,[[Antratsyt]]
+37.855_48.397,#1ea0e6,20220607,[[Toretsk]]
 39.083_48.117,#F03333,20220328,[[Antratsyt]]
 39.083_48.117,#F03333,20220428,[[Antratsyt]]
 33.717_47.659,#1ea0e6,20220228,[[Apostolove]]
@@ -9024,6 +9154,7 @@ id,color,date,label
 31.316_47.912,#1ea0e6,20220428,[[Arbuzynka]]
 37.855_48.397,#1ea0e6,20230113,[[Toretsk]]
 33.408_47.430,#F03333,20220328,[[Arkhanhelske, Kherson |Arkhanhelske]]
+38.558_48.779,#FACC34,20220607,[[Toshkivka]]
 33.408_47.430,#F03333,20220428,[[Arkhanhelske, Kherson |Arkhanhelske]]
 33.691_46.115,#F03333,20220328,[[Armiansk]]
 33.691_46.115,#F03333,20220428,[[Armiansk]]
@@ -9044,6 +9175,8 @@ id,color,date,label
 36.193_49.899,#1ea0e6,20220228,[[Babai, Ukraine|Babai]]
 36.193_49.899,#1ea0e6,20220328,[[Babai, Ukraine|Babai]]
 36.193_49.899,#1ea0e6,20220428,[[Babai, Ukraine|Babai]]
+38.376_48.524,#F03333,20220607,[[Troitske]]
+38.302_49.905,#F03333,20220607,[[Troitske]]
 36.245_45.407,#F03333,20220328,[[Baherove (air base)]]
 36.245_45.407,#F03333,20220428,[[Baherove (air base)]]
 33.861_44.753,#F03333,20220328,[[Bakhchysarai]]
@@ -9071,6 +9204,7 @@ id,color,date,label
 37.018_48.902,#1ea0e6,20220428,[[Barvinkove]]
 31.319_50.351,#1ea0e6,20220228,[[Baryshivka]]
 31.319_50.351,#1ea0e6,20220328,[[Baryshivka]]
+38.963_48.759,#F03333,20220607,[[Trokhizbenka]]
 31.319_50.351,#1ea0e6,20220428,[[Baryshivka]]
 32.441_47.410,#1ea0e6,20220328,[[Bashtanka]]
 32.441_47.410,#1ea0e6,20220428,[[Bashtanka]]
@@ -9090,6 +9224,7 @@ id,color,date,label
 22.647_48.206,#1ea0e6,20220428,[[Berehove]]
 31.464_50.307,#1ea0e6,20220228,[[Berezan, Kyiv |Berezan]]
 31.464_50.307,#1ea0e6,20220328,[[Berezan, Kyiv |Berezan]]
+34.965_50.481,#1ea0e6,20220607,[[Trostianets]]
 31.464_50.307,#1ea0e6,20220428,[[Berezan, Kyiv |Berezan]]
 30.916_47.204,#1ea0e6,20220328,[[Berezivka]]
 30.916_47.204,#1ea0e6,20220428,[[Berezivka]]
@@ -9099,6 +9234,7 @@ id,color,date,label
 33.427_46.843,#F03333,20220428,[[Beryslav]]
 34.965_50.481,#1ea0e6,20230113,[[Trostianets]]
 36.283_49.875,#1ea0e6,20220228,[[Bezliudivka]]
+23.506_49.278,#1ea0e6,20220607,[[Truskavets]]
 36.283_49.875,#1ea0e6,20220328,[[Bezliudivka]]
 36.283_49.875,#1ea0e6,20220428,[[Bezliudivka]]
 30.115_49.798,#1ea0e6,20220228,[[Bila Tserkva]]
@@ -9115,6 +9251,7 @@ id,color,date,label
 34.602_45.054,#F03333,20220328,[[Bilohirsk]]
 34.602_45.054,#F03333,20220428,[[Bilohirsk]]
 38.733_49.530,#1ea0e6,20220228,[[Bilokurakyne]]
+34.470_48.947,#1ea0e6,20220607,[[Tsarychanka]]
 38.733_49.530,#F03333,20220328,[[Bilokurakyne]]
 38.733_49.530,#F03333,20220428,[[Bilokurakyne]]
 34.318_51.149,#F03333,20220228,[[Bilopillia]]
@@ -9139,6 +9276,7 @@ id,color,date,label
 31.386_50.744,#1ea0e6,20220428,[[Bobrovytsia]]
 30.897_50.623,#F03333,20220328,[[Bohdanivka]]
 30.913_50.626,#1ea0e6,20220428,[[Bohdanivka]]
+30.737_50.138,#1ea0e6,20220607,[[Ukrainka, Kyiv |Ukrainka]]
 35.540_50.164,#1ea0e6,20220228,[[Bohodukhiv]]
 35.540_50.164,#1ea0e6,20220328,[[Bohodukhiv]]
 35.540_50.164,#1ea0e6,20220428,[[Bohodukhiv]]
@@ -9153,6 +9291,7 @@ id,color,date,label
 29.915_50.645,#1ea0e6,20220428,[[Borodianka]]
 37.623_49.374,#1ea0e6,20220228,[[Borova, Kharkiv |Borova]]
 37.623_49.374,#FACC34,20220328,[[Borova, Kharkiv |Borova]]
+32.141_46.826,#1ea0e6,20220607,[[Ukrainka, Mykolaiv Raion, Mykolaiv |Ukrainka]]
 37.623_49.374,#F03333,20220428,[[Borova, Kharkiv |Borova]]
 30.102_50.176,#1ea0e6,20220228,[[Borova, Kyiv |Borova]]
 30.102_50.176,#1ea0e6,20220328,[[Borova, Kyiv |Borova]]
@@ -9174,6 +9313,7 @@ id,color,date,label
 31.577_47.868,#1ea0e6,20220428,[[Bratske]]
 38.643_48.513,#F03333,20220228,[[Brianka]]
 38.643_48.513,#F03333,20220328,[[Brianka]]
+37.363_48.097,#1ea0e6,20220607,[[Ukrainsk]]
 38.643_48.513,#F03333,20220428,[[Brianka]]
 25.166_50.133,#1ea0e6,20220328,[[Brody Air Base]]
 25.166_50.133,#1ea0e6,20220428,[[Brody Air Base]]
@@ -9193,6 +9333,7 @@ id,color,date,label
 24.628_49.258,#1ea0e6,20220228,[[Burshtyn]]
 24.628_49.258,#1ea0e6,20220328,[[Burshtyn]]
 24.628_49.258,#1ea0e6,20220428,[[Burshtyn]]
+30.217_48.750,#1ea0e6,20220607,[[Uman]]
 33.826_51.195,#F03333,20220228,[[Buryn]]
 33.826_51.195,#F03333,20220328,[[Buryn]]
 33.826_51.195,#1ea0e6,20220428,[[Buryn]]
@@ -9212,6 +9353,7 @@ id,color,date,label
 31.995_49.416,#1ea0e6,20220428,[[Cherkasy International Airport]]
 32.059_49.444,#1ea0e6,20220228,[[Cherkasy]]
 32.059_49.444,#1ea0e6,20220328,[[Cherkasy]]
+39.153_48.391,#F03333,20220607,[[Uspenka]]
 32.059_49.444,#1ea0e6,20220428,[[Cherkasy]]
 28.674_50.454,#1ea0e6,20220328,[[Cherniakhiv, Zhytomyr |Cherniakhiv]]
 28.674_50.454,#1ea0e6,20220428,[[Cherniakhiv, Zhytomyr |Cherniakhiv]]
@@ -9220,6 +9362,7 @@ id,color,date,label
 31.160_51.403,#1ea0e6,20220228,[[Chernihiv Shestovytsia Airport]]
 31.289_51.492,#FACC34,20220228,[[Chernihiv]]
 39.153_48.391,#F03333,20230113,[[Uspenka]]
+38.562_48.822,#F03333,20220607,[[Ustynivka, Sievierodonetsk Raion|Ustynivka]]
 31.289_51.492,#FACC34,20220328,[[Chernihiv]]
 31.289_51.492,#1ea0e6,20220428,[[Chernihiv]]
 36.211_47.188,#1ea0e6,20220228,[[Chernihivka]]
@@ -9239,6 +9382,7 @@ id,color,date,label
 30.222_51.276,#F03333,20220328,[[Chernobyl]]
 30.222_51.276,#1ea0e6,20220428,[[Chernobyl]]
 34.050_51.850,#1ea0e6,20220328,[[Chervone-Pustohorod]]
+22.263_48.634,#1ea0e6,20220607,[[Uzhhorod International Airport]]
 34.050_51.850,#1ea0e6,20220428,[[Chervone-Pustohorod]]
 34.530_47.626,#1ea0e6,20220328,[[Chervonohryhorivka]]
 34.530_47.626,#1ea0e6,20220428,[[Chervonohryhorivka]]
@@ -9258,6 +9402,7 @@ id,color,date,label
 32.702_45.502,#F03333,20220428,[[Chornomorske]]
 38.521_48.324,#F03333,20220228,[[Chornukhyne]]
 38.521_48.324,#F03333,20220328,[[Chornukhyne]]
+22.295_48.623,#1ea0e6,20220607,[[Uzhhorod]]
 38.521_48.324,#F03333,20220428,[[Chornukhyne]]
 28.118_50.056,#1ea0e6,20220328,[[Chudniv]]
 28.118_50.056,#1ea0e6,20220428,[[Chudniv]]
@@ -9275,6 +9420,7 @@ id,color,date,label
 31.376_50.493,#1ea0e6,20220428,[[Control of cities during the Russo-Ukrainian War#Lukyanivka, Brovary Raion|Lukyanivka]]
 31.979_46.697,#1ea0e6,20220428,[[Control of cities during the Russo-Ukrainian War#Lupareve|Lupareve]]
 37.805_49.133,#FACC34,20220428,[[Control of cities during the Russo-Ukrainian War#Lyman|Zelena Dolyna]]
+30.441_49.790,#1ea0e6,20220607,[[Uzyn (air base)]]
 31.533_50.567,#1ea0e6,20220428,[[Control of cities during the Russo-Ukrainian War#Nova Basan|Nova Basan]]
 32.111_46.615,#F03333,20220428,[[Control of cities during the Russo-Ukrainian War#Oleksandrivka (Kherson Raion)|Oleksandrivka]]
 33.917_47.433,#1ea0e6,20220428,[[Control of cities during the Russo-Ukrainian War#Osokorivka, Kherson |Osokorivka]]
@@ -9294,6 +9440,7 @@ id,color,date,label
 35.101_48.357,#1ea0e6,20220328,[[Dnipro International Airport]]
 35.101_48.357,#1ea0e6,20220428,[[Dnipro International Airport]]
 35.040_48.467,#1ea0e6,20220228,[[Dnipro]]
+30.405_49.825,#1ea0e6,20220607,[[Uzyn]]
 35.046_48.465,#1ea0e6,20220328,[[Dnipro]]
 35.046_48.465,#1ea0e6,20220428,[[Dnipro]]
 34.994_47.383,#1ea0e6,20220228,[[Dniprorudne]]
@@ -9313,6 +9460,7 @@ id,color,date,label
 24.011_48.971,#1ea0e6,20220228,[[Dolyna]]
 24.011_48.971,#1ea0e6,20220328,[[Dolyna]]
 24.011_48.971,#1ea0e6,20220428,[[Dolyna]]
+38.839_48.161,#F03333,20220607,[[Vakhrusheve]]
 30.990_47.628,#1ea0e6,20220328,[[Domanivka]]
 30.990_47.628,#1ea0e6,20220428,[[Domanivka]]
 36.572_49.508,#1ea0e6,20220228,[[Donets, Ukraine|Donets]]
@@ -9332,6 +9480,7 @@ id,color,date,label
 23.500_49.350,#1ea0e6,20220428,[[Drohobych]]
 37.527_48.616,#1ea0e6,20220228,[[Druzhkivka]]
 37.527_48.616,#1ea0e6,20220328,[[Druzhkivka]]
+35.621_49.839,#1ea0e6,20220607,[[Valky]]
 37.527_48.616,#1ea0e6,20220428,[[Druzhkivka]]
 25.833_50.450,#1ea0e6,20220328,[[Dubno Air Base]]
 25.833_50.450,#1ea0e6,20220428,[[Dubno Air Base]]
@@ -9340,6 +9489,7 @@ id,color,date,label
 37.666_49.850,#F03333,20220428,[[Dvorichna]]
 30.308_50.784,#F03333,20220228,[[Dymer, Kyiv |Dymer]]
 35.621_49.839,#1ea0e6,20230113,[[Valky]]
+25.851_51.345,#1ea0e6,20220607,[[Varash]]
 30.308_50.784,#F03333,20220328,[[Dymer, Kyiv |Dymer]]
 30.308_50.784,#1ea0e6,20220428,[[Dymer, Kyiv |Dymer]]
 30.145_51.113,#1ea0e6,20220428,[[Dytiatky]]
@@ -9359,6 +9509,7 @@ id,color,date,label
 29.905_50.064,#1ea0e6,20220328,[[Fastiv]]
 29.905_50.064,#1ea0e6,20220428,[[Fastiv]]
 35.379_45.049,#F03333,20220328,[[Feodosia]]
+32.719_50.496,#1ea0e6,20220607,[[Varva, Chernihiv |Varva]]
 35.379_45.049,#F03333,20220428,[[Feodosia]]
 34.000_50.367,#1ea0e6,20220428,[[Hadiach]]
 28.614_49.240,#1ea0e6,20220328,[[Havryshivka Vinnytsia International Airport]]
@@ -9378,6 +9529,7 @@ id,color,date,label
 30.289_50.262,#1ea0e6,20220428,[[Hlevakha]]
 33.250_49.390,#1ea0e6,20220428,[[Hlobyne]]
 33.912_51.678,#FACC34,20220228,[[Hlukhiv]]
+35.287_47.442,#F03333,20220607,[[Vasylivka]]
 33.912_51.678,#F03333,20220328,[[Hlukhiv]]
 33.912_51.678,#1ea0e6,20220428,[[Hlukhiv]]
 32.520_46.521,#F03333,20220328,[[Hola Prystan]]
@@ -9395,6 +9547,7 @@ id,color,date,label
 33.730_47.005,#1ea0e6,20220228,[[Hornostaivka, Kakhovka Raion, Kherson |Hornostaivka]]
 33.730_47.005,#F03333,20220328,[[Hornostaivka, Kakhovka Raion, Kherson |Hornostaivka]]
 33.730_47.005,#F03333,20220428,[[Hornostaivka, Kakhovka Raion, Kherson |Hornostaivka]]
+30.300_50.233,#1ea0e6,20220607,[[Vasylkiv Air Base]]
 31.650_51.883,#F03333,20220328,[[Horodnia Air Base]]
 31.650_51.883,#1ea0e6,20220428,[[Horodnia Air Base]]
 31.595_51.893,#F03333,20220228,[[Horodnia]]
@@ -9414,6 +9567,7 @@ id,color,date,label
 30.265_50.569,#1ea0e6,20220228,[[Hostomel]]
 30.265_50.569,#FACC34,20220328,[[Hostomel]]
 30.265_50.569,#1ea0e6,20220428,[[Hostomel]]
+30.320_50.177,#1ea0e6,20220607,[[Vasylkiv]]
 32.417_50.117,#1ea0e6,20220428,[[Hrebinka]]
 30.178_49.955,#1ea0e6,20220228,[[Hrebinky]]
 30.178_49.955,#1ea0e6,20220328,[[Hrebinky]]
@@ -9430,6 +9584,7 @@ id,color,date,label
 32.400_50.850,#1ea0e6,20220228,[[Ichnia]]
 32.400_50.850,#1ea0e6,20220328,[[Ichnia]]
 32.400_50.850,#1ea0e6,20220428,[[Ichnia]]
+36.023_48.206,#1ea0e6,20220607,[[Vasylkivka]]
 35.277_48.403,#1ea0e6,20220328,[[Ilarionove]]
 35.277_48.403,#1ea0e6,20220428,[[Ilarionove]]
 38.196_47.926,#F03333,20220228,[[Ilovaisk]]
@@ -9449,6 +9604,7 @@ id,color,date,label
 34.546_46.715,#1ea0e6,20220228,[[Ivanivka, Kherson |Ivanivka]]
 34.546_46.715,#F03333,20220328,[[Ivanivka, Kherson |Ivanivka]]
 34.546_46.715,#F03333,20220428,[[Ivanivka, Kherson |Ivanivka]]
+36.324_49.834,#1ea0e6,20220607,[[Vasyshcheve]]
 29.901_50.934,#FACC34,20220228,[[Ivankiv]]
 29.901_50.934,#F03333,20220328,[[Ivankiv]]
 29.901_50.934,#1ea0e6,20220428,[[Ivankiv]]
@@ -9468,6 +9624,7 @@ id,color,date,label
 28.850_45.350,#1ea0e6,20220428,[[Izmail]]
 30.819_49.862,#1ea0e6,20220228,[[Kaharlyk]]
 30.819_49.862,#1ea0e6,20220328,[[Kaharlyk]]
+31.071_49.012,#1ea0e6,20220607,[[Vatutine]]
 30.819_49.862,#1ea0e6,20220428,[[Kaharlyk]]
 33.370_46.779,#F03333,20220228,[[Kakhovka Hydroelectric Power Plant]]
 33.370_46.779,#F03333,20220328,[[Kakhovka Hydroelectric Power Plant]]
@@ -9487,6 +9644,7 @@ id,color,date,label
 30.825_50.558,#1ea0e6,20220328,[[Kalynivka, Brovary Raion|Kalynivka]]
 32.974_47.114,#F03333,20220428,[[Kalynivske, Kherson |Kalynivske]]
 26.583_48.683,#1ea0e6,20220228,[[Kamianets-Podilskyi]]
+30.911_50.586,#1ea0e6,20220607,[[Velyka Dymerka]]
 26.583_48.683,#1ea0e6,20220328,[[Kamianets-Podilskyi]]
 26.583_48.683,#1ea0e6,20220428,[[Kamianets-Podilskyi]]
 34.417_47.487,#1ea0e6,20220228,[[Kamianka-Dniprovska]]
@@ -9498,6 +9656,7 @@ id,color,date,label
 32.100_49.033,#1ea0e6,20220428,[[Kamianka, Cherkasy ]]
 34.616_48.516,#1ea0e6,20220228,[[Kamianske]]
 34.613_48.516,#1ea0e6,20220328,[[Kamianske]]
+36.989_49.108,#FACC34,20220607,[[Velyka Komyshuvakha]]
 34.613_48.516,#1ea0e6,20220428,[[Kamianske]]
 31.471_49.766,#1ea0e6,20220328,[[Kaniv Hydroelectric Power Plant]]
 31.472_49.767,#1ea0e6,20220428,[[Kaniv Hydroelectric Power Plant]]
@@ -9517,6 +9676,7 @@ id,color,date,label
 35.723_49.290,#1ea0e6,20220328,[[Kehychivka]]
 35.723_49.290,#1ea0e6,20220428,[[Kehychivka]]
 36.401_45.372,#F03333,20220328,[[Kerch Airport]]
+33.937_47.163,#F03333,20220607,[[Velyka Lepetykha]]
 36.401_45.372,#F03333,20220428,[[Kerch Airport]]
 36.471_45.361,#F03333,20220228,[[Kerch]]
 36.471_45.361,#F03333,20220328,[[Kerch]]
@@ -9534,6 +9694,7 @@ id,color,date,label
 38.139_48.043,#F03333,20220428,[[Khartsyzk]]
 32.502_46.668,#F03333,20220328,[[Kherson International Airport]]
 32.502_46.668,#F03333,20220428,[[Kherson International Airport]]
+29.851_47.082,#1ea0e6,20220607,[[Velyka Mykhailivka]]
 32.613_46.642,#FACC34,20220228,[[Kherson]]
 32.613_46.642,#F03333,20220328,[[Kherson]]
 32.613_46.642,#F03333,20220428,[[Kherson]]
@@ -9551,6 +9712,7 @@ id,color,date,label
 28.447_50.593,#1ea0e6,20220428,[[Khoroshiv]]
 34.772_51.077,#F03333,20220228,[[Khotin, Sumy |Khotin]]
 34.772_51.077,#F03333,20220328,[[Khotin, Sumy |Khotin]]
+36.845_47.836,#1ea0e6,20220607,[[Velyka Novosilka]]
 34.772_51.077,#1ea0e6,20220428,[[Khotin, Sumy |Khotin]]
 29.967_48.800,#1ea0e6,20220228,[[Khrystynivka]]
 29.967_48.800,#1ea0e6,20220328,[[Khrystynivka]]
@@ -9570,6 +9732,7 @@ id,color,date,label
 38.359_48.155,#F03333,20220328,[[Kirovske, Donetsk |Kirovske]]
 38.359_48.155,#F03333,20220428,[[Kirovske, Donetsk |Kirovske]]
 37.681_49.630,#1ea0e6,20220228,[[Kivsharivka]]
+33.303_47.321,#F03333,20220607,[[Velyka Oleksandrivka]]
 30.011_50.580,#1ea0e6,20220228,[[Klavdiievo-Tarasove]]
 30.011_50.580,#F03333,20220328,[[Klavdiievo-Tarasove]]
 30.011_50.580,#1ea0e6,20220428,[[Klavdiievo-Tarasove]]
@@ -9589,6 +9752,7 @@ id,color,date,label
 38.076_47.667,#F03333,20220328,[[Komsomolske, Donetsk |Komsomolske]]
 38.076_47.667,#F03333,20220428,[[Komsomolske, Donetsk |Komsomolske]]
 32.504_46.627,#F03333,20220328,[[Komyshany]]
+35.481_50.420,#1ea0e6,20220607,[[Velyka Pysarivka]]
 32.504_46.627,#F03333,20220428,[[Komyshany]]
 35.533_47.713,#1ea0e6,20220228,[[Komyshuvakha, Zaporizhzhia |Komyshuvakha]]
 35.533_47.713,#1ea0e6,20220328,[[Komyshuvakha, Zaporizhzhia |Komyshuvakha]]
@@ -9606,6 +9770,7 @@ id,color,date,label
 28.646_50.953,#1ea0e6,20220328,[[Korosten]]
 28.646_50.953,#1ea0e6,20220428,[[Korosten]]
 29.054_50.317,#1ea0e6,20220328,[[Korostyshiv]]
+30.567_46.343,#1ea0e6,20220607,[[Velykodolynske]]
 29.054_50.317,#1ea0e6,20220428,[[Korostyshiv]]
 31.283_49.483,#1ea0e6,20220228,[[Korsun-Shevchenkivskyi]]
 31.283_49.483,#1ea0e6,20220328,[[Korsun-Shevchenkivskyi]]
@@ -9621,6 +9786,7 @@ id,color,date,label
 36.185_50.337,#F03333,20220328,[[Kozacha Lopan]]
 36.185_50.337,#FACC34,20220428,[[Kozacha Lopan]]
 31.117_50.913,#1ea0e6,20220228,[[Kozelets]]
+37.388_50.049,#F03333,20220607,[[Velykyi Burluk]]
 31.117_50.913,#F03333,20220328,[[Kozelets]]
 31.117_50.913,#1ea0e6,20220428,[[Kozelets]]
 37.630_48.710,#1ea0e6,20220228,[[Kramatorsk Airport]]
@@ -9637,6 +9803,7 @@ id,color,date,label
 39.733_48.300,#F03333,20220328,[[Krasnodon]]
 39.733_48.300,#F03333,20220428,[[Krasnodon]]
 37.509_48.009,#1ea0e6,20220228,[[Krasnohorivka]]
+34.253_48.484,#1ea0e6,20220607,[[Verkhivtseve]]
 37.509_48.009,#1ea0e6,20220328,[[Krasnohorivka]]
 37.509_48.009,#1ea0e6,20220428,[[Krasnohorivka]]
 35.461_49.373,#1ea0e6,20220228,[[Krasnohrad]]
@@ -9656,6 +9823,7 @@ id,color,date,label
 33.800_45.967,#F03333,20220328,[[Krasnoperekopsk]]
 33.800_45.967,#F03333,20220428,[[Krasnoperekopsk]]
 35.268_50.767,#F03333,20220228,[[Krasnopillia]]
+34.341_47.253,#F03333,20220607,[[Verkhnii Rohachyk]]
 35.268_50.767,#1ea0e6,20220328,[[Krasnopillia]]
 35.268_50.767,#1ea0e6,20220428,[[Krasnopillia]]
 38.933_48.133,#F03333,20220228,[[Krasnyi Luch]]
@@ -9675,6 +9843,7 @@ id,color,date,label
 33.386_51.549,#FACC34,20220228,[[Krolevets]]
 33.386_51.549,#F03333,20220328,[[Krolevets]]
 33.386_51.549,#1ea0e6,20220428,[[Krolevets]]
+34.337_48.648,#1ea0e6,20220607,[[Verkhnodniprovsk]]
 32.286_48.556,#1ea0e6,20220328,[[Kropyvnytskyi Airport=]]
 32.286_48.556,#1ea0e6,20220428,[[Kropyvnytskyi Airport=]]
 32.266_48.500,#1ea0e6,20220228,[[Kropyvnytskyi]]
@@ -9694,6 +9863,7 @@ id,color,date,label
 31.645_51.373,#1ea0e6,20220228,[[Kulykivka]]
 31.645_51.373,#1ea0e6,20220328,[[Kulykivka]]
 31.645_51.373,#1ea0e6,20220428,[[Kulykivka]]
+34.909_47.019,#F03333,20220607,[[Vesele, Zaporizhzhia |Vesele]]
 37.650_49.661,#1ea0e6,20220228,[[Kupiansk-Vuzlovyi]]
 37.650_49.657,#F03333,20220428,[[Kupiansk-Vuzlovyi]]
 37.583_49.716,#F03333,20220228,[[Kupiansk]]
@@ -9711,6 +9881,7 @@ id,color,date,label
 30.451_50.401,#1ea0e6,20220428,[[Kyiv Airport]]
 30.512_50.588,#1ea0e6,20220228,[[Kyiv Hydroelectric Power Plant]]
 30.512_50.588,#1ea0e6,20220328,[[Kyiv Hydroelectric Power Plant]]
+31.238_47.356,#1ea0e6,20220607,[[Veselynove]]
 30.512_50.588,#1ea0e6,20220428,[[Kyiv Hydroelectric Power Plant]]
 30.523_50.450,#1ea0e6,20220228,[[Kyiv]]
 30.523_50.450,#1ea0e6,20220328,[[Kyiv]]
@@ -9730,6 +9901,7 @@ id,color,date,label
 30.257_47.833,#1ea0e6,20220328,[[Liubashivka]]
 30.257_47.833,#1ea0e6,20220428,[[Liubashivka]]
 35.941_49.951,#1ea0e6,20220228,[[Liubotyn]]
+35.433_47.940,#1ea0e6,20220607,[[Vilniansk]]
 35.941_49.951,#1ea0e6,20220328,[[Liubotyn]]
 35.941_49.951,#1ea0e6,20220428,[[Liubotyn]]
 24.198_49.288,#1ea0e6,20220328,[[Liubsha Air Base]]
@@ -9749,6 +9921,7 @@ id,color,date,label
 39.375_48.418,#F03333,20220228,[[Luhansk International Airport]]
 39.375_48.418,#F03333,20220328,[[Luhansk International Airport]]
 39.375_48.418,#F03333,20220428,[[Luhansk International Airport]]
+34.021_48.480,#1ea0e6,20220607,[[Vilnohirsk]]
 39.260_48.746,#F03333,20220228,[[Luhansk power station]]
 39.260_48.746,#F03333,20220328,[[Luhansk power station]]
 39.260_48.746,#F03333,20220428,[[Luhansk power station]]
@@ -9768,6 +9941,7 @@ id,color,date,label
 39.210_48.402,#F03333,20220328,[[Lutuhyne]]
 39.210_48.402,#F03333,20220428,[[Lutuhyne]]
 23.940_49.812,#1ea0e6,20220328,[[Lviv International Airport]]
+35.879_50.056,#1ea0e6,20220607,[[Vilshany]]
 23.940_49.812,#1ea0e6,20220428,[[Lviv International Airport]]
 24.014_49.830,#1ea0e6,20220228,[[Lviv]]
 24.014_49.830,#1ea0e6,20220328,[[Lviv]]
@@ -9787,6 +9961,7 @@ id,color,date,label
 38.443_48.907,#FACC34,20220328,[[Lysychansk]]
 38.443_48.907,#FACC34,20220428,[[Lysychansk]]
 34.912_48.911,#1ea0e6,20220328,[[Mahdalynivka]]
+28.483_49.233,#1ea0e6,20220607,[[Vinnytsia]]
 34.912_48.911,#1ea0e6,20220428,[[Mahdalynivka]]
 29.813_50.457,#FACC34,20220228,[[Makariv]]
 29.813_50.457,#FACC34,20220328,[[Makariv]]
@@ -9806,6 +9981,7 @@ id,color,date,label
 37.309_47.060,#F03333,20220328,[[Manhush, Donetsk |Manhush]]
 37.309_47.060,#F03333,20220428,[[Manhush, Donetsk |Manhush]]
 34.604_47.645,#1ea0e6,20220228,[[Marhanets]]
+37.483_47.595,#F03333,20220607,[[Volnovakha]]
 34.611_47.649,#1ea0e6,20220328,[[Marhanets]]
 34.611_47.649,#1ea0e6,20220428,[[Marhanets]]
 37.504_47.942,#FACC34,20220328,[[Marinka, Ukraine|Marinka]]
@@ -9825,6 +10001,7 @@ id,color,date,label
 35.359_46.855,#F03333,20220228,[[Melitopol]]
 35.359_46.855,#F03333,20220328,[[Melitopol]]
 35.359_46.855,#F03333,20220428,[[Melitopol]]
+29.920_49.527,#1ea0e6,20220607,[[Volodarka]]
 32.217_51.517,#1ea0e6,20220228,[[Mena, Ukraine]]
 32.217_51.517,#1ea0e6,20220328,[[Mena, Ukraine]]
 32.217_51.517,#1ea0e6,20220428,[[Mena, Ukraine]]
@@ -9833,6 +10010,7 @@ id,color,date,label
 36.050_49.806,#1ea0e6,20220428,[[Merefa]]
 36.726_48.258,#1ea0e6,20220328,[[Mezhova]]
 29.920_49.527,#1ea0e6,20230113,[[Volodarka]]
+24.322_50.848,#1ea0e6,20220607,[[Volodymyr ()|Volodymyr]]
 36.726_48.258,#1ea0e6,20220428,[[Mezhova]]
 40.142_49.376,#F03333,20220228,[[Milove]]
 40.142_49.376,#F03333,20220328,[[Milove]]
@@ -9857,6 +10035,7 @@ id,color,date,label
 35.417_47.487,#1ea0e6,20220228,[[Mykhailivka, Mykhailivka Raion, Zaporizhzhia |Mykhailivka]]
 31.076_51.451,#F03333,20220328,[[Mykhailo-Kotsiubynske]]
 31.076_51.451,#1ea0e6,20220428,[[Mykhailo-Kotsiubynske]]
+33.472_51.771,#1ea0e6,20220607,[[Voronizh]]
 31.920_47.058,#1ea0e6,20220328,[[Mykolaiv International Airport]]
 31.920_47.058,#1ea0e6,20220428,[[Mykolaiv International Airport]]
 32.000_46.967,#FACC34,20220228,[[Mykolaiv]]
@@ -9876,6 +10055,7 @@ id,color,date,label
 33.034_45.308,#F03333,20220428,[[Myrnyi]]
 30.990_49.665,#1ea0e6,20220228,[[Myronivka]]
 30.990_49.665,#1ea0e6,20220328,[[Myronivka]]
+34.219_51.173,#1ea0e6,20220607,[[Vorozhba]]
 30.990_49.665,#1ea0e6,20220428,[[Myronivka]]
 24.583_48.633,#1ea0e6,20220228,[[Nadvirna]]
 24.583_48.633,#1ea0e6,20220328,[[Nadvirna]]
@@ -9895,6 +10075,7 @@ id,color,date,label
 34.400_47.566,#1ea0e6,20220228,[[Nikopol, Ukraine|Nikopol]]
 34.395_47.568,#1ea0e6,20220328,[[Nikopol, Ukraine|Nikopol]]
 34.395_47.568,#1ea0e6,20220428,[[Nikopol, Ukraine|Nikopol]]
+30.149_50.544,#1ea0e6,20220607,[[Vorzel]]
 31.867_51.100,#1ea0e6,20220328,[[Nizhyn Air Base]]
 31.867_51.100,#1ea0e6,20220428,[[Nizhyn Air Base]]
 31.886_51.038,#1ea0e6,20220228,[[Nizhyn]]
@@ -9914,6 +10095,7 @@ id,color,date,label
 33.230_46.596,#F03333,20220428,[[Nova Maiachka]]
 31.788_47.309,#1ea0e6,20220328,[[Nova Odesa]]
 31.788_47.309,#1ea0e6,20220428,[[Nova Odesa]]
+36.933_50.284,#F03333,20220607,[[Vovchansk]]
 35.867_49.722,#1ea0e6,20220228,[[Nova Vodolaha]]
 35.867_49.722,#1ea0e6,20220328,[[Nova Vodolaha]]
 35.867_49.722,#1ea0e6,20220428,[[Nova Vodolaha]]
@@ -9931,6 +10113,7 @@ id,color,date,label
 38.082_47.111,#F03333,20220328,[[Novoazovsk]]
 38.082_47.111,#F03333,20220428,[[Novoazovsk]]
 38.350_48.967,#1ea0e6,20220228,[[Novodruzhesk]]
+31.336_47.561,#1ea0e6,20220607,[[Voznesensk]]
 38.350_48.967,#1ea0e6,20220328,[[Novodruzhesk]]
 38.350_48.967,#1ea0e6,20220428,[[Novodruzhesk]]
 33.595_45.093,#F03333,20220328,[[Novofedorivka]]
@@ -9948,6 +10131,7 @@ id,color,date,label
 35.224_48.633,#1ea0e6,20220428,[[Novomoskovsk, Ukraine|Novomoskovsk]]
 35.910_47.977,#1ea0e6,20220228,[[Novomykolaivka, Zaporizhzhia |Komyshuvakha]]
 35.910_47.977,#1ea0e6,20220328,[[Novomykolaivka, Zaporizhzhia |Komyshuvakha]]
+30.591_47.866,#1ea0e6,20220607,[[Vradiivka]]
 35.910_47.977,#1ea0e6,20220428,[[Novomykolaivka, Zaporizhzhia |Komyshuvakha]]
 34.641_46.225,#F03333,20220328,[[Novooleksiivka]]
 34.641_46.225,#F03333,20220428,[[Novooleksiivka]]
@@ -9967,6 +10151,7 @@ id,color,date,label
 33.917_47.498,#1ea0e6,20220228,[[Novovorontsovka]]
 33.917_47.498,#FACC34,20220328,[[Novovorontsovka]]
 33.917_47.498,#1ea0e6,20220428,[[Novovorontsovka]]
+37.249_47.780,#1ea0e6,20220607,[[Vuhledar]]
 32.504_47.697,#1ea0e6,20220328,[[Novyi Buh]]
 32.504_47.697,#1ea0e6,20220428,[[Novyi Buh]]
 31.672_50.597,#1ea0e6,20220428,[[Novyi Bykiv]]
@@ -9984,6 +10169,7 @@ id,color,date,label
 30.630_50.110,#1ea0e6,20220428,[[Obukhiv]]
 34.866_48.547,#1ea0e6,20220328,[[Obukhivka]]
 34.866_48.547,#1ea0e6,20220428,[[Obukhivka]]
+38.278_48.312,#F03333,20220607,[[Vuhlehirsk]]
 31.539_46.619,#1ea0e6,20220328,[[Ochakiv]]
 31.539_46.619,#1ea0e6,20220428,[[Ochakiv]]
 37.611_48.243,#FACC34,20220328,[[Ocheretyne]]
@@ -10001,6 +10187,7 @@ id,color,date,label
 29.456_47.536,#1ea0e6,20220428,[[Okny]]
 34.127_45.291,#F03333,20220328,[[Oktiabrske]]
 34.127_45.291,#F03333,20220428,[[Oktiabrske]]
+29.596_45.400,#1ea0e6,20220607,[[Vylkove]]
 33.116_48.666,#1ea0e6,20220228,[[Oleksandriia]]
 33.116_48.666,#1ea0e6,20220328,[[Oleksandriia]]
 33.116_48.666,#1ea0e6,20220428,[[Oleksandriia]]
@@ -10020,6 +10207,7 @@ id,color,date,label
 35.788_47.566,#1ea0e6,20220228,[[Orikhiv]]
 35.788_47.566,#FACC34,20220328,[[Orikhiv]]
 35.788_47.566,#1ea0e6,20220428,[[Orikhiv]]
+23.025_48.150,#1ea0e6,20220607,[[Vynohradiv]]
 35.788_47.566,#F03333,20220428,[[Orikhiv]]
 30.879_50.949,#1ea0e6,20220228,[[Oster]]
 30.879_50.949,#1ea0e6,20220328,[[Oster]]
@@ -10034,6 +10222,7 @@ id,color,date,label
 28.736_50.180,#1ea0e6,20220328,[[Ozerne, Zhytomyr |Ozerne]]
 28.736_50.180,#1ea0e6,20220428,[[Ozerne, Zhytomyr |Ozerne]]
 36.279_48.939,#1ea0e6,20220228,[[Paniutyne]]
+32.263_47.191,#1ea0e6,20220607,[[Vynohradivka, Bashtanka Raion|Vynohradivka]]
 36.279_48.939,#1ea0e6,20220328,[[Paniutyne]]
 36.279_48.939,#1ea0e6,20220428,[[Paniutyne]]
 37.976_48.203,#F03333,20220328,[[Panteleimonivka (urban-type settlement)|Panteleimonivka]]
@@ -10053,6 +10242,7 @@ id,color,date,label
 33.693_46.162,#F03333,20220328,[[Perekop]]
 33.693_46.162,#F03333,20220428,[[Perekop]]
 35.364_49.014,#1ea0e6,20220328,[[Pereshchepyne]]
+30.486_50.583,#1ea0e6,20220607,[[Vyshhorod]]
 35.364_49.014,#1ea0e6,20220428,[[Pereshchepyne]]
 35.976_50.030,#1ea0e6,20220228,[[Peresichne]]
 35.976_50.030,#1ea0e6,20220328,[[Peresichne]]
@@ -10072,6 +10262,7 @@ id,color,date,label
 33.858_45.716,#F03333,20220328,[[Pervomaiske]]
 33.858_45.716,#F03333,20220428,[[Pervomaiske]]
 36.216_49.395,#1ea0e6,20220228,[[Pervomaiskyi]]
+30.368_50.392,#1ea0e6,20220607,[[Vyshneve ()|Vyshneve]]
 36.216_49.395,#1ea0e6,20220328,[[Pervomaiskyi]]
 36.216_49.395,#1ea0e6,20220428,[[Pervomaiskyi]]
 36.435_48.457,#1ea0e6,20220328,[[Petropavlivka, Dnipropetrovsk |Petropavlivka]]
@@ -10088,6 +10279,7 @@ id,color,date,label
 35.087_48.573,#1ea0e6,20220428,[[Pidhorodne]]
 29.599_50.696,#1ea0e6,20220228,[[Piskivka]]
 29.599_50.696,#1ea0e6,20220328,[[Piskivka]]
+33.532_47.489,#F03333,20220607,[[Vysokopillia]]
 29.599_50.696,#1ea0e6,20220428,[[Piskivka]]
 32.254_47.347,#1ea0e6,20220428,[[Pisky, Bashtanka Raion|Pisky]]
 36.097_49.954,#1ea0e6,20220228,[[Pisochyn]]
@@ -10107,6 +10299,7 @@ id,color,date,label
 34.079_47.657,#1ea0e6,20220428,[[Pokrov, Ukraine|Pokrov]]
 37.185_48.282,#1ea0e6,20220228,[[Pokrovsk, Ukraine|Povrovsk]]
 37.185_48.282,#1ea0e6,20220328,[[Pokrovsk, Ukraine|Povrovsk]]
+36.118_49.885,#1ea0e6,20220607,[[Vysokyi]]
 37.185_48.282,#1ea0e6,20220428,[[Pokrovsk, Ukraine|Povrovsk]]
 36.231_47.985,#1ea0e6,20220328,[[Pokrovske (urban-type settlement)|Pokrovske]]
 36.231_47.985,#1ea0e6,20220428,[[Pokrovske (urban-type settlement)|Pokrovske]]
@@ -10126,6 +10319,7 @@ id,color,date,label
 38.380_48.633,#F03333,20220328,[[Popasna]]
 38.380_48.633,#FACC34,20220428,[[Popasna]]
 36.628_45.364,#F03333,20220328,[[Port Krym]]
+31.782_50.257,#1ea0e6,20220607,[[Yahotyn]]
 36.628_45.364,#F03333,20220428,[[Port Krym]]
 36.779_46.751,#F03333,20220428,[[Port of Berdiansk]]
 30.375_46.183,#1ea0e6,20220328,[[Port of Bilhorod-Dnistrovskyi]]
@@ -10145,6 +10339,7 @@ id,color,date,label
 32.263_46.805,#1ea0e6,20220428,[[Posad-Pokrovske]]
 30.054_51.405,#F03333,20220328,[[Pripyat]]
 30.054_51.405,#1ea0e6,20220428,[[Pripyat]]
+35.165_46.698,#F03333,20220607,[[Yakymivka]]
 35.638_46.739,#F03333,20220228,[[Pryazovske]]
 35.638_46.739,#F03333,20220328,[[Pryazovske]]
 35.638_46.739,#F03333,20220428,[[Pryazovske]]
@@ -10164,6 +10359,7 @@ id,color,date,label
 38.300_49.007,#1ea0e6,20220228,[[Pryvillia]]
 38.300_49.007,#1ea0e6,20220328,[[Pryvillia]]
 38.300_49.007,#1ea0e6,20220428,[[Pryvillia]]
+34.170_44.499,#F03333,20220607,[[Yalta]]
 28.261_50.471,#1ea0e6,20220328,[[Pulyny]]
 28.261_50.471,#1ea0e6,20220428,[[Pulyny]]
 33.866_51.316,#F03333,20220228,[[Putyvl]]
@@ -10174,6 +10370,7 @@ id,color,date,label
 34.170_44.499,#F03333,20230113,[[Yalta]]
 32.533_50.250,#1ea0e6,20220428,[[Pyriatyn]]
 29.234_50.497,#1ea0e6,20220328,[[Radomyshl]]
+37.971_48.946,#F03333,20220607,[[Yampil]]
 29.234_50.497,#1ea0e6,20220428,[[Radomyshl]]
 24.200_48.050,#1ea0e6,20220228,[[Rakhiv]]
 24.200_48.050,#1ea0e6,20220328,[[Rakhiv]]
@@ -10197,6 +10394,7 @@ id,color,date,label
 30.478_49.691,#1ea0e6,20220328,[[Rokytne, Kyiv |Rokytne]]
 30.478_49.691,#1ea0e6,20220428,[[Rokytne, Kyiv |Rokytne]]
 27.935_50.154,#1ea0e6,20220328,[[Romaniv]]
+37.877_48.122,#F03333,20220607,[[Yasynuvata]]
 27.935_50.154,#1ea0e6,20220428,[[Romaniv]]
 33.481_50.742,#FACC34,20220228,[[Romny]]
 33.481_50.742,#FACC34,20220328,[[Romny]]
@@ -10213,6 +10411,7 @@ id,color,date,label
 38.367_49.017,#FACC34,20220328,[[Rubizhne]]
 38.367_49.017,#FACC34,20220428,[[Rubizhne]]
 34.752_46.336,#F03333,20220228,[[Rykove]]
+23.500_50.006,#1ea0e6,20220607,[[Yavoriv military base]]
 34.752_46.330,#F03333,20220228,[[Rykove]]
 34.752_46.336,#F03333,20220328,[[Rykove]]
 34.752_46.336,#F03333,20220428,[[Rykove]]
@@ -10230,6 +10429,7 @@ id,color,date,label
 37.692_47.174,#F03333,20220428,[[Sartana, Ukraine|Sartana]]
 30.077_48.135,#1ea0e6,20220328,[[Savran, Odessa |Savran]]
 30.077_48.135,#1ea0e6,20220428,[[Savran, Odessa |Savran]]
+27.804_50.875,#1ea0e6,20220607,[[Yemilchyne]]
 37.064_49.397,#1ea0e6,20220228,[[Savyntsi]]
 37.064_49.397,#F03333,20220328,[[Savyntsi]]
 37.064_49.397,#F03333,20220428,[[Savyntsi]]
@@ -10249,6 +10449,7 @@ id,color,date,label
 33.583_44.683,#F03333,20220328,[[Sevastopol International Airport]]
 33.583_44.683,#F03333,20220428,[[Sevastopol International Airport]]
 33.533_44.600,#F03333,20220228,[[Sevastopol]]
+38.208_48.237,#F03333,20220607,[[Yenakiieve]]
 33.533_44.600,#F03333,20220328,[[Sevastopol]]
 33.533_44.600,#F03333,20220428,[[Sevastopol]]
 38.451_48.049,#F03333,20220228,[[Shakhtarsk]]
@@ -10266,6 +10467,7 @@ id,color,date,label
 32.196_46.860,#1ea0e6,20220428,[[Shevchenkove, Shevchenkove rural hromada, Mykolaiv Raion, Mykolaiv |Shevchenkove]]
 37.178_49.689,#F03333,20220228,[[Shevchenkove, Shevchenkove settlement hromada, Kupiansk Raion, Kharkiv |Shevchenkove]]
 37.178_49.689,#F03333,20220328,[[Shevchenkove, Shevchenkove settlement hromada, Kupiansk Raion, Kharkiv |Shevchenkove]]
+33.377_45.242,#F03333,20220607,[[Yevpatoria Airport]]
 37.178_49.689,#F03333,20220428,[[Shevchenkove, Shevchenkove settlement hromada, Kupiansk Raion, Kharkiv |Shevchenkove]]
 32.202_46.863,#1ea0e6,20220328,[[Shevchenkove]]
 22.708_48.378,#1ea0e6,20220328,[[Shipka (military base)]]
@@ -10285,6 +10487,7 @@ id,color,date,label
 37.810_47.098,#F03333,20220428,[[Shyrokyne]]
 38.540_48.900,#1ea0e6,20220228,[[Sieverodonetsk Airport]]
 38.540_48.900,#1ea0e6,20220328,[[Sieverodonetsk Airport]]
+33.368_45.193,#F03333,20220607,[[Yevpatoria]]
 38.540_48.900,#1ea0e6,20220428,[[Sieverodonetsk Airport]]
 38.483_48.950,#1ea0e6,20220228,[[Sieverodonetsk]]
 38.483_48.950,#FACC34,20220328,[[Sieverodonetsk]]
@@ -10304,6 +10507,7 @@ id,color,date,label
 29.664_49.733,#1ea0e6,20220228,[[Skvyra]]
 29.664_49.733,#1ea0e6,20220328,[[Skvyra]]
 29.664_49.733,#1ea0e6,20220428,[[Skvyra]]
+38.273_48.223,#F03333,20220607,[[Yunokomunarivsk]]
 36.159_50.212,#F03333,20220228,[[Slatyne]]
 36.159_50.212,#F03333,20220328,[[Slatyne]]
 36.159_50.212,#1ea0e6,20220428,[[Slatyne]]
@@ -10313,6 +10517,7 @@ id,color,date,label
 36.529_49.594,#1ea0e6,20220228,[[Slobozhanske, Chuhuiv Raion, Kharkiv |Slobozhanske]]
 38.273_48.223,#F03333,20230113,[[Yunokomunarivsk]]
 36.529_49.594,#1ea0e6,20220328,[[Slobozhanske, Chuhuiv Raion, Kharkiv |Slobozhanske]]
+39.174_48.553,#F03333,20220607,[[Yuvileine]]
 36.529_49.594,#1ea0e6,20220428,[[Slobozhanske, Chuhuiv Raion, Kharkiv |Slobozhanske]]
 35.074_48.534,#1ea0e6,20220328,[[Slobozhanske, Dnipropetrovsk |Slobozhanske]]
 35.074_48.534,#1ea0e6,20220428,[[Slobozhanske, Dnipropetrovsk |Slobozhanske]]
@@ -10330,6 +10535,7 @@ id,color,date,label
 30.204_45.255,#F03333,20220328,[[Snake Island (Black Sea)|Snake Island]]
 30.204_45.255,#F03333,20220428,[[Snake Island (Black Sea)|Snake Island]]
 32.806_47.075,#F03333,20220328,[[Snihurivka]]
+31.100_46.624,#1ea0e6,20220607,[[Yuzhne]]
 32.806_47.075,#F03333,20220428,[[Snihurivka]]
 38.766_48.028,#F03333,20220228,[[Snizhne]]
 38.766_48.028,#F03333,20220328,[[Snizhne]]
@@ -10347,6 +10553,7 @@ id,color,date,label
 34.873_48.204,#1ea0e6,20220428,[[Solone]]
 36.049_49.995,#1ea0e6,20220228,[[Solonytsivka]]
 36.049_49.995,#1ea0e6,20220328,[[Solonytsivka]]
+31.182_47.823,#1ea0e6,20220607,[[Yuzhnoukrainsk]]
 36.049_49.995,#1ea0e6,20220428,[[Solonytsivka]]
 32.499_51.531,#FACC34,20220228,[[Sosnytsia]]
 32.499_51.531,#FACC34,20220328,[[Sosnytsia]]
@@ -10364,6 +10571,7 @@ id,color,date,label
 39.467_48.667,#F03333,20220328,[[Stanytsia Luhanska]]
 39.467_48.667,#F03333,20220428,[[Stanytsia Luhanska]]
 38.025_47.753,#F03333,20220328,[[Starobesheve]]
+29.755_47.333,#1ea0e6,20220607,[[Zakharivka]]
 38.025_47.753,#F03333,20220428,[[Starobesheve]]
 38.924_49.277,#FACC34,20220228,[[Starobilsk]]
 38.924_49.277,#F03333,20220328,[[Starobilsk]]
@@ -10381,6 +10589,7 @@ id,color,date,label
 30.199_49.391,#1ea0e6,20220328,[[Stavyshche]]
 30.199_49.391,#1ea0e6,20220428,[[Stavyshche]]
 34.632_50.940,#FACC34,20220228,[[Stepanivka, Sumy |Stepanivka]]
+37.898_48.369,#1ea0e6,20220607,[[Zalizne]]
 34.632_50.940,#FACC34,20220328,[[Stepanivka, Sumy |Stepanivka]]
 34.632_50.940,#1ea0e6,20220428,[[Stepanivka, Sumy |Stepanivka]]
 25.717_48.167,#1ea0e6,20220228,[[Storozhynets]]
@@ -10398,6 +10607,7 @@ id,color,date,label
 34.762_50.858,#1ea0e6,20220428,[[Sumy Airport]]
 34.796_50.908,#FACC34,20220228,[[Sumy]]
 34.796_50.908,#FACC34,20220328,[[Sumy]]
+33.285_45.161,#F03333,20220607,[[Zaozerne]]
 34.796_50.908,#1ea0e6,20220428,[[Sumy]]
 22.986_48.547,#1ea0e6,20220228,[[Svaliava]]
 22.986_48.547,#1ea0e6,20220328,[[Svaliava]]
@@ -10415,6 +10625,7 @@ id,color,date,label
 37.567_49.033,#1ea0e6,20220428,[[Sviatohirsk]]
 30.385_50.478,#1ea0e6,20220328,[[Sviatoshyn Airfield]]
 30.385_50.478,#1ea0e6,20220428,[[Sviatoshyn Airfield]]
+35.315_47.866,#1ea0e6,20220607,[[Zaporizhzhia International Airport]]
 38.220_48.435,#1ea0e6,20220228,[[Svitlodarsk]]
 38.220_48.435,#1ea0e6,20220328,[[Svitlodarsk]]
 38.220_48.435,#1ea0e6,20220428,[[Svitlodarsk]]
@@ -10433,6 +10644,7 @@ id,color,date,label
 30.497_49.562,#1ea0e6,20220228,[[Tarashcha]]
 30.497_49.562,#1ea0e6,20220328,[[Tarashcha]]
 30.497_49.562,#1ea0e6,20220428,[[Tarashcha]]
+34.586_47.512,#F03333,20220607,[[Zaporizhzhia Nuclear Power Plant]]
 29.147_46.189,#1ea0e6,20220328,[[Tarutyne]]
 29.147_46.189,#1ea0e6,20220428,[[Tarutyne]]
 29.615_45.839,#1ea0e6,20220328,[[Tatarbunary]]
@@ -10452,6 +10664,7 @@ id,color,date,label
 25.600_49.566,#1ea0e6,20220228,[[Ternopil]]
 25.600_49.566,#1ea0e6,20220328,[[Ternopil]]
 25.600_49.566,#1ea0e6,20220428,[[Ternopil]]
+35.140_47.839,#1ea0e6,20220607,[[Zaporizhzhia]]
 37.964_49.095,#F03333,20220428,[[Terny]]
 29.658_49.366,#1ea0e6,20220228,[[Tetiiv]]
 29.658_49.366,#1ea0e6,20220328,[[Tetiiv]]
@@ -10463,6 +10676,7 @@ id,color,date,label
 35.218_47.259,#F03333,20220428,[[Tokmak, Ukraine|Tokmak]]
 35.715_47.250,#F03333,20220428,[[Tokmak, Ukraine|Tokmak]]
 34.755_47.817,#1ea0e6,20220328,[[Tomakivka]]
+37.920_49.019,#F03333,20220607,[[Zarichne, Kramatorsk Raion]]
 34.755_47.817,#1ea0e6,20220428,[[Tomakivka]]
 37.855_48.397,#1ea0e6,20220228,[[Toretsk]]
 37.855_48.397,#1ea0e6,20220328,[[Toretsk]]
@@ -10480,6 +10694,7 @@ id,color,date,label
 34.470_48.947,#1ea0e6,20220328,[[Tsarychanka]]
 34.470_48.947,#1ea0e6,20220428,[[Tsarychanka]]
 30.737_50.138,#1ea0e6,20220228,[[Ukrainka, Kyiv |Ukrainka]]
+30.457_46.067,#1ea0e6,20220607,[[Zatoka, Bilhorod-Dnistrovskyi Raion, Odessa |Zatoka]]
 30.737_50.138,#1ea0e6,20220328,[[Ukrainka, Kyiv |Ukrainka]]
 30.737_50.138,#1ea0e6,20220428,[[Ukrainka, Kyiv |Ukrainka]]
 32.141_46.826,#1ea0e6,20220428,[[Ukrainka, Mykolaiv Raion, Mykolaiv |Ukrainka]]
@@ -10494,6 +10709,7 @@ id,color,date,label
 39.153_48.391,#F03333,20220228,[[Uspenka]]
 39.153_48.391,#F03333,20220328,[[Uspenka]]
 39.153_48.391,#F03333,20220428,[[Uspenka]]
+33.383_50.383,#1ea0e6,20220607,[[Zavodske, Poltava |Zavodske]]
 22.263_48.634,#1ea0e6,20220228,[[Uzhhorod International Airport]]
 22.263_48.634,#1ea0e6,20220328,[[Uzhhorod International Airport]]
 22.263_48.634,#1ea0e6,20220428,[[Uzhhorod International Airport]]
@@ -10511,6 +10727,7 @@ id,color,date,label
 38.839_48.161,#F03333,20220428,[[Vakhrusheve]]
 35.621_49.839,#1ea0e6,20220228,[[Valky]]
 35.621_49.839,#1ea0e6,20220328,[[Valky]]
+34.040_44.900,#F03333,20220607,[[Zavodskoe Airport]]
 35.621_49.839,#1ea0e6,20220428,[[Valky]]
 32.719_50.496,#1ea0e6,20220228,[[Varva, Chernihiv |Varva]]
 32.719_50.496,#1ea0e6,20220328,[[Varva, Chernihiv |Varva]]
@@ -10519,6 +10736,7 @@ id,color,date,label
 35.287_47.442,#F03333,20220328,[[Vasylivka]]
 35.287_47.442,#F03333,20220428,[[Vasylivka]]
 34.040_44.900,#F03333,20230113,[[Zavodskoe Airport]]
+26.260_50.509,#1ea0e6,20220607,[[Zdolbuniv]]
 30.300_50.233,#1ea0e6,20220328,[[Vasylkiv Air Base]]
 30.300_50.233,#1ea0e6,20220428,[[Vasylkiv Air Base]]
 30.320_50.177,#1ea0e6,20220228,[[Vasylkiv]]
@@ -10536,6 +10754,7 @@ id,color,date,label
 30.911_50.586,#1ea0e6,20220228,[[Velyka Dymerka]]
 30.911_50.586,#1ea0e6,20220328,[[Velyka Dymerka]]
 30.911_50.586,#1ea0e6,20220428,[[Velyka Dymerka]]
+32.638_46.715,#F03333,20220607,[[Zelenivka, Kherson |Zelenivka]]
 36.989_49.108,#F03333,20220428,[[Velyka Komyshuvakha]]
 33.937_47.163,#1ea0e6,20220228,[[Velyka Lepetykha]]
 33.937_47.163,#F03333,20220328,[[Velyka Lepetykha]]
@@ -10552,6 +10771,7 @@ id,color,date,label
 35.481_50.420,#F03333,20220328,[[Velyka Pysarivka]]
 35.481_50.420,#1ea0e6,20220428,[[Velyka Pysarivka]]
 30.567_46.343,#1ea0e6,20220328,[[Velykodolynske]]
+33.647_47.566,#1ea0e6,20220607,[[Zelenodolsk, Ukraine|Zelenodolsk]]
 30.567_46.343,#1ea0e6,20220428,[[Velykodolynske]]
 37.388_50.049,#F03333,20220328,[[Velykyi Burluk]]
 37.388_50.049,#F03333,20220428,[[Velykyi Burluk]]
@@ -10578,6 +10798,7 @@ id,color,date,label
 35.879_50.056,#1ea0e6,20220228,[[Vilshany]]
 35.879_50.056,#1ea0e6,20220328,[[Vilshany]]
 35.879_50.056,#1ea0e6,20220428,[[Vilshany]]
+30.111_49.236,#1ea0e6,20220607,[[Zhashkiv]]
 28.483_49.233,#1ea0e6,20220228,[[Vinnytsia]]
 28.483_49.233,#1ea0e6,20220328,[[Vinnytsia]]
 28.483_49.233,#1ea0e6,20220428,[[Vinnytsia]]
@@ -10597,6 +10818,7 @@ id,color,date,label
 30.149_50.544,#1ea0e6,20220228,[[Vorzel]]
 30.149_50.544,#F03333,20220328,[[Vorzel]]
 30.149_50.544,#1ea0e6,20220428,[[Vorzel]]
+38.254_48.146,#F03333,20220607,[[Zhdanivka]]
 36.933_50.284,#F03333,20220228,[[Vovchansk]]
 36.933_50.284,#F03333,20220328,[[Vovchansk]]
 36.933_50.284,#F03333,20220428,[[Vovchansk]]
@@ -10605,6 +10827,7 @@ id,color,date,label
 30.591_47.866,#1ea0e6,20220328,[[Vradiivka]]
 30.591_47.866,#1ea0e6,20220428,[[Vradiivka]]
 38.254_48.146,#F03333,20230113,[[Zhdanivka]]
+28.104_49.037,#1ea0e6,20220607,[[Zhmerynka]]
 37.249_47.780,#1ea0e6,20220228,[[Vuhledar]]
 37.249_47.780,#1ea0e6,20220328,[[Vuhledar]]
 37.249_47.780,#1ea0e6,20220428,[[Vuhledar]]
@@ -10624,6 +10847,7 @@ id,color,date,label
 30.368_50.392,#1ea0e6,20220328,[[Vyshneve ()|Vyshneve]]
 30.368_50.392,#1ea0e6,20220428,[[Vyshneve ()|Vyshneve]]
 33.532_47.494,#F03333,20220328,[[Vysokopillia]]
+33.525_48.344,#1ea0e6,20220607,[[Zhovti Vody]]
 33.532_47.494,#F03333,20220428,[[Vysokopillia]]
 36.118_49.885,#1ea0e6,20220228,[[Vysokyi]]
 36.118_49.885,#1ea0e6,20220328,[[Vysokyi]]
@@ -10641,6 +10865,7 @@ id,color,date,label
 37.877_48.122,#F03333,20220228,[[Yasynuvata]]
 37.877_48.122,#F03333,20220328,[[Yasynuvata]]
 37.877_48.122,#F03333,20220428,[[Yasynuvata]]
+24.450_50.917,#1ea0e6,20220607,[[Zhovtneve Air Base]]
 23.500_50.006,#1ea0e6,20220328,[[Yavoriv military base]]
 23.500_50.006,#1ea0e6,20220428,[[Yavoriv military base]]
 27.804_50.875,#1ea0e6,20220328,[[Yemilchyne]]
@@ -10660,6 +10885,7 @@ id,color,date,label
 31.100_46.624,#1ea0e6,20220328,[[Yuzhne]]
 31.100_46.624,#1ea0e6,20220428,[[Yuzhne]]
 31.184_47.823,#1ea0e6,20220328,[[Yuzhnoukrainsk]]
+28.659_50.255,#1ea0e6,20220607,[[Zhytomyr]]
 31.184_47.823,#1ea0e6,20220428,[[Yuzhnoukrainsk]]
 29.755_47.333,#1ea0e6,20220328,[[Zakharivka]]
 29.755_47.333,#1ea0e6,20220428,[[Zakharivka]]
@@ -10674,6 +10900,7 @@ id,color,date,label
 34.586_47.512,#F03333,20220428,[[Zaporizhzhia Nuclear Power Plant]]
 35.140_47.839,#1ea0e6,20220228,[[Zaporizhzhia]]
 35.140_47.839,#1ea0e6,20220328,[[Zaporizhzhia]]
+34.350_50.200,#1ea0e6,20220607,[[Zinkiv]]
 35.140_47.839,#1ea0e6,20220428,[[Zaporizhzhia]]
 37.920_49.019,#F03333,20220428,[[Zarichne, Kramatorsk Raion]]
 30.457_46.067,#1ea0e6,20220328,[[Zatoka, Bilhorod-Dnistrovskyi Raion, Odessa |Zatoka]]
@@ -10693,6 +10920,7 @@ id,color,date,label
 38.254_48.146,#F03333,20220228,[[Zhdanivka]]
 38.254_48.146,#F03333,20220328,[[Zhdanivka]]
 38.254_48.146,#F03333,20220428,[[Zhdanivka]]
+36.360_49.694,#1ea0e6,20220607,[[Zmiiv]]
 33.500_48.350,#1ea0e6,20220228,[[Zhovti Vody]]
 33.525_48.344,#1ea0e6,20220328,[[Zhovti Vody]]
 33.525_48.344,#1ea0e6,20220428,[[Zhovti Vody]]
@@ -10701,6 +10929,7 @@ id,color,date,label
 28.666_50.250,#1ea0e6,20220228,[[Zhytomyr]]
 28.659_50.255,#1ea0e6,20220328,[[Zhytomyr]]
 36.360_49.694,#1ea0e6,20230113,[[Zmiiv]]
+32.673_48.714,#1ea0e6,20220607,[[Znamianka, Kirovohrad |Znamianka]]
 28.659_50.255,#1ea0e6,20220428,[[Zhytomyr]]
 34.350_50.200,#1ea0e6,20220428,[[Zinkiv]]
 36.360_49.694,#1ea0e6,20220228,[[Zmiiv]]
@@ -10720,6 +10949,7 @@ id,color,date,label
 38.617_48.417,#F03333,20220328,[[Zorynsk]]
 38.617_48.417,#F03333,20220428,[[Zorynsk]]
 38.261_48.022,#F03333,20220228,[[Zuhres]]
+35.976_50.269,#1ea0e6,20220607,[[Zolochiv, Kharkiv |Zolochiv]]
 38.261_48.022,#F03333,20220328,[[Zuhres]]
 38.261_48.022,#F03333,20220428,[[Zuhres]]
 30.968_49.070,#1ea0e6,20220228,[[Zvenyhorodka]]
@@ -10728,6 +10958,7 @@ id,color,date,label
 38.933_48.583,#F03333,20220228,[[Zymohiria]]
 38.933_48.583,#F03333,20220328,[[Zymohiria]]
 35.976_50.269,#1ea0e6,20230113,[[Zolochiv, Kharkiv |Zolochiv]]
+24.903_49.807,#1ea0e6,20220607,[[Zolochiv, Lviv |Zolochiv]]
 38.933_48.583,#F03333,20220428,[[Zymohiria]]
 37.610_47.098,#FACC34,20220428,Azovstal Metallurgical Combine
 36.961_49.830,#1ea0e6,20220428,Bazaliivka
@@ -10747,6 +10978,7 @@ id,color,date,label
 33.572_51.632,#F03333,20220228,Dubovychi
 33.572_51.632,#F03333,20220328,Dubovychi
 39.255_48.426,#F03333,20220228,Heorhiivka
+38.515_48.693,#F03333,20220607,[[Zolote]]
 39.255_48.426,#F03333,20220328,Heorhiivka
 39.255_48.426,#F03333,20220428,Heorhiivka
 38.942_48.235,#F03333,20220228,Ivanivka
@@ -10766,6 +10998,7 @@ id,color,date,label
 31.391_51.386,#1ea0e6,20220428,Lukashivka
 36.421_50.209,#F03333,20220428,Lyptsi
 33.922_47.546,#1ea0e6,20220428,Mar yans ke
+32.033_49.667,#1ea0e6,20220607,[[Zolotonosha]]
 38.273_48.459,#1ea0e6,20220328,Myronivskyi
 38.273_48.459,#1ea0e6,20220428,Myronivskyi
 33.622_47.463,#1ea0e6,20220428,NA
@@ -10785,6 +11018,7 @@ id,color,date,label
 37.218_47.754,#F03333,20220428,Pavlivka
 38.606_48.094,#F03333,20220228,Pelahiivka
 38.606_48.094,#F03333,20220328,Pelahiivka
+38.617_48.417,#F03333,20220607,[[Zorynsk]]
 38.606_48.094,#F03333,20220428,Pelahiivka
 33.940_51.548,#FACC34,20220228,Peremoha
 33.940_51.548,#FACC34,20220328,Peremoha
@@ -10804,6 +11038,7 @@ id,color,date,label
 38.563_48.129,#F03333,20220328,Rozsypne
 38.563_48.129,#F03333,20220428,Rozsypne
 38.689_48.085,#F03333,20220328,Sieverne
+38.261_48.022,#F03333,20220607,[[Zuhres]]
 38.689_48.085,#F03333,20220428,Sieverne
 31.366_51.335,#1ea0e6,20220428,Sloboda
 38.160_48.265,#F03333,20220328,Sofiivka
@@ -10823,6 +11058,7 @@ id,color,date,label
 39.216_48.160,#F03333,20220228,Yasenivskyi
 39.216_48.160,#F03333,20220328,Yasenivskyi
 39.216_48.160,#F03333,20220428,Yasenivskyi
+30.968_49.070,#1ea0e6,20220607,[[Zvenyhorodka]]
 37.564_48.766,#1ea0e6,20220328,Yasnohirka
 37.564_48.766,#1ea0e6,20220428,Yasnohirka
 37.050_49.154,#F03333,20220428,Zavody
@@ -10842,6 +11078,7 @@ id,color,date,label
 32.386_50.589,#1ea0e6,20220228,[[Pryluky]]
 32.386_50.589,#1ea0e6,20220328,[[Pryluky]]
 32.386_50.589,#1ea0e6,20220428,[[Pryluky]]
+38.933_48.583,#F03333,20220607,[[Zymohiria]]
 32.386_50.589,#1ea0e6,20220728,[[Pryluky]]
 32.386_50.589,#1ea0e6,20221128,[[Pryluky]]
 36.354_46.723,#F03333,20220228,[[Prymorsk]]
@@ -10850,6 +11087,7 @@ id,color,date,label
 36.354_46.723,#F03333,20220728,[[Prymorsk]]
 36.354_46.723,#F03333,20221128,[[Prymorsk]]
 38.933_48.583,#F03333,20230113,[[Zymohiria]]
+30.757_50.926,#1ea0e6,20220607,169th Training Centre (Ukraine)
 35.481_45.117,#F03333,20220328,[[Prymorskyi]]
 35.481_45.117,#F03333,20220428,[[Prymorskyi]]
 35.481_45.117,#F03333,20220728,[[Prymorskyi]]
@@ -10864,6 +11102,7 @@ id,color,date,label
 28.261_50.471,#1ea0e6,20220428,[[Pulyny]]
 28.261_50.471,#1ea0e6,20220728,[[Pulyny]]
 28.261_50.471,#1ea0e6,20221128,[[Pulyny]]
+37.610_47.098,#F03333,20220607,Azovstal Metallurgical Combine
 33.866_51.316,#F03333,20220228,[[Putyvl]]
 33.866_51.316,#F03333,20220328,[[Putyvl]]
 33.866_51.316,#1ea0e6,20220428,[[Putyvl]]
@@ -10885,6 +11124,7 @@ id,color,date,label
 38.412_48.790,#F03333,20220728,[[Rai-Oleksandrivka]]
 38.412_48.790,#F03333,20221128,[[Rai-Oleksandrivka]]
 37.723_48.900,#1ea0e6,20221128,[[Raihorodok]]
+36.961_49.830,#1ea0e6,20220607,Bazaliivka
 24.200_48.050,#1ea0e6,20220228,[[Rakhiv]]
 24.200_48.050,#1ea0e6,20220328,[[Rakhiv]]
 24.200_48.050,#1ea0e6,20220428,[[Rakhiv]]
@@ -10910,6 +11150,7 @@ id,color,date,label
 25.891_51.327,#1ea0e6,20220428,[[Rivne Nuclear Power Plant]]
 25.895_51.325,#1ea0e6,20220728,[[Rivne Nuclear Power Plant]]
 25.895_51.325,#1ea0e6,20221128,[[Rivne Nuclear Power Plant]]
+39.049_48.501,#F03333,20220607,Bile
 26.250_50.616,#1ea0e6,20220228,[[Rivne]]
 26.250_50.616,#1ea0e6,20220328,[[Rivne]]
 26.250_50.616,#1ea0e6,20220428,[[Rivne]]
@@ -10921,6 +11162,7 @@ id,color,date,label
 30.478_49.691,#1ea0e6,20220228,[[Rokytne, Kyiv |Rokytne]]
 30.478_49.691,#1ea0e6,20220328,[[Rokytne, Kyiv |Rokytne]]
 30.478_49.691,#1ea0e6,20220428,[[Rokytne, Kyiv |Rokytne]]
+33.702_47.324,#F03333,20220607,Bilyaivka
 30.478_49.691,#1ea0e6,20220728,[[Rokytne, Kyiv |Rokytne]]
 30.478_49.691,#1ea0e6,20221128,[[Rokytne, Kyiv |Rokytne]]
 27.935_50.154,#1ea0e6,20220328,[[Romaniv]]
@@ -10932,6 +11174,7 @@ id,color,date,label
 33.481_50.742,#1ea0e6,20220428,[[Romny]]
 33.008_47.176,#1ea0e6,20230113,Blahodativka
 33.481_50.742,#1ea0e6,20220728,[[Romny]]
+32.346_46.790,#F03333,20220607,Blahodatne
 33.481_50.742,#1ea0e6,20221128,[[Romny]]
 39.343_48.071,#F03333,20220228,[[Rovenky]]
 39.343_48.071,#F03333,20220328,[[Rovenky]]
@@ -10959,6 +11202,7 @@ id,color,date,label
 36.279_50.141,#1ea0e6,20220728,[[Ruska Lozova]]
 36.279_50.141,#1ea0e6,20221128,[[Ruska Lozova]]
 34.752_46.336,#F03333,20220228,[[Rykove]]
+38.564_48.871,#F03333,20220607,Borivske
 34.752_46.330,#F03333,20220228,[[Rykove]]
 34.752_46.336,#F03333,20220328,[[Rykove]]
 34.752_46.336,#F03333,20220428,[[Rykove]]
@@ -10986,6 +11230,7 @@ id,color,date,label
 23.203_49.517,#1ea0e6,20221128,[[Sambir]]
 26.606_51.337,#1ea0e6,20220728,[[Sarny]]
 26.606_51.337,#1ea0e6,20221128,[[Sarny]]
+37.215_49.041,#F03333,20220607,Brazhkivka
 37.692_47.174,#FACC34,20220228,[[Sartana, Ukraine|Sartana]]
 37.692_47.174,#F03333,20220328,[[Sartana, Ukraine|Sartana]]
 37.692_47.174,#F03333,20220428,[[Sartana, Ukraine|Sartana]]
@@ -11007,6 +11252,7 @@ id,color,date,label
 31.568_51.643,#1ea0e6,20221128,[[Sedniv]]
 37.297_48.148,#1ea0e6,20220228,[[Selydove]]
 37.297_48.148,#1ea0e6,20220328,[[Selydove]]
+37.500_48.840,#1ea0e6,20220607,Bylbasivka
 37.297_48.148,#1ea0e6,20220428,[[Selydove]]
 37.297_48.148,#1ea0e6,20220728,[[Selydove]]
 37.297_48.148,#1ea0e6,20221128,[[Selydove]]
@@ -11021,6 +11267,7 @@ id,color,date,label
 34.041_52.184,#F03333,20220328,[[Seredyna-Buda]]
 30.365_46.029,#1ea0e6,20220328,[[Serhiivka, Serhiivka settlement hromada, Bilhorod-Dnistrovskyi Raion, Odessa |Serhiivka]]
 30.365_46.029,#1ea0e6,20220428,[[Serhiivka, Serhiivka settlement hromada, Bilhorod-Dnistrovskyi Raion, Odessa |Serhiivka]]
+29.884_50.266,#1ea0e6,20220607,Byshiv
 30.365_46.029,#1ea0e6,20220728,[[Serhiivka, Serhiivka settlement hromada, Bilhorod-Dnistrovskyi Raion, Odessa |Serhiivka]]
 30.365_46.029,#1ea0e6,20221128,[[Serhiivka, Serhiivka settlement hromada, Bilhorod-Dnistrovskyi Raion, Odessa |Serhiivka]]
 33.583_44.683,#F03333,20220328,[[Sevastopol International Airport]]
@@ -11030,6 +11277,7 @@ id,color,date,label
 33.533_44.600,#F03333,20220228,[[Sevastopol]]
 29.884_50.266,#1ea0e6,20230113,Byshiv
 33.533_44.600,#F03333,20220328,[[Sevastopol]]
+36.375_50.117,#1ea0e6,20220607,Cherkaski Tyshky
 33.533_44.600,#F03333,20220428,[[Sevastopol]]
 33.533_44.600,#F03333,20220728,[[Sevastopol]]
 33.533_44.600,#F03333,20221128,[[Sevastopol]]
@@ -11056,6 +11304,7 @@ id,color,date,label
 31.192_51.387,#1ea0e6,20220728,[[Shestovytsia]]
 31.192_51.387,#1ea0e6,20221128,[[Shestovytsia]]
 37.145_48.220,#1ea0e6,20221128,[[Shevchenko, Donetsk |Shevchenko]]
+37.319_49.018,#1ea0e6,20220607,Dovhenke
 31.045_50.645,#F03333,20220328,[[Shevchenkove, Brovary Raion, Kyiv ]]
 31.045_50.645,#1ea0e6,20220428,[[Shevchenkove, Brovary Raion, Kyiv ]]
 31.045_50.645,#1ea0e6,20220728,[[Shevchenkove, Brovary Raion, Kyiv ]]
@@ -11071,6 +11320,7 @@ id,color,date,label
 37.178_49.689,#1ea0e6,20221128,[[Shevchenkove, Shevchenkove settlement hromada, Kupiansk Raion, Kharkiv |Shevchenkove]]
 32.202_46.863,#1ea0e6,20220328,[[Shevchenkove]]
 22.708_48.378,#1ea0e6,20220328,[[Shipka (military base)]]
+36.688_50.072,#1ea0e6,20220607,Fedorivka
 22.708_48.378,#1ea0e6,20220428,[[Shipka (military base)]]
 22.708_48.378,#1ea0e6,20220728,[[Shipka (military base)]]
 22.708_48.378,#1ea0e6,20221128,[[Shipka (military base)]]
@@ -11094,6 +11344,7 @@ id,color,date,label
 33.268_47.693,#1ea0e6,20220428,[[Shyroke]]
 33.268_47.693,#1ea0e6,20220728,[[Shyroke]]
 33.268_47.693,#1ea0e6,20221128,[[Shyroke]]
+39.255_48.426,#F03333,20220607,Heorhiivka
 37.810_47.098,#F03333,20220328,[[Shyrokyne]]
 37.810_47.098,#F03333,20220428,[[Shyrokyne]]
 37.810_47.098,#F03333,20220728,[[Shyrokyne]]
@@ -11120,6 +11371,7 @@ id,color,date,label
 34.088_44.938,#F03333,20220328,[[Simferopol]]
 34.088_44.938,#F03333,20220428,[[Simferopol]]
 36.815_49.358,#1ea0e6,20230113,Husarivka
+36.127_47.495,#F03333,20220607,Inzhenerne
 34.088_44.938,#F03333,20220728,[[Simferopol]]
 34.088_44.938,#F03333,20221128,[[Simferopol]]
 38.105_48.874,#1ea0e6,20220228,[[Siversk]]
@@ -11139,6 +11391,7 @@ id,color,date,label
 29.664_49.733,#1ea0e6,20220728,[[Skvyra]]
 29.664_49.733,#1ea0e6,20221128,[[Skvyra]]
 36.159_50.212,#F03333,20220228,[[Slatyne]]
+38.942_48.235,#F03333,20220607,Ivanivka
 36.159_50.212,#F03333,20220328,[[Slatyne]]
 36.159_50.212,#1ea0e6,20220428,[[Slatyne]]
 36.159_50.212,#1ea0e6,20220728,[[Slatyne]]
@@ -11156,6 +11409,7 @@ id,color,date,label
 36.529_49.594,#1ea0e6,20220328,[[Slobozhanske, Chuhuiv Raion, Kharkiv |Slobozhanske]]
 37.865_49.182,#1ea0e6,20230113,Katerynivka
 36.529_49.594,#1ea0e6,20220428,[[Slobozhanske, Chuhuiv Raion, Kharkiv |Slobozhanske]]
+36.876_50.023,#F03333,20220607,Khotimlya
 36.529_49.594,#1ea0e6,20220728,[[Slobozhanske, Chuhuiv Raion, Kharkiv |Slobozhanske]]
 36.529_49.594,#1ea0e6,20221128,[[Slobozhanske, Chuhuiv Raion, Kharkiv |Slobozhanske]]
 35.074_48.534,#1ea0e6,20220328,[[Slobozhanske, Dnipropetrovsk |Slobozhanske]]
@@ -11168,6 +11422,7 @@ id,color,date,label
 38.977_48.698,#F03333,20220428,[[Slovianoserbsk]]
 38.977_48.698,#F03333,20220728,[[Slovianoserbsk]]
 38.977_48.698,#F03333,20221128,[[Slovianoserbsk]]
+33.824_47.384,#F03333,20220607,Khreshchenivka
 37.625_48.853,#1ea0e6,20220228,[[Sloviansk]]
 37.625_48.853,#1ea0e6,20220328,[[Sloviansk]]
 37.625_48.853,#1ea0e6,20220428,[[Sloviansk]]
@@ -11183,6 +11438,7 @@ id,color,date,label
 30.204_45.255,#F03333,20220228,[[Snake Island (Black Sea)|Snake Island]]
 30.204_45.255,#F03333,20220328,[[Snake Island (Black Sea)|Snake Island]]
 30.204_45.255,#F03333,20220428,[[Snake Island (Black Sea)|Snake Island]]
+36.738_49.878,#1ea0e6,20220607,Kochetok
 30.204_45.255,#1ea0e6,20221128,[[Snake Island (Black Sea)|Snake Island]]
 32.806_47.075,#F03333,20220328,[[Snihurivka]]
 32.806_47.075,#F03333,20220428,[[Snihurivka]]
@@ -11218,6 +11474,7 @@ id,color,date,label
 34.873_48.204,#1ea0e6,20220428,[[Solone]]
 34.873_48.204,#1ea0e6,20220728,[[Solone]]
 34.873_48.204,#1ea0e6,20221128,[[Solone]]
+39.059_48.074,#F03333,20220607,Kripenskyi
 36.049_49.995,#1ea0e6,20220228,[[Solonytsivka]]
 36.049_49.995,#1ea0e6,20220328,[[Solonytsivka]]
 36.049_49.995,#1ea0e6,20220428,[[Solonytsivka]]
@@ -11239,6 +11496,7 @@ id,color,date,label
 34.933_45.347,#F03333,20220728,[[Sovietskyi]]
 34.933_45.347,#F03333,20221128,[[Sovietskyi]]
 38.649_48.560,#F03333,20220228,[[Stakhanov, Ukraine|Stakhanov]]
+36.469_50.043,#1ea0e6,20220607,Kutuzivka
 38.649_48.560,#F03333,20220328,[[Stakhanov, Ukraine|Stakhanov]]
 38.649_48.560,#F03333,20220428,[[Stakhanov, Ukraine|Stakhanov]]
 38.649_48.560,#F03333,20220728,[[Stakhanov, Ukraine|Stakhanov]]
@@ -11248,6 +11506,7 @@ id,color,date,label
 39.467_48.667,#F03333,20220428,[[Stanytsia Luhanska]]
 36.469_50.043,#1ea0e6,20230113,Kutuzivka
 39.467_48.667,#F03333,20220728,[[Stanytsia Luhanska]]
+32.408_46.755,#F03333,20220607,Kyselivka
 39.467_48.667,#F03333,20221128,[[Stanytsia Luhanska]]
 38.025_47.753,#F03333,20220328,[[Starobesheve]]
 38.025_47.753,#F03333,20220428,[[Starobesheve]]
@@ -11260,6 +11519,7 @@ id,color,date,label
 38.924_49.277,#F03333,20220728,[[Starobilsk]]
 38.924_49.277,#F03333,20221128,[[Starobilsk]]
 27.272_49.748,#1ea0e6,20220328,[[Starokostiantyniv Air Base]]
+36.906_49.804,#1ea0e6,20220607,Lebyazhe
 27.272_49.748,#1ea0e6,20220428,[[Starokostiantyniv Air Base]]
 27.272_49.748,#1ea0e6,20220728,[[Starokostiantyniv Air Base]]
 27.272_49.748,#1ea0e6,20221128,[[Starokostiantyniv Air Base]]
@@ -11275,6 +11535,7 @@ id,color,date,label
 33.717_47.393,#1ea0e6,20230113,Liubymivka
 35.089_45.029,#F03333,20220728,[[Staryi Krym]]
 35.089_45.029,#F03333,20221128,[[Staryi Krym]]
+32.670_47.079,#1ea0e6,20220607,Liubyne
 36.790_50.079,#1ea0e6,20220328,[[Staryi Saltiv]]
 36.795_50.078,#F03333,20220428,[[Staryi Saltiv]]
 36.795_50.078,#1ea0e6,20220728,[[Staryi Saltiv]]
@@ -11282,6 +11543,7 @@ id,color,date,label
 30.199_49.391,#1ea0e6,20220228,[[Stavyshche]]
 30.199_49.391,#1ea0e6,20220328,[[Stavyshche]]
 30.199_49.391,#1ea0e6,20220428,[[Stavyshche]]
+37.597_49.209,#F03333,20220607,Lozove
 30.199_49.391,#1ea0e6,20220728,[[Stavyshche]]
 30.199_49.391,#1ea0e6,20221128,[[Stavyshche]]
 23.567_49.300,#1ea0e6,20220728,[[Stebnyk]]
@@ -11299,6 +11561,7 @@ id,color,date,label
 25.717_48.167,#1ea0e6,20221128,[[Storozhynets]]
 23.787_49.243,#1ea0e6,20220328,[[Stryi Air Base]]
 23.787_49.243,#1ea0e6,20220428,[[Stryi Air Base]]
+31.391_51.386,#1ea0e6,20220607,Lukashivka
 23.787_49.243,#1ea0e6,20220728,[[Stryi Air Base]]
 23.787_49.243,#1ea0e6,20221128,[[Stryi Air Base]]
 23.850_49.250,#1ea0e6,20220728,[[Stryi]]
@@ -11310,6 +11573,7 @@ id,color,date,label
 34.972_44.851,#F03333,20221128,[[Sudak]]
 39.722_48.354,#F03333,20220228,[[Sukhodilsk]]
 39.722_48.354,#F03333,20220328,[[Sukhodilsk]]
+36.421_50.209,#F03333,20220607,Lyptsi
 39.722_48.354,#F03333,20220428,[[Sukhodilsk]]
 39.722_48.354,#F03333,20220728,[[Sukhodilsk]]
 39.722_48.354,#F03333,20221128,[[Sukhodilsk]]
@@ -11339,6 +11603,7 @@ id,color,date,label
 39.655_48.075,#F03333,20220228,[[Sverdlovsk, Luhansk |Sverdlovsk]]
 39.655_48.075,#F03333,20220328,[[Sverdlovsk, Luhansk |Sverdlovsk]]
 39.655_48.075,#F03333,20220428,[[Sverdlovsk, Luhansk |Sverdlovsk]]
+33.922_47.546,#1ea0e6,20220607,Mar yans ke
 39.655_48.075,#F03333,20220728,[[Sverdlovsk, Luhansk |Sverdlovsk]]
 39.655_48.075,#F03333,20221128,[[Sverdlovsk, Luhansk |Sverdlovsk]]
 33.935_51.946,#1ea0e6,20220228,[[Svesa]]
@@ -11347,6 +11612,7 @@ id,color,date,label
 33.935_51.946,#1ea0e6,20220728,[[Svesa]]
 33.935_51.946,#1ea0e6,20221128,[[Svesa]]
 33.922_47.546,#1ea0e6,20230113,Mar yans ke
+38.205_48.552,#F03333,20220607,Midna Ruda
 37.567_49.033,#1ea0e6,20220428,[[Sviatohirsk]]
 37.567_49.033,#F03333,20220728,[[Sviatohirsk]]
 37.567_49.033,#1ea0e6,20221128,[[Sviatohirsk]]
@@ -11356,6 +11622,7 @@ id,color,date,label
 30.385_50.478,#1ea0e6,20221128,[[Sviatoshyn Airfield]]
 38.205_48.552,#F03333,20230113,Midna Ruda
 38.220_48.435,#1ea0e6,20220228,[[Svitlodarsk]]
+36.758_50.039,#1ea0e6,20220607,Molodova
 38.220_48.435,#1ea0e6,20220328,[[Svitlodarsk]]
 38.220_48.435,#1ea0e6,20220428,[[Svitlodarsk]]
 38.220_48.435,#F03333,20220728,[[Svitlodarsk]]
@@ -11369,6 +11636,7 @@ id,color,date,label
 35.521_48.323,#1ea0e6,20220728,[[Synelnykove]]
 33.954_47.309,#1ea0e6,20230113,Myhailivka
 35.521_48.323,#1ea0e6,20221128,[[Synelnykove]]
+35.598_47.471,#F03333,20220607,Myrne
 34.549_46.384,#F03333,20220228,[[Syvaske]]
 34.549_46.384,#F03333,20220328,[[Syvaske]]
 34.549_46.384,#F03333,20220428,[[Syvaske]]
@@ -11388,6 +11656,7 @@ id,color,date,label
 30.497_49.562,#1ea0e6,20220328,[[Tarashcha]]
 30.497_49.562,#1ea0e6,20220428,[[Tarashcha]]
 30.497_49.562,#1ea0e6,20220728,[[Tarashcha]]
+38.273_48.459,#F03333,20220607,Myronivskyi
 30.497_49.562,#1ea0e6,20221128,[[Tarashcha]]
 29.147_46.189,#1ea0e6,20220328,[[Tarutyne]]
 29.147_46.189,#1ea0e6,20220428,[[Tarutyne]]
@@ -11403,6 +11672,7 @@ id,color,date,label
 36.877_49.391,#1ea0e6,20230113,Nova Husarivka
 33.422_46.753,#F03333,20220728,[[Tavriisk]]
 33.422_46.753,#F03333,20221128,[[Tavriisk]]
+32.093_46.745,#1ea0e6,20220607,Nova Zorya
 38.018_47.412,#F03333,20220328,[[Telmanove]]
 38.018_47.412,#F03333,20220428,[[Telmanove]]
 38.018_47.412,#F03333,20220728,[[Telmanove]]
@@ -11422,6 +11692,7 @@ id,color,date,label
 25.700_49.525,#1ea0e6,20220728,[[Ternopil Airport]]
 25.700_49.525,#1ea0e6,20221128,[[Ternopil Airport]]
 25.600_49.566,#1ea0e6,20220228,[[Ternopil]]
+36.982_48.635,#1ea0e6,20220607,Novodonetske
 25.600_49.566,#1ea0e6,20220328,[[Ternopil]]
 25.600_49.566,#1ea0e6,20220428,[[Ternopil]]
 25.600_49.566,#1ea0e6,20220728,[[Ternopil]]
@@ -11434,6 +11705,7 @@ id,color,date,label
 37.964_49.095,#1ea0e6,20221128,[[Terny]]
 29.658_49.366,#1ea0e6,20220228,[[Tetiiv]]
 29.658_49.366,#1ea0e6,20220328,[[Tetiiv]]
+33.874_47.266,#F03333,20220607,Novooleksandrivka
 29.658_49.366,#1ea0e6,20220428,[[Tetiiv]]
 29.658_49.366,#1ea0e6,20220728,[[Tetiiv]]
 29.658_49.366,#1ea0e6,20221128,[[Tetiiv]]
@@ -11444,6 +11716,7 @@ id,color,date,label
 33.874_47.266,#1ea0e6,20230113,Novooleksandrivka
 35.715_47.250,#F03333,20220428,[[Tokmak, Ukraine|Tokmak]]
 35.218_47.259,#F03333,20220728,[[Tokmak, Ukraine|Tokmak]]
+32.670_47.056,#1ea0e6,20220607,Novopetrivka
 35.715_47.250,#F03333,20220728,[[Tokmak, Ukraine|Tokmak]]
 35.218_47.259,#F03333,20221128,[[Tokmak, Ukraine|Tokmak]]
 35.715_47.250,#F03333,20221128,[[Tokmak, Ukraine|Tokmak]]
@@ -11455,6 +11728,7 @@ id,color,date,label
 32.670_47.056,#1ea0e6,20230113,Novopetrivka
 37.855_48.397,#1ea0e6,20220328,[[Toretsk]]
 37.855_48.397,#1ea0e6,20220428,[[Toretsk]]
+33.486_47.009,#F03333,20220607,Novoraisk
 37.855_48.397,#1ea0e6,20220728,[[Toretsk]]
 37.855_48.397,#1ea0e6,20221128,[[Toretsk]]
 38.558_48.779,#F03333,20220728,[[Toshkivka]]
@@ -11464,6 +11738,7 @@ id,color,date,label
 38.376_48.524,#F03333,20220428,[[Troitske]]
 33.486_47.009,#1ea0e6,20230113,Novoraisk
 38.376_48.524,#F03333,20220728,[[Troitske]]
+36.685_47.839,#1ea0e6,20220607,Novosilka
 38.302_49.905,#F03333,20220728,[[Troitske]]
 38.376_48.524,#F03333,20221128,[[Troitske]]
 38.302_49.905,#F03333,20221128,[[Troitske]]
@@ -11481,6 +11756,7 @@ id,color,date,label
 23.506_49.278,#1ea0e6,20220728,[[Truskavets]]
 23.506_49.278,#1ea0e6,20221128,[[Truskavets]]
 34.470_48.947,#1ea0e6,20220328,[[Tsarychanka]]
+38.022_47.809,#F03333,20220607,Novyi Svit
 34.470_48.947,#1ea0e6,20220428,[[Tsarychanka]]
 34.470_48.947,#1ea0e6,20220728,[[Tsarychanka]]
 34.470_48.947,#1ea0e6,20221128,[[Tsarychanka]]
@@ -11500,6 +11776,7 @@ id,color,date,label
 37.363_48.097,#1ea0e6,20220428,[[Ukrainsk]]
 37.363_48.097,#1ea0e6,20220728,[[Ukrainsk]]
 37.363_48.097,#1ea0e6,20221128,[[Ukrainsk]]
+38.165_48.117,#F03333,20220607,Nyzhnia Krynka
 30.217_48.750,#1ea0e6,20220228,[[Uman]]
 30.217_48.750,#1ea0e6,20220328,[[Uman]]
 30.217_48.750,#1ea0e6,20220428,[[Uman]]
@@ -11509,6 +11786,7 @@ id,color,date,label
 39.153_48.391,#F03333,20220328,[[Uspenka]]
 38.165_48.117,#F03333,20230113,Nyzhnia Krynka
 39.153_48.391,#F03333,20220428,[[Uspenka]]
+35.822_50.364,#1ea0e6,20220607,Oleksandrivka
 39.153_48.391,#F03333,20220728,[[Uspenka]]
 39.153_48.391,#F03333,20221128,[[Uspenka]]
 38.562_48.822,#F03333,20220728,[[Ustynivka, Sievierodonetsk Raion|Ustynivka]]
@@ -11518,6 +11796,7 @@ id,color,date,label
 22.263_48.634,#1ea0e6,20220428,[[Uzhhorod International Airport]]
 35.822_50.364,#1ea0e6,20230113,Oleksandrivka
 22.263_48.634,#1ea0e6,20220728,[[Uzhhorod International Airport]]
+37.590_49.115,#F03333,20220607,Oleksandrivka, Kramatorsk Raion (Limanska)
 22.263_48.634,#1ea0e6,20221128,[[Uzhhorod International Airport]]
 22.295_48.623,#1ea0e6,20220228,[[Uzhhorod]]
 22.295_48.623,#1ea0e6,20220328,[[Uzhhorod]]
@@ -11535,6 +11814,7 @@ id,color,date,label
 30.405_49.825,#1ea0e6,20220728,[[Uzyn]]
 30.405_49.825,#1ea0e6,20221128,[[Uzyn]]
 38.839_48.161,#F03333,20220228,[[Vakhrusheve]]
+37.616_48.580,#1ea0e6,20220607,Oleksijevo-Druzhkivka
 38.839_48.161,#F03333,20220328,[[Vakhrusheve]]
 38.839_48.161,#F03333,20220428,[[Vakhrusheve]]
 38.839_48.161,#F03333,20220728,[[Vakhrusheve]]
@@ -11549,6 +11829,7 @@ id,color,date,label
 25.851_51.345,#1ea0e6,20221128,[[Varash]]
 33.488_47.475,#1ea0e6,20230113,Olhyne
 32.719_50.496,#1ea0e6,20220228,[[Varva, Chernihiv |Varva]]
+37.916_48.899,#1ea0e6,20220607,Ozerne
 32.719_50.496,#1ea0e6,20220328,[[Varva, Chernihiv |Varva]]
 32.719_50.496,#1ea0e6,20220428,[[Varva, Chernihiv |Varva]]
 32.719_50.496,#1ea0e6,20220728,[[Varva, Chernihiv |Varva]]
@@ -11562,6 +11843,7 @@ id,color,date,label
 30.300_50.233,#1ea0e6,20220328,[[Vasylkiv Air Base]]
 30.300_50.233,#1ea0e6,20220428,[[Vasylkiv Air Base]]
 30.300_50.233,#1ea0e6,20220728,[[Vasylkiv Air Base]]
+37.218_47.754,#F03333,20220607,Pavlivka
 30.300_50.233,#1ea0e6,20221128,[[Vasylkiv Air Base]]
 30.320_50.177,#1ea0e6,20220228,[[Vasylkiv]]
 30.320_50.177,#1ea0e6,20220328,[[Vasylkiv]]
@@ -11581,6 +11863,7 @@ id,color,date,label
 31.071_49.012,#1ea0e6,20220228,[[Vatutine]]
 31.071_49.012,#1ea0e6,20220328,[[Vatutine]]
 31.071_49.012,#1ea0e6,20220428,[[Vatutine]]
+38.606_48.094,#F03333,20220607,Pelahiivka
 31.071_49.012,#1ea0e6,20220728,[[Vatutine]]
 31.071_49.012,#1ea0e6,20221128,[[Vatutine]]
 30.911_50.586,#1ea0e6,20220228,[[Velyka Dymerka]]
@@ -11596,6 +11879,7 @@ id,color,date,label
 33.937_47.163,#F03333,20220328,[[Velyka Lepetykha]]
 33.937_47.163,#F03333,20220428,[[Velyka Lepetykha]]
 33.937_47.163,#F03333,20220728,[[Velyka Lepetykha]]
+36.667_50.117,#1ea0e6,20220607,Peremoha
 33.937_47.163,#F03333,20221128,[[Velyka Lepetykha]]
 29.851_47.082,#1ea0e6,20220328,[[Velyka Mykhailivka]]
 29.851_47.082,#1ea0e6,20220428,[[Velyka Mykhailivka]]
@@ -11612,6 +11896,7 @@ id,color,date,label
 33.303_47.321,#F03333,20220428,[[Velyka Oleksandrivka]]
 33.303_47.321,#F03333,20220728,[[Velyka Oleksandrivka]]
 33.303_47.321,#1ea0e6,20221128,[[Velyka Oleksandrivka]]
+33.569_47.293,#F03333,20220607,Petropavlivka
 35.481_50.420,#F03333,20220228,[[Velyka Pysarivka]]
 35.481_50.420,#F03333,20220328,[[Velyka Pysarivka]]
 35.481_50.420,#1ea0e6,20220428,[[Velyka Pysarivka]]
@@ -11640,6 +11925,7 @@ id,color,date,label
 34.328_48.656,#1ea0e6,20220228,[[Verkhnodniprovsk]]
 34.337_48.648,#1ea0e6,20220328,[[Verkhnodniprovsk]]
 34.337_48.648,#1ea0e6,20220428,[[Verkhnodniprovsk]]
+37.905_48.401,#1ea0e6,20220607,Pivnichne
 34.337_48.648,#1ea0e6,20220728,[[Verkhnodniprovsk]]
 34.337_48.648,#1ea0e6,20221128,[[Verkhnodniprovsk]]
 34.909_47.019,#1ea0e6,20220228,[[Vesele, Zaporizhzhia |Vesele]]
@@ -11657,6 +11943,7 @@ id,color,date,label
 35.433_47.940,#1ea0e6,20220428,[[Vilniansk]]
 35.433_47.940,#1ea0e6,20220728,[[Vilniansk]]
 35.433_47.940,#1ea0e6,20221128,[[Vilniansk]]
+29.450_49.961,#1ea0e6,20220607,Popilnia
 34.028_48.478,#1ea0e6,20220228,[[Vilnohirsk]]
 34.021_48.480,#1ea0e6,20220328,[[Vilnohirsk]]
 34.021_48.480,#1ea0e6,20220428,[[Vilnohirsk]]
@@ -11677,6 +11964,7 @@ id,color,date,label
 37.483_47.595,#F03333,20220328,[[Volnovakha]]
 37.483_47.595,#F03333,20220428,[[Volnovakha]]
 37.483_47.595,#F03333,20220728,[[Volnovakha]]
+31.998_46.940,#1ea0e6,20220607,Port of Mykolaiv
 37.483_47.595,#F03333,20221128,[[Volnovakha]]
 29.920_49.527,#1ea0e6,20220228,[[Volodarka]]
 29.920_49.527,#1ea0e6,20220328,[[Volodarka]]
@@ -11685,6 +11973,7 @@ id,color,date,label
 29.920_49.527,#1ea0e6,20221128,[[Volodarka]]
 24.322_50.848,#1ea0e6,20220728,[[Volodymyr ()|Volodymyr]]
 31.998_46.940,#1ea0e6,20230113,Port of Mykolaiv
+33.526_44.616,#F03333,20220607,Port of Sevastopol
 24.322_50.848,#1ea0e6,20221128,[[Volodymyr ()|Volodymyr]]
 36.985_49.597,#1ea0e6,20221128,[[Volokhiv Yar]]
 33.472_51.771,#FACC34,20220228,[[Voronizh]]
@@ -11693,6 +11982,7 @@ id,color,date,label
 33.472_51.771,#1ea0e6,20220728,[[Voronizh]]
 33.472_51.771,#1ea0e6,20221128,[[Voronizh]]
 33.526_44.616,#F03333,20230113,Port of Sevastopol
+33.375_45.189,#F03333,20220607,Port of Yevpatoriya
 34.219_51.173,#F03333,20220228,[[Vorozhba]]
 34.219_51.173,#F03333,20220328,[[Vorozhba]]
 34.219_51.173,#1ea0e6,20220428,[[Vorozhba]]
@@ -11704,6 +11994,7 @@ id,color,date,label
 30.149_50.544,#1ea0e6,20220428,[[Vorzel]]
 30.149_50.544,#1ea0e6,20220728,[[Vorzel]]
 30.149_50.544,#1ea0e6,20221128,[[Vorzel]]
+36.913_49.243,#1ea0e6,20220607,Protopopivka
 36.933_50.284,#F03333,20220228,[[Vovchansk]]
 36.933_50.284,#F03333,20220328,[[Vovchansk]]
 36.933_50.284,#F03333,20220428,[[Vovchansk]]
@@ -11713,6 +12004,7 @@ id,color,date,label
 31.336_47.561,#1ea0e6,20220428,[[Voznesensk]]
 36.913_49.243,#1ea0e6,20230113,Protopopivka
 31.336_47.561,#1ea0e6,20220728,[[Voznesensk]]
+36.273_50.193,#1ea0e6,20220607,Pytomnyk
 31.336_47.561,#1ea0e6,20221128,[[Voznesensk]]
 30.591_47.866,#1ea0e6,20220328,[[Vradiivka]]
 30.591_47.866,#1ea0e6,20220428,[[Vradiivka]]
@@ -11732,6 +12024,7 @@ id,color,date,label
 29.596_45.400,#1ea0e6,20220428,[[Vylkove]]
 29.596_45.400,#1ea0e6,20220728,[[Vylkove]]
 29.596_45.400,#1ea0e6,20221128,[[Vylkove]]
+39.028_48.559,#F03333,20220607,Rodakove
 23.025_48.150,#1ea0e6,20220228,[[Vynohradiv]]
 23.025_48.150,#1ea0e6,20220328,[[Vynohradiv]]
 23.025_48.150,#1ea0e6,20220428,[[Vynohradiv]]
@@ -11749,6 +12042,7 @@ id,color,date,label
 30.368_50.392,#1ea0e6,20220228,[[Vyshneve ()|Vyshneve]]
 30.368_50.392,#1ea0e6,20220328,[[Vyshneve ()|Vyshneve]]
 30.368_50.392,#1ea0e6,20220428,[[Vyshneve ()|Vyshneve]]
+38.563_48.129,#F03333,20220607,Rozsypne
 30.368_50.392,#1ea0e6,20220728,[[Vyshneve ()|Vyshneve]]
 30.368_50.392,#1ea0e6,20221128,[[Vyshneve ()|Vyshneve]]
 33.532_47.494,#F03333,20220328,[[Vysokopillia]]
@@ -11757,6 +12051,7 @@ id,color,date,label
 33.532_47.489,#1ea0e6,20221128,[[Vysokopillia]]
 36.118_49.885,#1ea0e6,20220228,[[Vysokyi]]
 38.563_48.129,#F03333,20230113,Rozsypne
+36.821_50.167,#F03333,20220607,Rubizhne
 36.118_49.885,#1ea0e6,20220328,[[Vysokyi]]
 36.118_49.885,#1ea0e6,20220428,[[Vysokyi]]
 36.118_49.885,#1ea0e6,20220728,[[Vysokyi]]
@@ -11766,6 +12061,7 @@ id,color,date,label
 31.782_50.257,#1ea0e6,20220428,[[Yahotyn]]
 36.821_50.167,#1ea0e6,20230113,Rubizhne
 31.782_50.257,#1ea0e6,20220728,[[Yahotyn]]
+36.403_50.136,#1ea0e6,20220607,Ruski Tyshky
 31.782_50.257,#1ea0e6,20221128,[[Yahotyn]]
 35.165_46.698,#F03333,20220228,[[Yakymivka]]
 35.165_46.698,#F03333,20220328,[[Yakymivka]]
@@ -11775,6 +12071,7 @@ id,color,date,label
 34.170_44.499,#F03333,20220228,[[Yalta]]
 36.403_50.136,#1ea0e6,20230113,Ruski Tyshky
 34.170_44.499,#F03333,20220328,[[Yalta]]
+37.720_49.091,#F03333,20220607,Shandryholove
 34.170_44.499,#F03333,20220428,[[Yalta]]
 34.170_44.499,#F03333,20220728,[[Yalta]]
 34.170_44.499,#F03333,20221128,[[Yalta]]
@@ -11793,6 +12090,7 @@ id,color,date,label
 33.853_47.358,#1ea0e6,20230113,Shevchekivka
 23.500_50.006,#1ea0e6,20220728,[[Yavoriv military base]]
 23.500_50.006,#1ea0e6,20221128,[[Yavoriv military base]]
+32.676_47.099,#1ea0e6,20220607,Shyroke
 27.804_50.875,#1ea0e6,20220328,[[Yemilchyne]]
 27.804_50.875,#1ea0e6,20220428,[[Yemilchyne]]
 27.804_50.875,#1ea0e6,20220728,[[Yemilchyne]]
@@ -11807,6 +12105,7 @@ id,color,date,label
 33.377_45.242,#F03333,20220728,[[Yevpatoria Airport]]
 33.377_45.242,#F03333,20221128,[[Yevpatoria Airport]]
 33.368_45.193,#F03333,20220228,[[Yevpatoria]]
+38.689_48.085,#F03333,20220607,Sieverne
 33.368_45.193,#F03333,20220328,[[Yevpatoria]]
 33.368_45.193,#F03333,20220428,[[Yevpatoria]]
 33.368_45.193,#F03333,20220728,[[Yevpatoria]]
@@ -11820,6 +12119,7 @@ id,color,date,label
 39.174_48.553,#F03333,20220728,[[Yuvileine]]
 39.174_48.553,#F03333,20221128,[[Yuvileine]]
 31.100_46.624,#1ea0e6,20220328,[[Yuzhne]]
+31.366_51.335,#1ea0e6,20220607,Sloboda
 31.100_46.624,#1ea0e6,20220428,[[Yuzhne]]
 31.100_46.624,#1ea0e6,20220728,[[Yuzhne]]
 31.100_46.624,#1ea0e6,20221128,[[Yuzhne]]
@@ -11837,6 +12137,7 @@ id,color,date,label
 37.898_48.369,#1ea0e6,20220728,[[Zalizne]]
 37.898_48.369,#1ea0e6,20221128,[[Zalizne]]
 33.285_45.161,#F03333,20220328,[[Zaozerne]]
+38.160_48.265,#F03333,20220607,Sofiivka
 33.285_45.161,#F03333,20220428,[[Zaozerne]]
 33.285_45.161,#F03333,20220728,[[Zaozerne]]
 33.285_45.161,#F03333,20221128,[[Zaozerne]]
@@ -11886,6 +12187,7 @@ id,color,date,label
 33.647_47.566,#1ea0e6,20221128,[[Zelenodolsk, Ukraine|Zelenodolsk]]
 33.646_47.566,#1ea0e6,20220228,[[Zelenodolsk]]
 32.418_46.829,#1ea0e6,20220728,[[Zelenyi Hai]]
+36.833_47.696,#F03333,20220607,Staromlynivka
 30.111_49.236,#1ea0e6,20220228,[[Zhashkiv]]
 30.111_49.236,#1ea0e6,20220328,[[Zhashkiv]]
 30.111_49.236,#1ea0e6,20220428,[[Zhashkiv]]
@@ -11909,6 +12211,7 @@ id,color,date,label
 24.450_50.917,#1ea0e6,20220428,[[Zhovtneve Air Base]]
 24.450_50.917,#1ea0e6,20220728,[[Zhovtneve Air Base]]
 24.450_50.917,#1ea0e6,20221128,[[Zhovtneve Air Base]]
+37.486_47.159,#F03333,20220607,Staryi Krym
 28.666_50.250,#1ea0e6,20220228,[[Zhytomyr]]
 28.659_50.255,#1ea0e6,20220328,[[Zhytomyr]]
 28.659_50.255,#1ea0e6,20220428,[[Zhytomyr]]
@@ -11930,6 +12233,7 @@ id,color,date,label
 37.773_49.848,#FACC34,20230113,Tavlizhanka
 35.976_50.269,#1ea0e6,20220428,[[Zolochiv, Kharkiv |Zolochiv]]
 35.976_50.269,#1ea0e6,20220728,[[Zolochiv, Kharkiv |Zolochiv]]
+32.103_46.726,#1ea0e6,20220607,Tavriyske
 35.976_50.269,#1ea0e6,20221128,[[Zolochiv, Kharkiv |Zolochiv]]
 24.903_49.807,#1ea0e6,20220728,[[Zolochiv, Lviv |Zolochiv]]
 24.903_49.807,#1ea0e6,20221128,[[Zolochiv, Lviv |Zolochiv]]
@@ -11948,6 +12252,7 @@ id,color,date,label
 38.617_48.417,#F03333,20220428,[[Zorynsk]]
 38.617_48.417,#F03333,20220728,[[Zorynsk]]
 38.617_48.417,#F03333,20221128,[[Zorynsk]]
+39.421_48.838,#F03333,20220607,Teple
 38.261_48.022,#F03333,20220228,[[Zuhres]]
 38.261_48.022,#F03333,20220328,[[Zuhres]]
 38.261_48.022,#F03333,20220428,[[Zuhres]]
@@ -11961,6 +12266,7 @@ id,color,date,label
 30.968_49.070,#1ea0e6,20221128,[[Zvenyhorodka]]
 38.933_48.583,#F03333,20220228,[[Zymohiria]]
 38.933_48.583,#F03333,20220328,[[Zymohiria]]
+37.964_49.015,#F03333,20220607,Torske
 38.933_48.583,#F03333,20220428,[[Zymohiria]]
 38.933_48.583,#F03333,20220728,[[Zymohiria]]
 38.933_48.583,#F03333,20221128,[[Zymohiria]]
@@ -11972,6 +12278,7 @@ id,color,date,label
 37.610_47.098,#F03333,20220728,Azovstal Metallurgical Combine
 37.610_47.098,#F03333,20221128,Azovstal Metallurgical Combine
 36.835_49.416,#1ea0e6,20221128,Bairak
+36.388_50.085,#1ea0e6,20220607,Tsyrkuny
 32.444_46.810,#1ea0e6,20220728,Barvinok
 36.961_49.830,#1ea0e6,20220428,Bazaliivka
 36.961_49.830,#1ea0e6,20220728,Bazaliivka
@@ -11982,6 +12289,7 @@ id,color,date,label
 36.388_50.085,#1ea0e6,20230113,Tsyrkuny
 39.049_48.501,#F03333,20220328,Bile
 39.049_48.501,#F03333,20220428,Bile
+33.054_46.782,#F03333,20220607,Tyahynka
 39.049_48.501,#F03333,20220728,Bile
 39.049_48.501,#F03333,20221128,Bile
 33.702_47.324,#F03333,20220428,Bilyaivka
@@ -11998,6 +12306,7 @@ id,color,date,label
 38.564_48.871,#F03333,20220428,Borivske
 38.564_48.871,#F03333,20220728,Borivske
 37.330_49.639,#1ea0e6,20221128,Borivske
+33.783_47.323,#F03333,20220607,Ukrainka
 38.564_48.871,#F03333,20221128,Borivske
 33.419_47.178,#1ea0e6,20221128,Borozenske
 36.970_49.503,#1ea0e6,20221128,Borshchyvka
@@ -12009,6 +12318,7 @@ id,color,date,label
 37.500_48.840,#1ea0e6,20220428,Bylbasivka
 31.790_46.529,#F03333,20230113,Vasylivka
 37.500_48.840,#1ea0e6,20220728,Bylbasivka
+36.711_49.982,#1ea0e6,20220607,Velyka Babka
 37.500_48.840,#1ea0e6,20221128,Bylbasivka
 29.884_50.266,#1ea0e6,20220428,Byshiv
 29.884_50.266,#1ea0e6,20220728,Byshiv
@@ -12019,6 +12329,7 @@ id,color,date,label
 36.711_49.982,#1ea0e6,20230113,Velyka Babka
 36.237_50.233,#1ea0e6,20221128,Dementiivka
 37.850_48.920,#1ea0e6,20221128,Dibrova
+37.126_49.034,#1ea0e6,20220607,Virnopillya
 37.319_49.018,#1ea0e6,20220428,Dovhenke
 37.319_49.018,#1ea0e6,20220728,Dovhenke
 37.319_49.018,#1ea0e6,20221128,Dovhenke
@@ -12036,6 +12347,7 @@ id,color,date,label
 37.915_49.246,#1ea0e6,20221128,Hrekivka
 37.472_49.676,#1ea0e6,20221128,Hrushivka
 37.710_49.841,#1ea0e6,20221128,Hryanikivka
+37.378_47.736,#1ea0e6,20220607,Volodymyrivka
 36.815_49.358,#1ea0e6,20221128,Husarivka
 36.127_47.495,#F03333,20220728,Inzhenerne
 36.127_47.495,#F03333,20221128,Inzhenerne
@@ -12045,6 +12357,7 @@ id,color,date,label
 38.942_48.235,#F03333,20220728,Ivanivka
 37.378_47.736,#F03333,20230113,Volodymyrivka
 38.942_48.235,#F03333,20221128,Ivanivka
+38.573_48.897,#F03333,20220607,Voronove
 37.726_49.175,#1ea0e6,20221128,Karpivka
 37.865_49.182,#1ea0e6,20221128,Katerynivka
 36.876_50.023,#F03333,20220728,Khotimlya
@@ -12054,6 +12367,7 @@ id,color,date,label
 33.824_47.384,#1ea0e6,20221128,Khreshchenivka
 38.573_48.897,#F03333,20230113,Voronove
 37.683_49.629,#1ea0e6,20221128,Kisharivka
+38.446_48.980,#F03333,20220607,Voyevodivka
 36.738_49.878,#FACC34,20220428,Kochetok
 36.738_49.878,#1ea0e6,20220728,Kochetok
 36.738_49.878,#1ea0e6,20221128,Kochetok
@@ -12073,6 +12387,7 @@ id,color,date,label
 36.469_50.043,#1ea0e6,20220428,Kutuzivka
 36.469_50.043,#1ea0e6,20220728,Kutuzivka
 36.915_49.529,#1ea0e6,20230113,Yakovenkove
+37.267_46.967,#F03333,20220607,Yalta
 36.469_50.043,#1ea0e6,20221128,Kutuzivka
 32.408_46.755,#F03333,20220728,Kyselivka
 32.408_46.755,#1ea0e6,20221128,Kyselivka
@@ -12097,6 +12412,7 @@ id,color,date,label
 36.544_50.146,#1ea0e6,20221128,Male Vesele
 37.705_49.245,#1ea0e6,20221128,Maliivka
 33.922_47.546,#1ea0e6,20220428,Mar yans ke
+39.216_48.160,#F03333,20220607,Yasenivskyi
 33.922_47.546,#1ea0e6,20220728,Mar yans ke
 33.922_47.546,#1ea0e6,20221128,Mar yans ke
 38.205_48.552,#F03333,20220728,Midna Ruda
@@ -12114,6 +12430,7 @@ id,color,date,label
 36.877_49.391,#1ea0e6,20221128,Nova Husarivka
 32.093_46.745,#1ea0e6,20220728,Nova Zorya
 37.831_49.163,#1ea0e6,20221128,Nove
+37.564_48.766,#1ea0e6,20220607,Yasnohirka
 36.960_47.755,#1ea0e6,20220328,Novodonetske
 36.960_47.755,#1ea0e6,20220428,Novodonetske
 36.982_48.635,#1ea0e6,20220728,Novodonetske
@@ -12130,6 +12447,7 @@ id,color,date,label
 36.685_47.839,#1ea0e6,20220728,Novosilka
 36.685_47.839,#1ea0e6,20221128,Novosilka
 38.022_47.809,#F03333,20220328,Novyi Svit
+37.050_49.154,#FACC34,20220607,Zavody
 38.022_47.809,#F03333,20220428,Novyi Svit
 38.022_47.809,#F03333,20220728,Novyi Svit
 38.022_47.809,#F03333,20221128,Novyi Svit
@@ -12139,6 +12457,7 @@ id,color,date,label
 38.165_48.117,#F03333,20220728,Nyzhnia Krynka
 37.050_49.154,#FACC34,20230113,Zavody
 38.165_48.117,#F03333,20221128,Nyzhnia Krynka
+36.621_47.830,#1ea0e6,20220607,Zelene Pole
 35.822_50.364,#1ea0e6,20220728,Oleksandrivka
 35.822_50.364,#1ea0e6,20221128,Oleksandrivka
 37.590_49.115,#F03333,20220728,Oleksandrivka, Kramatorsk Raion (Limanska)
@@ -12150,6 +12469,7 @@ id,color,date,label
 37.616_48.580,#1ea0e6,20221128,Oleksijevo-Druzhkivka
 33.488_47.475,#1ea0e6,20221128,Olhyne
 37.916_48.899,#1ea0e6,20220728,Ozerne
+38.170_49.097,#F03333,20220607,Zhytlivka
 37.916_48.899,#1ea0e6,20221128,Ozerne
 37.218_47.754,#F03333,20220428,Pavlivka
 37.218_47.754,#1ea0e6,20220728,Pavlivka
@@ -12177,6 +12497,30 @@ id,color,date,label
 37.905_48.401,#1ea0e6,20220728,Pivnichne
 37.905_48.401,#1ea0e6,20221128,Pivnichne
 29.450_49.961,#1ea0e6,20220328,Popilnia
+33.622_47.463,#1ea0e6,20220607,NA
+33.601_47.428,#1ea0e6,20220607,NA
+33.697_47.448,#1ea0e6,20220607,NA
+26.821_50.119,#1ea0e6,20220607,NA
+26.971_49.652,#1ea0e6,20220607,NA
+26.201_49.538,#1ea0e6,20220607,NA
+32.765_48.111,#1ea0e6,20220607,NA
+29.867_48.333,#1ea0e6,20220607,NA
+31.527_48.316,#1ea0e6,20220607,NA
+23.644_49.783,#1ea0e6,20220607,NA
+23.979_49.525,#1ea0e6,20220607,NA
+24.130_49.816,#1ea0e6,20220607,NA
+23.393_49.947,#1ea0e6,20220607,NA
+23.977_50.055,#1ea0e6,20220607,NA
+26.739_50.997,#1ea0e6,20220607,NA
+26.517_50.333,#1ea0e6,20220607,NA
+24.936_49.446,#1ea0e6,20220607,NA
+25.690_49.300,#1ea0e6,20220607,NA
+25.778_49.667,#1ea0e6,20220607,NA
+28.523_49.447,#1ea0e6,20220607,NA
+28.850_48.674,#1ea0e6,20220607,NA
+24.965_51.620,#1ea0e6,20220607,NA
+25.461_50.833,#1ea0e6,20220607,NA
+25.270_50.913,#1ea0e6,20220607,NA
 29.450_49.961,#1ea0e6,20220428,Popilnia
 29.450_49.961,#1ea0e6,20220728,Popilnia
 29.450_49.961,#1ea0e6,20221128,Popilnia
